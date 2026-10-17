@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#08111d">
+  <meta name="description" content="NFL TD Lab historical touchdown-probability backtests, performance metrics, and model limitations.">
+  <title>NFL TD Lab | Model Performance</title>
+  <link rel="stylesheet" href="./styles.css">
+  <link rel="icon" href="./icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="./icon-192.png">
+  <style>
+    .perf-hero{max-width:980px;padding:55px 0 27px}
+    .perf-hero h1{font-weight:900;letter-spacing:-.055em;font-size:clamp(38px,5vw,64px);line-height:1.05;margin:17px 0}
+    .perf-hero h1 em{font-style:normal;color:var(--lime,#baf080)}
+    .perf-intro{color:#acbdc7;line-height:1.7;max-width:740px;font-size:15px}
+    .perf-kpis{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:13px;margin:20px 0 26px}
+    .perf-kpi{background:#15283a;border:1px solid #2c4558;border-radius:14px;padding:20px}
+    .perf-kpi strong{font-size:31px;font-weight:900;letter-spacing:-.035em;display:block;color:#d9f4ed}
+    .perf-kpi span{display:block;font-size:10px;color:#9ab0bf;text-transform:uppercase;font-weight:850;letter-spacing:.11em;margin-top:7px}
+    .perf-grid{display:grid;grid-template-columns:minmax(0,1.45fr) minmax(0,1fr);gap:17px;align-items:start}
+    .perf-panel{background:#101f30;border:1px solid #294256;border-radius:15px;padding:22px;margin-bottom:17px}
+    .perf-panel h2{font-size:20px;margin:0 0 6px;letter-spacing:-.03em}
+    .perf-panel p{color:#a6bcc7;font-size:12px;line-height:1.65;margin:7px 0 18px}
+    .perf-table{border-collapse:collapse;width:100%;font-size:13px}
+    .perf-table th{text-align:left;font-size:10px;letter-spacing:.08em;color:#90abbc;text-transform:uppercase;padding:10px 7px;border-bottom:1px solid #385067}
+    .perf-table td{padding:13px 7px;border-bottom:1px solid #263c4f;color:#e0edf3;white-space:nowrap}
+    .perf-table th:not(:first-child),.perf-table td:not(:first-child){text-align:right}
+    .perf-table tr.highlight td{color:#c6f38c;font-weight:800}
+    .perf-chart-row{display:grid;grid-template-columns:93px minmax(0,1fr) 62px;gap:8px;align-items:center;font-size:12px;color:#d5e7ef;margin:14px 0}
+    .perf-chart-track{height:11px;border-radius:100px;background:#2c4254;overflow:hidden}
+    .perf-chart-bar{height:100%;background:#758d99;border-radius:100px}
+    .perf-chart-bar.featured{background:linear-gradient(90deg,#51b49d,#c8f079)}
+    .perf-chart-num{font-variant-numeric:tabular-nums;text-align:right;font-weight:800}
+    .perf-pill{display:inline-block;color:#c6f38c;background:#203d34;border:1px solid #3e6950;border-radius:7px;padding:5px 8px;font-size:10px;font-weight:850;letter-spacing:.07em;text-transform:uppercase}
+    .perf-note{background:#1e2c36;border:1px solid #46505a;border-radius:10px;padding:14px 16px;color:#d6dfe5;font-size:12px;line-height:1.65;margin:16px 0}
+    .perf-metric-pair{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin:17px 0}
+    .perf-metric-pair div{background:#182e3d;padding:14px;border-radius:10px;border:1px solid #2d4b56}
+    .perf-metric-pair strong{font-size:25px;display:block;font-weight:850;color:#d4f3db}
+    .perf-metric-pair span{color:#aac2cb;font-size:11px}
+    .perf-limitation{padding:11px 0;border-bottom:1px solid #253a4a}
+    .perf-limitation strong{display:block;font-size:13px;color:#e2eaf0;margin-bottom:4px}
+    .perf-limitation p{margin:0;font-size:12px}
+    .perf-state{min-height:200px}
+    .perf-foot{margin:21px 0 48px;color:#849ba9;font-size:11px;line-height:1.7}
+    @media(max-width:850px){.perf-grid{grid-template-columns:1fr}.perf-hero{padding:36px 0 17px}}
+    @media(max-width:550px){.perf-kpis{grid-template-columns:1fr 1fr}.perf-kpi{padding:13px}.perf-kpi strong{font-size:24px}.perf-kpi:nth-child(3){grid-column:span 2}.perf-panel{padding:16px}.perf-table{font-size:11px}.perf-table td{padding:11px 4px}.perf-table th{padding:9px 4px;font-size:9px}.perf-chart-row{grid-template-columns:83px minmax(0,1fr) 56px}}
+  </style>
+</head>
+<body>
+ <div class="shell">
+  <header class="masthead">
+    <div class="brand"><span class="brand-mark" aria-hidden="true">TD<span class="brand-dot">.</span></span><div class="brand-copy"><strong>NFL TD LAB</strong><span>THE MATCHUP ENGINE</span></div></div>
+    <div class="header-status"><span class="pulse-dot" aria-hidden="true"></span><span>MODEL RESEARCH</span></div>
+  </header>
+  <nav class="lab-nav" aria-label="NFL TD Lab navigation">
+    <a class="lab-nav-link" href="./index.html">Matchup projections</a>
+    <a class="lab-nav-link active" aria-current="page" href="./performance.html">Model performance</a>
+  </nav>
+  <section class="perf-hero">
+    <div class="eyebrow">MODEL VALIDATION / TRANSPARENT RESULTS</div>
+    <h1>Every prediction.<br><em>Accountable to reality.</em></h1>
+    <p class="perf-intro">We backtest touchdown probabilities against actual outcomes. Below is a historical development benchmark—not a verified live prediction track record, not a claim of profitable odds, and not proof of a future edge.</p>
+  </section>
+  <div class="data-banner" role="status"><span class="info-glyph" aria-hidden="true">i</span><div><strong>Historical 2025 evaluation (trained on 2024).</strong> <span>2025 has been examined repeatedly while developing the model. This is not a new untouched confirmation test.</span></div></div>
+  <div id="perf-data" class="perf-state" aria-live="polite"><div class="perf-panel"><h2>Loading historical validation…</h2><p>Reading our saved historical results.</p></div></div>
+  <footer class="perf-foot">NFL TD Lab · The model currently predicts rushing and receiving touchdowns, not every possible special-teams or recovery TD. Historical reporting reflects prior game data, with limitations described above. Published forecasts are experimental.</footer>
+ </div>
+ <script src="./performance.js" defer></script>
+</body>
+</html>

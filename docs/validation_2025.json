@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "season_train": 2024,
+  "season_test": 2025,
+  "sample_predictions": 7011,
+  "source_note": "User's successful Phase 7 backtest output, October 17, 2026. Model trained on 2024, evaluated on 2025; 2025 was inspected repeatedly during development and should not be described as a fresh untouched holdout for model selection.",
+  "models": [
+    {"name":"Original", "brier":0.09696, "log_loss":0.32218},
+    {"name":"Phase 5 · Calibrated", "brier":0.09584, "log_loss":0.31617},
+    {"name":"Phase 6 · Defense", "brier":0.09583, "log_loss":0.31613},
+    {"name":"Phase 7 · Red zone", "brier":0.09565, "log_loss":0.31554}
+  ],
+  "average_phase7_probability": 0.136,
+  "actual_scoring_frequency": 0.127,
+  "high_probability_subset": {
+    "definition":"Players selected by Phase 6 predicted probability ≥ 40%",
+    "n":300,
+    "phase7_average_probability":0.474,
+    "actual_scoring_frequency":0.463,
+    "phase7_brier":0.24359
+  },
+  "postgame_row_audit": {
+    "n_missing":2360,
+    "n_total":7011,
+    "warning":"Missing a same-week stat row is known only after the game; do not use it as a live feature or a validated inactive indicator."
+  },
+  "live_2026_scoring_results": null
+}
