@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#08111d">
+<meta name="description" content="NFL TD Lab forward-tested touchdown prediction results.">
+<title>NFL TD Lab | Forward Tracking</title>
+<link rel="stylesheet" href="./styles.css">
+<link rel="icon" href="./icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="./icon-192.png">
+<style>
+.track-hero{padding:42px 0 23px;max-width:820px}.track-hero h1{font-size:clamp(37px,5vw,59px);font-weight:900;line-height:1.07;letter-spacing:-.05em;margin:12px 0}.track-hero h1 em{font-style:normal;color:var(--lime)}.track-hero p{font-size:14px;color:#a8bdc9;line-height:1.65}
+.track-kpis{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;margin:14px 0 24px}.track-kpi,.track-panel{border:1px solid #2b465b;background:#112335;border-radius:13px;padding:19px}.track-kpi strong{font-size:27px;color:#c9f0a9;display:block;font-weight:900;font-variant-numeric:tabular-nums}.track-kpi span{font-size:10px;color:#acc3cf;display:block;line-height:1.4;margin-top:7px;text-transform:uppercase;font-weight:750;letter-spacing:.07em}.track-panel{margin:16px 0 24px}.track-panel h2{font-size:18px;margin:2px 0 14px}.track-panel p{color:#acc2cf;font-size:13px;line-height:1.65}.track-table-wrap{overflow-x:auto}.track-table{width:100%;border-collapse:collapse;min-width:500px;font-size:12px}.track-table th,.track-table td{border-bottom:1px solid #294258;padding:12px 10px;text-align:left}.track-table th{color:#90aab9;font-size:10px;text-transform:uppercase;letter-spacing:.08em}.track-table td:nth-child(n+3),.track-table th:nth-child(n+3){text-align:right}.track-table td{color:#d6e5ec}.track-note{border:1px solid #5b5440;background:#302a25;color:#f1d8b0;padding:14px 16px;border-radius:11px;font-size:12px;line-height:1.7}.track-footer{color:#8599a8;font-size:11px;line-height:1.6;padding:27px 0 42px}
+@media(max-width:700px){.track-kpis{grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}.track-kpi{padding:13px}.track-kpi strong{font-size:23px}.track-hero{padding:30px 0 19px}}
+</style>
+</head>
+<body>
+<div class="shell">
+<header class="masthead"><div class="brand"><span class="brand-mark" aria-hidden="true">TD<span class="brand-dot">.</span></span><div class="brand-copy"><strong>NFL TD LAB</strong><span>THE MATCHUP ENGINE</span></div></div><div class="header-status"><span class="pulse-dot" aria-hidden="true"></span><span>FORWARD TESTING</span></div></header>
+<nav class="lab-nav" aria-label="NFL TD Lab navigation"><a class="lab-nav-link" href="./index.html">Matchup projections</a><a class="lab-nav-link" href="./performance.html">Model performance</a><a class="lab-nav-link active" aria-current="page" href="./forward.html">2026 tracking</a></nav>
+<section class="track-hero"><div class="eyebrow">PREGAME FORECASTS / POSTGAME RESULTS</div><h1>Forecast it.<br><em>Then grade it.</em></h1><p>Future NFL games are archived before kickoff. Once available, rushing and receiving TD results are matched to the original prediction, without rewriting it later.</p></section>
+<div class="data-banner"><span class="info-glyph" aria-hidden="true">i</span><div><strong>Forward tracking—not betting validation.</strong><span>Missing player stat records are unverified, not automatic misses. Historic 2025 development scores live under Model performance.</span></div></div>
+<main id="track-root" aria-live="polite"><section class="track-panel"><h2>Loading forward records…</h2><p>Waiting for the latest archived reports.</p></section></main>
+<footer class="track-footer">Experimental Phase 7 predictions. Player-name/team matching is conservative; active status is not independently verified. This log starts when Phase 14 is enabled—past forecasts cannot be recreated as pregame records.</footer>
+</div><script src="./forward.js" defer></script>
+</body></html>

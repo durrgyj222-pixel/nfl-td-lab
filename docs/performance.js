@@ -33,8 +33,8 @@
     calibrate.append(n('div','perf-note',`${high.n} higher-probability predictions (selected by Phase 6 ≥40%): Phase 7 averaged ${percent(high.phase7_average_probability)}; actual scoring was ${percent(high.actual_scoring_frequency)}. The subset was selected using a different model, so interpret carefully.`));
     right.append(calibrate);
     const status=box('2026 forward-testing record','A timestamp on an updated app proves the data refreshed—not whether a particular player scored or whether the predictions were accurate.');
-    status.append(n('span','perf-pill','Not yet scored'));
-    status.append(n('p','','No verified 2026 pregame forecast-versus-result record has been published. We will add one only after pregame snapshots and final game outcomes are reliably joined by player and game.'));
+    status.append(n('span','perf-pill','Separate forward log'));
+    status.append(n('p','','Live pregame forecasts and postgame matching are tracked separately under the 2026 tracking tab. This section remains a historical development benchmark.'));
     right.append(status);
     const limitations=box('Known limitations','Important before the model is treated as a serious predictive tool.');
     [
