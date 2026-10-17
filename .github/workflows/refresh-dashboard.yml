@@ -3,6 +3,9 @@ name: Refresh NFL TD Lab dashboard
 # Start with a manual test. Once it succeeds, we can add scheduled triggers.
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '17 12 * * 0,4,6'
+    - cron: '17 17 * * 1'
 
 permissions:
   contents: write
