@@ -1,0 +1,237 @@
+{
+  "captured_at_utc": "2026-10-17T15:30:41Z",
+  "forecast_generated_at_utc": "2026-10-17T15:30:28Z",
+  "game": "HOU @ JAX",
+  "kickoff_utc": "2026-10-18T13:30:00Z",
+  "model": "phase7",
+  "players": [
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Parker Washington",
+      "position": "WR",
+      "predicted_probability": 0.40787685,
+      "team": "JAX"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Bhayshul Tuten",
+      "position": "RB",
+      "predicted_probability": 0.40472304,
+      "team": "JAX"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Woody Marks",
+      "position": "RB",
+      "predicted_probability": 0.34726147,
+      "team": "HOU"
+    },
+    {
+      "availability": "EXCLUDED: REPORTED OUT",
+      "excluded_from_favorites": true,
+      "player": "David Montgomery",
+      "position": "RB",
+      "predicted_probability": 0.29708869,
+      "team": "HOU"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Brenton Strange",
+      "position": "TE",
+      "predicted_probability": 0.28612096,
+      "team": "JAX"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jakobi Meyers",
+      "position": "WR",
+      "predicted_probability": 0.26496772,
+      "team": "JAX"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Nico Collins",
+      "position": "WR",
+      "predicted_probability": 0.24128734,
+      "team": "HOU"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Xavier Hutchinson",
+      "position": "WR",
+      "predicted_probability": 0.2173579,
+      "team": "HOU"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Brian Thomas Jr.",
+      "position": "WR",
+      "predicted_probability": 0.21231088,
+      "team": "JAX"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Dalton Schultz",
+      "position": "TE",
+      "predicted_probability": 0.20498338,
+      "team": "HOU"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Josh Cameron",
+      "position": "WR",
+      "predicted_probability": 0.20127242,
+      "team": "JAX"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jaylin Noel",
+      "position": "WR",
+      "predicted_probability": 0.19206338,
+      "team": "HOU"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Chris Rodriguez Jr.",
+      "position": "RB",
+      "predicted_probability": 0.16243092,
+      "team": "JAX"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Kayshon Boutte",
+      "position": "WR",
+      "predicted_probability": 0.14969819,
+      "team": "HOU"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "C.J. Stroud",
+      "position": "QB",
+      "predicted_probability": 0.1353029,
+      "team": "HOU"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Foster Moreau",
+      "position": "TE",
+      "predicted_probability": 0.13348878,
+      "team": "HOU"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jared Wayne",
+      "position": "WR",
+      "predicted_probability": 0.09560966,
+      "team": "HOU"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Trevor Lawrence",
+      "position": "QB",
+      "predicted_probability": 0.09550345,
+      "team": "JAX"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Nate Boerkircher",
+      "position": "TE",
+      "predicted_probability": 0.08899177,
+      "team": "JAX"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Ameer Abdullah",
+      "position": "RB",
+      "predicted_probability": 0.07864133,
+      "team": "JAX"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "LeQuint Allen Jr.",
+      "position": "RB",
+      "predicted_probability": 0.06646772,
+      "team": "JAX"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Travis Hunter",
+      "position": "CB",
+      "predicted_probability": 0.0326875,
+      "team": "JAX"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Quintin Morris",
+      "position": "TE",
+      "predicted_probability": 0.03012923,
+      "team": "JAX"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Cade Stover",
+      "position": "TE",
+      "predicted_probability": 0.02385264,
+      "team": "HOU"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Brevin Jordan",
+      "position": "TE",
+      "predicted_probability": 0.01817632,
+      "team": "HOU"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Lewis Bond",
+      "position": "WR",
+      "predicted_probability": 0.01309585,
+      "team": "HOU"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Nick Mullens",
+      "position": "QB",
+      "predicted_probability": 0.01075199,
+      "team": "JAX"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Marlin Klein",
+      "position": "TE",
+      "predicted_probability": 0.0064821,
+      "team": "HOU"
+    }
+  ],
+  "provenance": "Published dashboard snapshot, archived by GitHub Actions before kickoff",
+  "schema_version": 1,
+  "season": 2026,
+  "week": 6
+}

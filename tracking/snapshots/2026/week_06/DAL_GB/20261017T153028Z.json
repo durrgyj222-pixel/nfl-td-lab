@@ -1,0 +1,237 @@
+{
+  "captured_at_utc": "2026-10-17T15:30:41Z",
+  "forecast_generated_at_utc": "2026-10-17T15:30:28Z",
+  "game": "DAL @ GB",
+  "kickoff_utc": "2026-10-19T00:20:00Z",
+  "model": "phase7",
+  "players": [
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Javonte Williams",
+      "position": "RB",
+      "predicted_probability": 0.5448675,
+      "team": "DAL"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "CeeDee Lamb",
+      "position": "WR",
+      "predicted_probability": 0.4330014,
+      "team": "DAL"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Christian Watson",
+      "position": "WR",
+      "predicted_probability": 0.41762635,
+      "team": "GB"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Matthew Golden",
+      "position": "WR",
+      "predicted_probability": 0.38597699,
+      "team": "GB"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "George Pickens",
+      "position": "WR",
+      "predicted_probability": 0.33686384,
+      "team": "DAL"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "MarShawn Lloyd",
+      "position": "RB",
+      "predicted_probability": 0.31693567,
+      "team": "GB"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Tucker Kraft",
+      "position": "TE",
+      "predicted_probability": 0.30527875,
+      "team": "GB"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jake Ferguson",
+      "position": "TE",
+      "predicted_probability": 0.2495388,
+      "team": "DAL"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Ryan Flournoy",
+      "position": "WR",
+      "predicted_probability": 0.24562651,
+      "team": "DAL"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Kaleb Johnson",
+      "position": "RB",
+      "predicted_probability": 0.16206081,
+      "team": "GB"
+    },
+    {
+      "availability": "EXCLUDED: REPORTED OUT",
+      "excluded_from_favorites": true,
+      "player": "Skyy Moore",
+      "position": "WR",
+      "predicted_probability": 0.16014964,
+      "team": "GB"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Dak Prescott",
+      "position": "QB",
+      "predicted_probability": 0.12371616,
+      "team": "DAL"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "KaVontae Turpin",
+      "position": "WR",
+      "predicted_probability": 0.12089356,
+      "team": "DAL"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Tyler Goodson",
+      "position": "RB",
+      "predicted_probability": 0.10004265,
+      "team": "DAL"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Chris Brooks",
+      "position": "RB",
+      "predicted_probability": 0.09294315,
+      "team": "GB"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Pierre Strong",
+      "position": "RB",
+      "predicted_probability": 0.08558466,
+      "team": "GB"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Bo Melton",
+      "position": "WR",
+      "predicted_probability": 0.0845533,
+      "team": "GB"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jonathan Mingo",
+      "position": "WR",
+      "predicted_probability": 0.0828423,
+      "team": "DAL"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jonnu Smith",
+      "position": "TE",
+      "predicted_probability": 0.06588136,
+      "team": "GB"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jordan Love",
+      "position": "QB",
+      "predicted_probability": 0.05889891,
+      "team": "GB"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Brevyn Spann-Ford",
+      "position": "TE",
+      "predicted_probability": 0.05807114,
+      "team": "DAL"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "J. Michael Sturdivant",
+      "position": "WR",
+      "predicted_probability": 0.05530947,
+      "team": "GB"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Hunter Luepke",
+      "position": "RB",
+      "predicted_probability": 0.04266985,
+      "team": "DAL"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Luke Schoonmaker",
+      "position": "TE",
+      "predicted_probability": 0.03739201,
+      "team": "DAL"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jayden Reed",
+      "position": "WR",
+      "predicted_probability": 0.03542404,
+      "team": "GB"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Mark Redman",
+      "position": "TE",
+      "predicted_probability": 0.03081082,
+      "team": "GB"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Emari Demercado",
+      "position": "RB",
+      "predicted_probability": 0.02842085,
+      "team": "DAL"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Tyrod Taylor",
+      "position": "QB",
+      "predicted_probability": 0.02819382,
+      "team": "GB"
+    }
+  ],
+  "provenance": "Published dashboard snapshot, archived by GitHub Actions before kickoff",
+  "schema_version": 1,
+  "season": 2026,
+  "week": 6
+}
