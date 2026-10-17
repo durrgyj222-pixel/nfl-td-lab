@@ -1,0 +1,51 @@
+name: Track NFL TD Lab forecasts
+
+# Follow every successful model refresh, plus independent checks after games.
+on:
+  workflow_dispatch:
+  workflow_run:
+    workflows: ["Refresh NFL TD Lab dashboard"]
+    types: [completed]
+  schedule:
+    - cron: '35 13 * * *'
+    - cron: '35 23 * * *'
+
+permissions:
+  contents: write
+
+# Share the same group as the existing refresh job: never commit on top of it.
+concurrency:
+  group: nfl-td-dashboard-refresh
+  cancel-in-progress: false
+
+jobs:
+  track:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Read current repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install certificate bundle
+        run: python -m pip install --upgrade certifi
+      - name: Test tracker (offline; writes no site data)
+        run: python scripts/track_predictions.py --self-test
+      - name: Archive pregame predictions and grade eligible completed games
+        run: python scripts/track_predictions.py --run
+      - name: Commit only forward-testing records
+        shell: bash
+        run: |
+          git add -A docs/forward_latest.json
+          if [ -d tracking ]; then git add -A tracking; fi
+          if git diff --cached --quiet; then
+            echo 'No new forecasts/results; nothing to commit.'
+          else
+            git -c user.name='github-actions[bot]' \
+                -c user.email='41898282+github-actions[bot]@users.noreply.github.com' \
+                commit -m 'Archive NFL TD forecasts and grade completed games'
+            git push
+          fi
