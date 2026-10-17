@@ -1,0 +1,47 @@
+name: Refresh NFL TD Lab dashboard
+
+# Start with a manual test. Once it succeeds, we can add scheduled triggers.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: nfl-td-dashboard-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Check out public site and model code
+        uses: actions/checkout@v4
+      - name: Install Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install trusted certificate bundle
+        run: python -m pip install --upgrade certifi
+      - name: Test model code and publishing checks
+        run: |
+          python td_phase7_fixed.py --self-test
+          python td_phase8_weather.py --self-test
+          python td_phase9_availability.py --self-test
+          python td_phase10_site.py --self-test
+          python scripts/refresh_dashboard.py --self-test
+      - name: Refresh and validate new weekly report
+        run: python scripts/refresh_dashboard.py --train-season 2024
+      - name: Commit only validated public dashboard data
+        shell: bash
+        run: |
+          git add docs/data.json
+          if git diff --cached --quiet; then
+            echo 'No new dashboard data; nothing to publish.'
+          else
+            git -c user.name='github-actions[bot]' \
+                -c user.email='41898282+github-actions[bot]@users.noreply.github.com' \
+                commit -m 'Refresh NFL TD Lab matchup snapshot'
+            git push
+          fi
