@@ -1,0 +1,245 @@
+{
+  "captured_at_utc": "2026-10-17T09:07:46Z",
+  "forecast_generated_at_utc": "2026-10-17T08:27:31Z",
+  "game": "NO @ NYG",
+  "kickoff_utc": "2026-10-18T17:00:00Z",
+  "model": "phase7",
+  "players": [
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Isaiah Likely",
+      "position": "TE",
+      "predicted_probability": 0.42190029,
+      "team": "NYG"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Malik Nabers",
+      "position": "WR",
+      "predicted_probability": 0.40037906,
+      "team": "NYG"
+    },
+    {
+      "availability": "UNCERTAIN: QUESTIONABLE",
+      "excluded_from_favorites": false,
+      "player": "Chris Olave",
+      "position": "WR",
+      "predicted_probability": 0.37479007,
+      "team": "NO"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Devaughn Vele",
+      "position": "WR",
+      "predicted_probability": 0.32140838,
+      "team": "NO"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Juwan Johnson",
+      "position": "TE",
+      "predicted_probability": 0.3101918,
+      "team": "NO"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Cam Skattebo",
+      "position": "RB",
+      "predicted_probability": 0.30923167,
+      "team": "NYG"
+    },
+    {
+      "availability": "UNCERTAIN: QUESTIONABLE",
+      "excluded_from_favorites": false,
+      "player": "Alvin Kamara",
+      "position": "RB",
+      "predicted_probability": 0.28886976,
+      "team": "NO"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Kendre Miller",
+      "position": "RB",
+      "predicted_probability": 0.24581832,
+      "team": "NO"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Noah Fant",
+      "position": "TE",
+      "predicted_probability": 0.17146,
+      "team": "NO"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Malachi Fields",
+      "position": "WR",
+      "predicted_probability": 0.16629527,
+      "team": "NYG"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Travis Etienne",
+      "position": "RB",
+      "predicted_probability": 0.15908364,
+      "team": "NO"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Darnell Mooney",
+      "position": "WR",
+      "predicted_probability": 0.15593383,
+      "team": "NYG"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Bryce Lance",
+      "position": "WR",
+      "predicted_probability": 0.13624411,
+      "team": "NO"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Najee Harris",
+      "position": "RB",
+      "predicted_probability": 0.12169498,
+      "team": "NYG"
+    },
+    {
+      "availability": "EXCLUDED: REPORTED OUT",
+      "excluded_from_favorites": true,
+      "player": "Theo Johnson",
+      "position": "TE",
+      "predicted_probability": 0.12152951,
+      "team": "NYG"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Tyler Shough",
+      "position": "QB",
+      "predicted_probability": 0.12149723,
+      "team": "NO"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "CJ Donaldson",
+      "position": "RB",
+      "predicted_probability": 0.10926208,
+      "team": "NO"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Tyrone Tracy Jr.",
+      "position": "RB",
+      "predicted_probability": 0.06257778,
+      "team": "NYG"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jameis Winston",
+      "position": "QB",
+      "predicted_probability": 0.05472121,
+      "team": "NYG"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Devin Singletary",
+      "position": "RB",
+      "predicted_probability": 0.04553481,
+      "team": "NYG"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Patrick Ricard",
+      "position": "RB",
+      "predicted_probability": 0.03060546,
+      "team": "NYG"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Barion Brown",
+      "position": "WR",
+      "predicted_probability": 0.02449423,
+      "team": "NO"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jaxson Dart",
+      "position": "QB",
+      "predicted_probability": 0.02188222,
+      "team": "NYG"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "J.J. McCarthy",
+      "position": "QB",
+      "predicted_probability": 0.01983736,
+      "team": "NYG"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Oscar Delp",
+      "position": "TE",
+      "predicted_probability": 0.01784826,
+      "team": "NO"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Braxton Berrios",
+      "position": "WR",
+      "predicted_probability": 0.01636003,
+      "team": "NYG"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Treyton Welch",
+      "position": "TE",
+      "predicted_probability": 0.01627219,
+      "team": "NO"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Odell Beckham Jr.",
+      "position": "WR",
+      "predicted_probability": 0.0155521,
+      "team": "NYG"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Kevin Austin Jr.",
+      "position": "WR",
+      "predicted_probability": 0.01112056,
+      "team": "NO"
+    }
+  ],
+  "provenance": "Published dashboard snapshot, archived by GitHub Actions before kickoff",
+  "schema_version": 1,
+  "season": 2026,
+  "week": 6
+}

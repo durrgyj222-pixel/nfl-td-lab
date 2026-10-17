@@ -1,0 +1,293 @@
+{
+  "captured_at_utc": "2026-10-17T09:07:46Z",
+  "forecast_generated_at_utc": "2026-10-17T08:27:31Z",
+  "game": "WAS @ SF",
+  "kickoff_utc": "2026-10-20T00:15:00Z",
+  "model": "phase7",
+  "players": [
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Christian McCaffrey",
+      "position": "RB",
+      "predicted_probability": 0.48216975,
+      "team": "SF"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Mike Evans",
+      "position": "WR",
+      "predicted_probability": 0.42502406,
+      "team": "SF"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "George Kittle",
+      "position": "TE",
+      "predicted_probability": 0.39655319,
+      "team": "SF"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Deebo Samuel Sr.",
+      "position": "WR",
+      "predicted_probability": 0.31818775,
+      "team": "SF"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jacory Croskey-Merritt",
+      "position": "RB",
+      "predicted_probability": 0.31699815,
+      "team": "WAS"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Stefon Diggs",
+      "position": "WR",
+      "predicted_probability": 0.27235173,
+      "team": "WAS"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Terry McLaurin",
+      "position": "WR",
+      "predicted_probability": 0.25695086,
+      "team": "WAS"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Rachaad White",
+      "position": "RB",
+      "predicted_probability": 0.20923181,
+      "team": "WAS"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Antonio Williams",
+      "position": "WR",
+      "predicted_probability": 0.19900072,
+      "team": "WAS"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Kaelon Black",
+      "position": "RB",
+      "predicted_probability": 0.18907699,
+      "team": "SF"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Brock Purdy",
+      "position": "QB",
+      "predicted_probability": 0.18494433,
+      "team": "SF"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Treylon Burks",
+      "position": "WR",
+      "predicted_probability": 0.18205437,
+      "team": "WAS"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jayden Daniels",
+      "position": "QB",
+      "predicted_probability": 0.15788011,
+      "team": "WAS"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Dyami Brown",
+      "position": "WR",
+      "predicted_probability": 0.14050838,
+      "team": "WAS"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Chig Okonkwo",
+      "position": "TE",
+      "predicted_probability": 0.13150407,
+      "team": "WAS"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Kyle Juszczyk",
+      "position": "FB",
+      "predicted_probability": 0.11304928,
+      "team": "SF"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Brandin Cooks",
+      "position": "WR",
+      "predicted_probability": 0.09979567,
+      "team": "SF"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jacob Cowing",
+      "position": "WR",
+      "predicted_probability": 0.09295874,
+      "team": "SF"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Austin Ekeler",
+      "position": "RB",
+      "predicted_probability": 0.08015007,
+      "team": "WAS"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Luke Farrell",
+      "position": "TE",
+      "predicted_probability": 0.06224281,
+      "team": "SF"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Demarcus Robinson",
+      "position": "WR",
+      "predicted_probability": 0.05923041,
+      "team": "SF"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "John Bates",
+      "position": "TE",
+      "predicted_probability": 0.05323168,
+      "team": "WAS"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Kaytron Allen",
+      "position": "RB",
+      "predicted_probability": 0.05261019,
+      "team": "WAS"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Colson Yankoff",
+      "position": "TE",
+      "predicted_probability": 0.05223155,
+      "team": "WAS"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Marcus Mariota",
+      "position": "QB",
+      "predicted_probability": 0.05014486,
+      "team": "WAS"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jordan James",
+      "position": "RB",
+      "predicted_probability": 0.03581594,
+      "team": "SF"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jordan Watkins",
+      "position": "WR",
+      "predicted_probability": 0.03528837,
+      "team": "SF"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Ben Sinnott",
+      "position": "TE",
+      "predicted_probability": 0.03317563,
+      "team": "WAS"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Athan Kaliakmanis",
+      "position": "QB",
+      "predicted_probability": 0.02864584,
+      "team": "WAS"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jaylin Lane",
+      "position": "WR",
+      "predicted_probability": 0.02270187,
+      "team": "WAS"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Brandon Coleman",
+      "position": "G",
+      "predicted_probability": 0.01885148,
+      "team": "WAS"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "KhaDarel Hodge",
+      "position": "WR",
+      "predicted_probability": 0.01825247,
+      "team": "SF"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Craig Reynolds",
+      "position": "RB",
+      "predicted_probability": 0.01743732,
+      "team": "WAS"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Mac Jones",
+      "position": "QB",
+      "predicted_probability": 0.01603196,
+      "team": "SF"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jake Brendel",
+      "position": "C",
+      "predicted_probability": 0.00898897,
+      "team": "SF"
+    }
+  ],
+  "provenance": "Published dashboard snapshot, archived by GitHub Actions before kickoff",
+  "schema_version": 1,
+  "season": 2026,
+  "week": 6
+}

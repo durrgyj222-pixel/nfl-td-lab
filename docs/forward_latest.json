@@ -1,14 +1,14 @@
 {
-  "schema_version": 1,
-  "generated_at_utc": "2026-10-17T00:00:00Z",
-  "model": "phase7",
-  "archived_games": 0,
-  "graded_games": 0,
+  "archived_games": 13,
   "archived_player_rows_in_graded_games": 0,
-  "graded_player_rows": 0,
-  "ungraded_player_rows": 0,
-  "scoring_rate_on_graded_rows": null,
   "brier_on_graded_rows": null,
-  "important_limitation": "Graded subset requires a same-week player stat row and excludes flagged OUT players. This is NOT a full active-roster evaluation; missing stat rows are not counted as zero touchdowns.",
-  "games": []
+  "games": [],
+  "generated_at_utc": "2026-10-17T09:07:46Z",
+  "graded_games": 0,
+  "graded_player_rows": 0,
+  "important_limitation": "Graded subset requires same-week stat row and excludes flagged OUT players. This is NOT a complete active-roster evaluation; missing rows do NOT equal zero touchdowns.",
+  "model": "phase7",
+  "schema_version": 1,
+  "scoring_rate_on_graded_rows": null,
+  "ungraded_player_rows": 0
 }
