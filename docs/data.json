@@ -1,6 +1,6 @@
 {
   "app_data_version": 1,
-  "generated_at_utc": "2026-10-17T08:27:31+00:00",
+  "generated_at_utc": "2026-10-17T15:30:28+00:00",
   "note": "Experimental P7 probabilities unchanged; non-excluded does not mean officially active.",
   "games": [
     {
@@ -12,10 +12,10 @@
         "roof": "OUTDOORS",
         "temperature_f": "53.2",
         "wind_mph_max": "12.1",
-        "gust_mph_max": "25.1",
-        "precip_probability_pct_max": "29.0",
+        "gust_mph_max": "25.3",
+        "precip_probability_pct_max": "23.0",
         "weather_flags": "NO MAJOR WEATHER FLAGS",
-        "forecast_retrieved_at_utc": "2026-10-17T08:27:24+00:00"
+        "forecast_retrieved_at_utc": "2026-10-17T15:29:55+00:00"
       },
       "favorites": [
         {
@@ -541,12 +541,12 @@
       "weather": {
         "stadium": "Mercedes-Benz Stadium",
         "roof": "RETRACTABLE (ROOF UNCONFIRMED)",
-        "temperature_f": "59.5",
-        "wind_mph_max": "14.2",
-        "gust_mph_max": "21.9",
+        "temperature_f": "59.7",
+        "wind_mph_max": "12.5",
+        "gust_mph_max": "20.4",
         "precip_probability_pct_max": "0.0",
         "weather_flags": "CHECK ROOF STATUS",
-        "forecast_retrieved_at_utc": "2026-10-17T08:27:24+00:00"
+        "forecast_retrieved_at_utc": "2026-10-17T15:29:55+00:00"
       },
       "favorites": [
         {
@@ -1072,12 +1072,12 @@
       "weather": {
         "stadium": "Huntington Bank Field",
         "roof": "OUTDOORS",
-        "temperature_f": "55.5",
-        "wind_mph_max": "9.5",
-        "gust_mph_max": "13.0",
+        "temperature_f": "56.2",
+        "wind_mph_max": "10.6",
+        "gust_mph_max": "14.8",
         "precip_probability_pct_max": "0.0",
         "weather_flags": "NO MAJOR WEATHER FLAGS",
-        "forecast_retrieved_at_utc": "2026-10-17T08:27:24+00:00"
+        "forecast_retrieved_at_utc": "2026-10-17T15:29:55+00:00"
       },
       "favorites": [
         {
@@ -1603,12 +1603,12 @@
       "weather": {
         "stadium": "Lucas Oil Stadium",
         "roof": "RETRACTABLE (ROOF UNCONFIRMED)",
-        "temperature_f": "55.0",
-        "wind_mph_max": "6.7",
-        "gust_mph_max": "10.1",
+        "temperature_f": "54.4",
+        "wind_mph_max": "7.1",
+        "gust_mph_max": "11.6",
         "precip_probability_pct_max": "0.0",
         "weather_flags": "CHECK ROOF STATUS",
-        "forecast_retrieved_at_utc": "2026-10-17T08:27:24+00:00"
+        "forecast_retrieved_at_utc": "2026-10-17T15:29:55+00:00"
       },
       "favorites": [
         {
@@ -2104,12 +2104,12 @@
       "weather": {
         "stadium": "Gillette Stadium",
         "roof": "OUTDOORS",
-        "temperature_f": "50.9",
-        "wind_mph_max": "3.7",
-        "gust_mph_max": "5.4",
+        "temperature_f": "50.0",
+        "wind_mph_max": "4.1",
+        "gust_mph_max": "5.8",
         "precip_probability_pct_max": "0.0",
         "weather_flags": "NO MAJOR WEATHER FLAGS",
-        "forecast_retrieved_at_utc": "2026-10-17T08:27:24+00:00"
+        "forecast_retrieved_at_utc": "2026-10-17T15:29:55+00:00"
       },
       "favorites": [
         {
@@ -2680,12 +2680,12 @@
       "weather": {
         "stadium": "MetLife Stadium",
         "roof": "OUTDOORS",
-        "temperature_f": "55.0",
-        "wind_mph_max": "6.4",
-        "gust_mph_max": "8.3",
+        "temperature_f": "54.4",
+        "wind_mph_max": "7.6",
+        "gust_mph_max": "9.8",
         "precip_probability_pct_max": "0.0",
         "weather_flags": "NO MAJOR WEATHER FLAGS",
-        "forecast_retrieved_at_utc": "2026-10-17T08:27:24+00:00"
+        "forecast_retrieved_at_utc": "2026-10-17T15:29:55+00:00"
       },
       "favorites": [
         {
@@ -3226,12 +3226,12 @@
       "weather": {
         "stadium": "Lincoln Financial Field",
         "roof": "OUTDOORS",
-        "temperature_f": "53.9",
-        "wind_mph_max": "5.4",
-        "gust_mph_max": "9.8",
+        "temperature_f": "53.3",
+        "wind_mph_max": "7.4",
+        "gust_mph_max": "11.0",
         "precip_probability_pct_max": "0.0",
         "weather_flags": "NO MAJOR WEATHER FLAGS",
-        "forecast_retrieved_at_utc": "2026-10-17T08:27:24+00:00"
+        "forecast_retrieved_at_utc": "2026-10-17T15:29:55+00:00"
       },
       "favorites": [
         {
@@ -3817,12 +3817,12 @@
       "weather": {
         "stadium": "Raymond James Stadium",
         "roof": "OUTDOORS",
-        "temperature_f": "72.1",
-        "wind_mph_max": "13.8",
-        "gust_mph_max": "22.1",
-        "precip_probability_pct_max": "7.0",
+        "temperature_f": "75.7",
+        "wind_mph_max": "16.0",
+        "gust_mph_max": "25.5",
+        "precip_probability_pct_max": "0.0",
         "weather_flags": "NO MAJOR WEATHER FLAGS",
-        "forecast_retrieved_at_utc": "2026-10-17T08:27:24+00:00"
+        "forecast_retrieved_at_utc": "2026-10-17T15:29:55+00:00"
       },
       "favorites": [
         {
@@ -4363,12 +4363,12 @@
       "weather": {
         "stadium": "SoFi Stadium",
         "roof": "COVERED/OPEN-SIDED",
-        "temperature_f": "87.5",
-        "wind_mph_max": "10.5",
-        "gust_mph_max": "13.9",
-        "precip_probability_pct_max": "0.0",
+        "temperature_f": "86.4",
+        "wind_mph_max": "10.2",
+        "gust_mph_max": "13.0",
+        "precip_probability_pct_max": "1.0",
         "weather_flags": "PARTIALLY SHELTERED VENUE",
-        "forecast_retrieved_at_utc": "2026-10-17T08:27:24+00:00"
+        "forecast_retrieved_at_utc": "2026-10-17T15:29:55+00:00"
       },
       "favorites": [
         {
@@ -4894,12 +4894,12 @@
       "weather": {
         "stadium": "GEHA Field at Arrowhead Stadium",
         "roof": "OUTDOORS",
-        "temperature_f": "63.5",
-        "wind_mph_max": "11.3",
-        "gust_mph_max": "16.8",
+        "temperature_f": "63.2",
+        "wind_mph_max": "11.6",
+        "gust_mph_max": "17.2",
         "precip_probability_pct_max": "0.0",
         "weather_flags": "NO MAJOR WEATHER FLAGS",
-        "forecast_retrieved_at_utc": "2026-10-17T08:27:24+00:00"
+        "forecast_retrieved_at_utc": "2026-10-17T15:29:55+00:00"
       },
       "favorites": [
         {
@@ -5475,7 +5475,7 @@
         "gust_mph_max": "",
         "precip_probability_pct_max": "",
         "weather_flags": "INDOOR",
-        "forecast_retrieved_at_utc": "2026-10-17T08:27:24+00:00"
+        "forecast_retrieved_at_utc": "2026-10-17T15:29:55+00:00"
       },
       "favorites": [
         {
@@ -6000,12 +6000,12 @@
       "weather": {
         "stadium": "Lambeau Field",
         "roof": "OUTDOORS",
-        "temperature_f": "49.5",
-        "wind_mph_max": "7.4",
-        "gust_mph_max": "18.8",
+        "temperature_f": "49.3",
+        "wind_mph_max": "8.1",
+        "gust_mph_max": "19.5",
         "precip_probability_pct_max": "0.0",
         "weather_flags": "NO MAJOR WEATHER FLAGS",
-        "forecast_retrieved_at_utc": "2026-10-17T08:27:24+00:00"
+        "forecast_retrieved_at_utc": "2026-10-17T15:29:55+00:00"
       },
       "favorites": [
         {
@@ -6531,12 +6531,12 @@
       "weather": {
         "stadium": "Levi's Stadium",
         "roof": "OUTDOORS",
-        "temperature_f": "65.6",
-        "wind_mph_max": "9.5",
-        "gust_mph_max": "10.3",
-        "precip_probability_pct_max": "2.0",
-        "weather_flags": "NO MAJOR WEATHER FLAGS",
-        "forecast_retrieved_at_utc": "2026-10-17T08:27:24+00:00"
+        "temperature_f": "",
+        "wind_mph_max": "",
+        "gust_mph_max": "",
+        "precip_probability_pct_max": "",
+        "weather_flags": "WEATHER UNAVAILABLE",
+        "forecast_retrieved_at_utc": "2026-10-17T15:29:55+00:00"
       },
       "favorites": [
         {
