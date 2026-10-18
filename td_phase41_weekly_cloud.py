@@ -33,17 +33,7 @@ SCHEDULE_MAX_ROWS = 20_000
 
 
 def fetch_schedule() -> tuple[bytes, str]:
-    # Test a full valid slate and its compatible Phase 40 injury CSV audit.
-    full = ("season,week,game_type,gameday,gametime,home_team,away_team\n" +
-            "".join(f"2026,6,REG,2026-10-18,13:00,H{i},A{i}\n" for i in range(8))).encode()
-    full_weeks, _ = parse_schedule(full)
-    full_selection = resolve_week(full_weeks, utc('2026-10-18T15:00:00Z'))
-    assert full_selection and full_selection['games'] >= 8
-    injury = ("season,week,team,gsis_id,full_name,report_status,season_type\n"
-              "2026,6,H0,gsis-1,Test Player,Questionable,REG\n"
-              "2026,5,H0,gsis-2,Older Week,Out,REG\n").encode()
-    audited = audit_feed(injury, full_selection['season'], full_selection['week'])
-    assert audited['target_week_rows'] == 1 and audited['reported_questionable_rows'] == 1
+    """Retrieve the public schedule through verified TLS. No test data here."""
     validated_https_url(SCHEDULE_URL)
     req = urllib.request.Request(SCHEDULE_URL,
                                  headers={'User-Agent': 'NFL-TD-Lab-Phase41-ReadOnly/1.0'})
@@ -200,7 +190,33 @@ def self_test():
         pass
     else:
         raise AssertionError('Unexpected host accepted')
-    print('SELF-TEST PASS: automatic weeks, offseason skip, DST, TBD times, duplicate/overlap rejection, fixed HTTPS hosts.')
+    # Regression test: exercise the same fetch_schedule path used by --run.
+    # All I/O is mocked, so --self-test must stay fully offline.
+    from unittest.mock import patch
+    import contextlib
+
+    class FakeScheduleResponse(io.BytesIO):
+        def geturl(self):
+            return SCHEDULE_URL
+
+    with patch.object(urllib.request, 'urlopen', return_value=FakeScheduleResponse(full)) as mocked:
+        downloaded, resolved_url = fetch_schedule()
+        assert downloaded == full and resolved_url == SCHEDULE_URL
+        mocked.assert_called_once()
+        assert mocked.call_args.kwargs['context'].verify_mode == ssl.CERT_REQUIRED
+
+    # Regression test: the full --run orchestration calls schedule and injury
+    # code using offline synthetic feeds and must reach SUCCESS.
+    output = io.StringIO()
+    with (patch.object(sys.modules[__name__], 'fetch_schedule', return_value=(full, SCHEDULE_URL)),
+          patch.object(sys.modules[__name__], 'fetch_feed',
+                       return_value=(injury, injury_url(2026))),
+          contextlib.redirect_stdout(output)):
+        run(now=utc('2026-10-18T15:00:00Z'))
+    assert 'Selected: 2026 Week 6' in output.getvalue()
+    assert 'SUCCESS: automatic-week read-only cloud probe completed.' in output.getvalue()
+
+    print('SELF-TEST PASS: automatic weeks, offseason skip, DST, TBD times, duplicate/overlap rejection, TLS schedule retrieval and end-to-end offline cloud run.')
 
 
 def preview():
