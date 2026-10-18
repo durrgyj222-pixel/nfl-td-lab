@@ -1,0 +1,33 @@
+name: Phase 41 Weekly Cloud Injury Probe (Read-Only)
+
+# New, separate scheduled/manual workflow. No publishing or saved artifact.
+on:
+  workflow_dispatch:
+  schedule:
+    # UTC: Thursday, Saturday, Sunday, Monday at four kickoff-relevant times.
+    # Runner start may be delayed/dropped; these are NOT verified inactives.
+    - cron: '0 12,15,18,22 * * 0,1,4,6'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: nfl-td-lab-phase41-readonly
+  cancel-in-progress: false
+
+jobs:
+  read-only-injury-probe:
+    name: Auto-select NFL week and validate secondary report
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - name: Checkout repository read-only
+        uses: actions/checkout@v5
+      - name: Configure Python 3.12
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - name: Offline resolver and source validation test
+        run: python td_phase41_weekly_cloud.py --self-test
+      - name: Cloud automatic-week secondary feed check
+        run: python td_phase41_weekly_cloud.py --run
