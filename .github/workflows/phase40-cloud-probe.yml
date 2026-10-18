@@ -1,0 +1,30 @@
+name: Phase 40 Read-Only Injury Feed Probe
+
+# MANUAL ONLY while validating cloud connectivity.
+# Does not schedule or alter existing production workflows.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: td-lab-phase40-probe
+  cancel-in-progress: false
+
+jobs:
+  public-feed-probe:
+    name: Validate nflverse secondary injury CSV
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out repository read-only
+        uses: actions/checkout@v4
+      - name: Configure Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Verify probe using fictional CSV
+        run: python td_phase40_cloud_probe.py --self-test
+      - name: Capture public secondary feed (console-only)
+        run: python td_phase40_cloud_probe.py --probe --season 2026 --week 6
