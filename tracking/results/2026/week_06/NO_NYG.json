@@ -1,0 +1,303 @@
+{
+  "forecast_generated_at_utc": "2026-10-18T15:49:30Z",
+  "game": "NO @ NYG",
+  "graded_at_utc": "2026-10-19T01:33:08Z",
+  "kickoff_utc": "2026-10-18T17:00:00Z",
+  "outcome_definition": "at least one rushing or receiving touchdown",
+  "players": [
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Isaiah Likely",
+      "position": "TE",
+      "predicted_probability": 0.42190029,
+      "scored_td": 1,
+      "team": "NYG",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Malik Nabers",
+      "position": "WR",
+      "predicted_probability": 0.40037906,
+      "scored_td": 0,
+      "team": "NYG",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNCERTAIN: QUESTIONABLE",
+      "excluded_from_favorites": false,
+      "player": "Chris Olave",
+      "position": "WR",
+      "predicted_probability": 0.37479007,
+      "scored_td": 1,
+      "team": "NO",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Devaughn Vele",
+      "position": "WR",
+      "predicted_probability": 0.32140838,
+      "scored_td": 0,
+      "team": "NO",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Juwan Johnson",
+      "position": "TE",
+      "predicted_probability": 0.3101918,
+      "scored_td": 0,
+      "team": "NO",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Cam Skattebo",
+      "position": "RB",
+      "predicted_probability": 0.30923167,
+      "scored_td": null,
+      "team": "NYG",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "UNCERTAIN: QUESTIONABLE",
+      "excluded_from_favorites": false,
+      "player": "Alvin Kamara",
+      "position": "RB",
+      "predicted_probability": 0.28886976,
+      "scored_td": 1,
+      "team": "NO",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Kendre Miller",
+      "position": "RB",
+      "predicted_probability": 0.24581832,
+      "scored_td": 0,
+      "team": "NO",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Noah Fant",
+      "position": "TE",
+      "predicted_probability": 0.17146,
+      "scored_td": 0,
+      "team": "NO",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Malachi Fields",
+      "position": "WR",
+      "predicted_probability": 0.16629527,
+      "scored_td": 0,
+      "team": "NYG",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Travis Etienne",
+      "position": "RB",
+      "predicted_probability": 0.15908364,
+      "scored_td": null,
+      "team": "NO",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Darnell Mooney",
+      "position": "WR",
+      "predicted_probability": 0.15593383,
+      "scored_td": 0,
+      "team": "NYG",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Bryce Lance",
+      "position": "WR",
+      "predicted_probability": 0.13624411,
+      "scored_td": 1,
+      "team": "NO",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Najee Harris",
+      "position": "RB",
+      "predicted_probability": 0.12169498,
+      "scored_td": 0,
+      "team": "NYG",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "EXCLUDED: REPORTED OUT",
+      "excluded_from_favorites": true,
+      "player": "Theo Johnson",
+      "position": "TE",
+      "predicted_probability": 0.12152951,
+      "scored_td": null,
+      "team": "NYG",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Tyler Shough",
+      "position": "QB",
+      "predicted_probability": 0.12149723,
+      "scored_td": 1,
+      "team": "NO",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "CJ Donaldson",
+      "position": "RB",
+      "predicted_probability": 0.10926208,
+      "scored_td": 0,
+      "team": "NO",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Tyrone Tracy Jr.",
+      "position": "RB",
+      "predicted_probability": 0.06257778,
+      "scored_td": 1,
+      "team": "NYG",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jameis Winston",
+      "position": "QB",
+      "predicted_probability": 0.05472121,
+      "scored_td": 0,
+      "team": "NYG",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Devin Singletary",
+      "position": "RB",
+      "predicted_probability": 0.04553481,
+      "scored_td": 0,
+      "team": "NYG",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Patrick Ricard",
+      "position": "RB",
+      "predicted_probability": 0.03060546,
+      "scored_td": null,
+      "team": "NYG",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Barion Brown",
+      "position": "WR",
+      "predicted_probability": 0.02449423,
+      "scored_td": 0,
+      "team": "NO",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jaxson Dart",
+      "position": "QB",
+      "predicted_probability": 0.02188222,
+      "scored_td": null,
+      "team": "NYG",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "J.J. McCarthy",
+      "position": "QB",
+      "predicted_probability": 0.01983736,
+      "scored_td": 0,
+      "team": "NYG",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Oscar Delp",
+      "position": "TE",
+      "predicted_probability": 0.01784826,
+      "scored_td": 0,
+      "team": "NO",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Braxton Berrios",
+      "position": "WR",
+      "predicted_probability": 0.01636003,
+      "scored_td": null,
+      "team": "NYG",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Treyton Welch",
+      "position": "TE",
+      "predicted_probability": 0.01627219,
+      "scored_td": null,
+      "team": "NO",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Odell Beckham Jr.",
+      "position": "WR",
+      "predicted_probability": 0.0155521,
+      "scored_td": null,
+      "team": "NYG",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Kevin Austin Jr.",
+      "position": "WR",
+      "predicted_probability": 0.01112056,
+      "scored_td": null,
+      "team": "NO",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    }
+  ],
+  "schema_version": 1,
+  "season": 2026,
+  "validation_note": "Only players with a unique same-week offensive stat row are graded; others remain unverified.",
+  "week": 6
+}
