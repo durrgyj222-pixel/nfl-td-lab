@@ -1,0 +1,303 @@
+{
+  "forecast_generated_at_utc": "2026-10-18T15:49:30Z",
+  "game": "BUF @ LV",
+  "graded_at_utc": "2026-10-19T19:27:52Z",
+  "kickoff_utc": "2026-10-18T20:25:00Z",
+  "outcome_definition": "at least one rushing or receiving touchdown",
+  "players": [
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "James Cook",
+      "position": "RB",
+      "predicted_probability": 0.61256388,
+      "scored_td": 1,
+      "team": "BUF",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Ashton Jeanty",
+      "position": "RB",
+      "predicted_probability": 0.45718448,
+      "scored_td": 1,
+      "team": "LV",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Brock Bowers",
+      "position": "TE",
+      "predicted_probability": 0.42088001,
+      "scored_td": 0,
+      "team": "LV",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Josh Allen",
+      "position": "QB",
+      "predicted_probability": 0.40694242,
+      "scored_td": 0,
+      "team": "BUF",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Tre Tucker",
+      "position": "WR",
+      "predicted_probability": 0.27018545,
+      "scored_td": 1,
+      "team": "LV",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Cody White",
+      "position": "WR",
+      "predicted_probability": 0.24530176,
+      "scored_td": 0,
+      "team": "LV",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Keon Coleman",
+      "position": "WR",
+      "predicted_probability": 0.23475837,
+      "scored_td": 1,
+      "team": "BUF",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Michael Mayer",
+      "position": "TE",
+      "predicted_probability": 0.23303224,
+      "scored_td": 0,
+      "team": "LV",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Khalil Shakir",
+      "position": "WR",
+      "predicted_probability": 0.23296921,
+      "scored_td": 1,
+      "team": "BUF",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNCERTAIN: QUESTIONABLE",
+      "excluded_from_favorites": false,
+      "player": "DJ Moore",
+      "position": "WR",
+      "predicted_probability": 0.20486231,
+      "scored_td": null,
+      "team": "BUF",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Dalton Kincaid",
+      "position": "TE",
+      "predicted_probability": 0.20339553,
+      "scored_td": 0,
+      "team": "BUF",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Dawson Knox",
+      "position": "TE",
+      "predicted_probability": 0.15227938,
+      "scored_td": 0,
+      "team": "BUF",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Mike Washington Jr.",
+      "position": "RB",
+      "predicted_probability": 0.14208916,
+      "scored_td": 0,
+      "team": "LV",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNCERTAIN: QUESTIONABLE",
+      "excluded_from_favorites": false,
+      "player": "Josh Palmer",
+      "position": "WR",
+      "predicted_probability": 0.12779555,
+      "scored_td": 0,
+      "team": "BUF",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Ty Johnson",
+      "position": "RB",
+      "predicted_probability": 0.12326293,
+      "scored_td": 0,
+      "team": "BUF",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Malik Benson",
+      "position": "WR",
+      "predicted_probability": 0.10663243,
+      "scored_td": 0,
+      "team": "LV",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Ian Thomas",
+      "position": "TE",
+      "predicted_probability": 0.08788406,
+      "scored_td": null,
+      "team": "LV",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jalen Nailor",
+      "position": "WR",
+      "predicted_probability": 0.07967836,
+      "scored_td": 0,
+      "team": "LV",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Dylan Laube",
+      "position": "RB",
+      "predicted_probability": 0.07191177,
+      "scored_td": 0,
+      "team": "LV",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Ray Davis",
+      "position": "RB",
+      "predicted_probability": 0.06679417,
+      "scored_td": 0,
+      "team": "BUF",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Kirk Cousins",
+      "position": "QB",
+      "predicted_probability": 0.05846701,
+      "scored_td": 0,
+      "team": "LV",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jack Bech",
+      "position": "WR",
+      "predicted_probability": 0.04967746,
+      "scored_td": null,
+      "team": "LV",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Skyler Bell",
+      "position": "WR",
+      "predicted_probability": 0.0433236,
+      "scored_td": 0,
+      "team": "BUF",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Connor Heyward",
+      "position": "FB",
+      "predicted_probability": 0.04000725,
+      "scored_td": 0,
+      "team": "LV",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Dareke Young",
+      "position": "WR",
+      "predicted_probability": 0.03925127,
+      "scored_td": 0,
+      "team": "LV",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Deven Thompkins",
+      "position": "WR",
+      "predicted_probability": 0.02450095,
+      "scored_td": null,
+      "team": "LV",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jackson Hawes",
+      "position": "TE",
+      "predicted_probability": 0.02317542,
+      "scored_td": 0,
+      "team": "BUF",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Fernando Mendoza",
+      "position": "QB",
+      "predicted_probability": 0.0142548,
+      "scored_td": null,
+      "team": "LV",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Frank Gore Jr.",
+      "position": "RB",
+      "predicted_probability": 0.00686851,
+      "scored_td": null,
+      "team": "BUF",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    }
+  ],
+  "schema_version": 1,
+  "season": 2026,
+  "validation_note": "Only players with a unique same-week offensive stat row are graded; others remain unverified.",
+  "week": 6
+}

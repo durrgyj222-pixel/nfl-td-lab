@@ -1,7 +1,7 @@
 {
   "archived_games": 13,
-  "archived_player_rows_in_graded_games": 224,
-  "brier_on_graded_rows": 0.1617,
+  "archived_player_rows_in_graded_games": 339,
+  "brier_on_graded_rows": 0.14378,
   "games": [
     {
       "archived_players": 26,
@@ -44,12 +44,32 @@
       "week": 6
     },
     {
+      "archived_players": 30,
+      "brier_scored_rows": 0.0324,
+      "forecast_generated_at_utc": "2026-10-18T15:49:30Z",
+      "game": "LAC @ KC",
+      "graded_players": 21,
+      "scorers": 1,
+      "season": 2026,
+      "week": 6
+    },
+    {
       "archived_players": 28,
       "brier_scored_rows": 0.1947,
       "forecast_generated_at_utc": "2026-10-17T15:30:28Z",
       "game": "HOU @ JAX",
       "graded_players": 22,
       "scorers": 5,
+      "season": 2026,
+      "week": 6
+    },
+    {
+      "archived_players": 28,
+      "brier_scored_rows": 0.1433,
+      "forecast_generated_at_utc": "2026-10-18T15:49:30Z",
+      "game": "DAL @ GB",
+      "graded_players": 20,
+      "scorers": 4,
       "season": 2026,
       "week": 6
     },
@@ -74,6 +94,16 @@
       "week": 6
     },
     {
+      "archived_players": 29,
+      "brier_scored_rows": 0.12005,
+      "forecast_generated_at_utc": "2026-10-18T15:49:30Z",
+      "game": "BUF @ LV",
+      "graded_players": 23,
+      "scorers": 5,
+      "season": 2026,
+      "week": 6
+    },
+    {
       "archived_players": 27,
       "brier_scored_rows": 0.0987,
       "forecast_generated_at_utc": "2026-10-18T15:49:30Z",
@@ -82,14 +112,24 @@
       "scorers": 1,
       "season": 2026,
       "week": 6
+    },
+    {
+      "archived_players": 28,
+      "brier_scored_rows": 0.15066,
+      "forecast_generated_at_utc": "2026-10-18T15:49:30Z",
+      "game": "ARI @ LA",
+      "graded_players": 17,
+      "scorers": 2,
+      "season": 2026,
+      "week": 6
     }
   ],
-  "generated_at_utc": "2026-10-19T01:33:08Z",
-  "graded_games": 8,
-  "graded_player_rows": 155,
+  "generated_at_utc": "2026-10-19T19:27:52Z",
+  "graded_games": 12,
+  "graded_player_rows": 236,
   "important_limitation": "Graded subset requires same-week stat row and excludes flagged OUT players. This is NOT a complete active-roster evaluation; missing rows do NOT equal zero touchdowns.",
   "model": "phase7",
   "schema_version": 1,
-  "scoring_rate_on_graded_rows": 0.2,
-  "ungraded_player_rows": 69
+  "scoring_rate_on_graded_rows": 0.1822,
+  "ungraded_player_rows": 103
 }
