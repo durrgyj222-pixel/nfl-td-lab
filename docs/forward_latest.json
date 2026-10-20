@@ -1,8 +1,18 @@
 {
   "archived_games": 13,
-  "archived_player_rows_in_graded_games": 339,
-  "brier_on_graded_rows": 0.14378,
+  "archived_player_rows_in_graded_games": 374,
+  "brier_on_graded_rows": 0.13985,
   "games": [
+    {
+      "archived_players": 35,
+      "brier_scored_rows": 0.0995,
+      "forecast_generated_at_utc": "2026-10-19T21:34:43Z",
+      "game": "WAS @ SF",
+      "graded_players": 23,
+      "scorers": 4,
+      "season": 2026,
+      "week": 6
+    },
     {
       "archived_players": 26,
       "brier_scored_rows": 0.12811,
@@ -124,12 +134,12 @@
       "week": 6
     }
   ],
-  "generated_at_utc": "2026-10-19T19:27:52Z",
-  "graded_games": 12,
-  "graded_player_rows": 236,
+  "generated_at_utc": "2026-10-20T18:06:05Z",
+  "graded_games": 13,
+  "graded_player_rows": 259,
   "important_limitation": "Graded subset requires same-week stat row and excludes flagged OUT players. This is NOT a complete active-roster evaluation; missing rows do NOT equal zero touchdowns.",
   "model": "phase7",
   "schema_version": 1,
-  "scoring_rate_on_graded_rows": 0.1822,
-  "ungraded_player_rows": 103
+  "scoring_rate_on_graded_rows": 0.18147,
+  "ungraded_player_rows": 115
 }
