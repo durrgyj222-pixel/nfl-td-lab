@@ -1,0 +1,261 @@
+{
+  "captured_at_utc": "2026-10-22T17:07:53Z",
+  "forecast_generated_at_utc": "2026-10-22T17:06:56Z",
+  "game": "TB @ CAR",
+  "kickoff_utc": "2026-10-25T17:00:00Z",
+  "model": "phase7",
+  "players": [
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Chuba Hubbard",
+      "position": "RB",
+      "predicted_probability": 0.4988292,
+      "team": "CAR"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Bucky Irving",
+      "position": "RB",
+      "predicted_probability": 0.45129773,
+      "team": "TB"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Tetairoa McMillan",
+      "position": "WR",
+      "predicted_probability": 0.41753006,
+      "team": "CAR"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jalen Coker",
+      "position": "WR",
+      "predicted_probability": 0.32805174,
+      "team": "CAR"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Emeka Egbuka",
+      "position": "WR",
+      "predicted_probability": 0.32772056,
+      "team": "TB"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Darren Waller",
+      "position": "TE",
+      "predicted_probability": 0.25817458,
+      "team": "CAR"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Tommy Tremble",
+      "position": "TE",
+      "predicted_probability": 0.22374476,
+      "team": "CAR"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "John Metchie III",
+      "position": "WR",
+      "predicted_probability": 0.18039525,
+      "team": "CAR"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Kenny Gainwell",
+      "position": "RB",
+      "predicted_probability": 0.17954062,
+      "team": "TB"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Chris Godwin Jr.",
+      "position": "WR",
+      "predicted_probability": 0.17790374,
+      "team": "TB"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jalon Daniels",
+      "position": "QB",
+      "predicted_probability": 0.15021909,
+      "team": "TB"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Ted Hurst III",
+      "position": "WR",
+      "predicted_probability": 0.1443601,
+      "team": "TB"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Cade Otton",
+      "position": "TE",
+      "predicted_probability": 0.14347905,
+      "team": "TB"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Brycen Tremayne",
+      "position": "WR",
+      "predicted_probability": 0.10131567,
+      "team": "CAR"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "AJ Dillon",
+      "position": "RB",
+      "predicted_probability": 0.09200475,
+      "team": "CAR"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Mitchell Evans",
+      "position": "TE",
+      "predicted_probability": 0.08880201,
+      "team": "CAR"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Bryce Young",
+      "position": "QB",
+      "predicted_probability": 0.08764407,
+      "team": "CAR"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Tez Johnson",
+      "position": "WR",
+      "predicted_probability": 0.0866198,
+      "team": "TB"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Sean Tucker",
+      "position": "RB",
+      "predicted_probability": 0.0670163,
+      "team": "TB"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "David Moore",
+      "position": "WR",
+      "predicted_probability": 0.04746473,
+      "team": "CAR"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jonathon Brooks",
+      "position": "RB",
+      "predicted_probability": 0.0414457,
+      "team": "CAR"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Baker Mayfield",
+      "position": "QB",
+      "predicted_probability": 0.04102632,
+      "team": "TB"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Xavier Legette",
+      "position": "WR",
+      "predicted_probability": 0.03925509,
+      "team": "CAR"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Kameron Johnson",
+      "position": "WR",
+      "predicted_probability": 0.02266818,
+      "team": "TB"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Payne Durham",
+      "position": "TE",
+      "predicted_probability": 0.02085454,
+      "team": "TB"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Ja'Seem Reed",
+      "position": "WR",
+      "predicted_probability": 0.02033484,
+      "team": "CAR"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Trevor Etienne",
+      "position": "RB",
+      "predicted_probability": 0.01427236,
+      "team": "CAR"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Bauer Sharp",
+      "position": "TE",
+      "predicted_probability": 0.01403374,
+      "team": "TB"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Kenny Pickett",
+      "position": "QB",
+      "predicted_probability": 0.0122787,
+      "team": "CAR"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jalen McMillan",
+      "position": "WR",
+      "predicted_probability": 0.00877378,
+      "team": "TB"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jimmy Horn Jr.",
+      "position": "WR",
+      "predicted_probability": 0.00717594,
+      "team": "CAR"
+    }
+  ],
+  "provenance": "Published dashboard snapshot, archived by GitHub Actions before kickoff",
+  "schema_version": 1,
+  "season": 2026,
+  "week": 7
+}

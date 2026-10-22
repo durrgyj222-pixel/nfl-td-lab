@@ -1,0 +1,245 @@
+{
+  "captured_at_utc": "2026-10-22T17:07:53Z",
+  "forecast_generated_at_utc": "2026-10-22T17:06:56Z",
+  "game": "DAL @ PHI",
+  "kickoff_utc": "2026-10-27T00:15:00Z",
+  "model": "phase7",
+  "players": [
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Javonte Williams",
+      "position": "RB",
+      "predicted_probability": 0.50527317,
+      "team": "DAL"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "CeeDee Lamb",
+      "position": "WR",
+      "predicted_probability": 0.46604028,
+      "team": "DAL"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "George Pickens",
+      "position": "WR",
+      "predicted_probability": 0.32039792,
+      "team": "DAL"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "DeVonta Smith",
+      "position": "WR",
+      "predicted_probability": 0.27970525,
+      "team": "PHI"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Ryan Flournoy",
+      "position": "WR",
+      "predicted_probability": 0.27162266,
+      "team": "DAL"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Dontayvion Wicks",
+      "position": "WR",
+      "predicted_probability": 0.23557496,
+      "team": "PHI"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Dameon Pierce",
+      "position": "RB",
+      "predicted_probability": 0.23461026,
+      "team": "PHI"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Darius Cooper",
+      "position": "WR",
+      "predicted_probability": 0.21869531,
+      "team": "PHI"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Dallas Goedert",
+      "position": "TE",
+      "predicted_probability": 0.20954869,
+      "team": "PHI"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jake Ferguson",
+      "position": "TE",
+      "predicted_probability": 0.20241454,
+      "team": "DAL"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Makai Lemon",
+      "position": "WR",
+      "predicted_probability": 0.19346305,
+      "team": "PHI"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Tyler Goodson",
+      "position": "RB",
+      "predicted_probability": 0.13742375,
+      "team": "DAL"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Will Shipley",
+      "position": "RB",
+      "predicted_probability": 0.13026625,
+      "team": "PHI"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Tank Bigsby",
+      "position": "RB",
+      "predicted_probability": 0.11935482,
+      "team": "PHI"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jalen Hurts",
+      "position": "QB",
+      "predicted_probability": 0.11717236,
+      "team": "PHI"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Dak Prescott",
+      "position": "QB",
+      "predicted_probability": 0.11216747,
+      "team": "DAL"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Saquon Barkley",
+      "position": "RB",
+      "predicted_probability": 0.10283297,
+      "team": "PHI"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "KaVontae Turpin",
+      "position": "WR",
+      "predicted_probability": 0.09761796,
+      "team": "DAL"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Brevyn Spann-Ford",
+      "position": "TE",
+      "predicted_probability": 0.0877185,
+      "team": "DAL"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Zach Ertz",
+      "position": "TE",
+      "predicted_probability": 0.07781241,
+      "team": "PHI"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jonathan Mingo",
+      "position": "WR",
+      "predicted_probability": 0.06872221,
+      "team": "DAL"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Hunter Luepke",
+      "position": "RB",
+      "predicted_probability": 0.05804412,
+      "team": "DAL"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Johnny Mundt",
+      "position": "TE",
+      "predicted_probability": 0.05118116,
+      "team": "PHI"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Elijah Moore",
+      "position": "WR",
+      "predicted_probability": 0.03322279,
+      "team": "PHI"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Carson Steele",
+      "position": "RB",
+      "predicted_probability": 0.02652634,
+      "team": "PHI"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Luke Schoonmaker",
+      "position": "TE",
+      "predicted_probability": 0.0252339,
+      "team": "DAL"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Tanner McKee",
+      "position": "QB",
+      "predicted_probability": 0.01706763,
+      "team": "PHI"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Emari Demercado",
+      "position": "RB",
+      "predicted_probability": 0.01683267,
+      "team": "DAL"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Marquise Brown",
+      "position": "WR",
+      "predicted_probability": 0.00787484,
+      "team": "PHI"
+    }
+  ],
+  "provenance": "Published dashboard snapshot, archived by GitHub Actions before kickoff",
+  "schema_version": 1,
+  "season": 2026,
+  "week": 7
+}
