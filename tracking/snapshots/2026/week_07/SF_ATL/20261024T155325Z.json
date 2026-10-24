@@ -1,0 +1,253 @@
+{
+  "captured_at_utc": "2026-10-24T15:53:37Z",
+  "forecast_generated_at_utc": "2026-10-24T15:53:25Z",
+  "game": "SF @ ATL",
+  "kickoff_utc": "2026-10-25T17:00:00Z",
+  "model": "phase7",
+  "players": [
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Christian McCaffrey",
+      "position": "RB",
+      "predicted_probability": 0.53017752,
+      "team": "SF"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Bijan Robinson",
+      "position": "RB",
+      "predicted_probability": 0.50976361,
+      "team": "ATL"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "George Kittle",
+      "position": "TE",
+      "predicted_probability": 0.41989476,
+      "team": "SF"
+    },
+    {
+      "availability": "EXCLUDED: REPORTED OUT",
+      "excluded_from_favorites": true,
+      "player": "Mike Evans",
+      "position": "WR",
+      "predicted_probability": 0.39959562,
+      "team": "SF"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Drake London",
+      "position": "WR",
+      "predicted_probability": 0.31547886,
+      "team": "ATL"
+    },
+    {
+      "availability": "EXCLUDED: REPORTED OUT",
+      "excluded_from_favorites": true,
+      "player": "Brian Robinson",
+      "position": "RB",
+      "predicted_probability": 0.30732004,
+      "team": "ATL"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Kyle Pitts",
+      "position": "TE",
+      "predicted_probability": 0.2580372,
+      "team": "ATL"
+    },
+    {
+      "availability": "EXCLUDED: REPORTED OUT",
+      "excluded_from_favorites": true,
+      "player": "Deebo Samuel Sr.",
+      "position": "WR",
+      "predicted_probability": 0.24168605,
+      "team": "SF"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jahan Dotson",
+      "position": "WR",
+      "predicted_probability": 0.21985976,
+      "team": "ATL"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Kaelon Black",
+      "position": "RB",
+      "predicted_probability": 0.21027322,
+      "team": "SF"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Brock Purdy",
+      "position": "QB",
+      "predicted_probability": 0.20090505,
+      "team": "SF"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Kyle Juszczyk",
+      "position": "FB",
+      "predicted_probability": 0.11987431,
+      "team": "SF"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Brandin Cooks",
+      "position": "WR",
+      "predicted_probability": 0.11946266,
+      "team": "SF"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Austin Hooper",
+      "position": "TE",
+      "predicted_probability": 0.09245479,
+      "team": "ATL"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Zachariah Branch",
+      "position": "WR",
+      "predicted_probability": 0.09241419,
+      "team": "ATL"
+    },
+    {
+      "availability": "UNCERTAIN: QUESTIONABLE",
+      "excluded_from_favorites": false,
+      "player": "Olamide Zaccheaus",
+      "position": "WR",
+      "predicted_probability": 0.0914038,
+      "team": "ATL"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jacob Cowing",
+      "position": "WR",
+      "predicted_probability": 0.07817687,
+      "team": "SF"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Michael Penix Jr.",
+      "position": "QB",
+      "predicted_probability": 0.06525991,
+      "team": "ATL"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jordan Watkins",
+      "position": "WR",
+      "predicted_probability": 0.05377525,
+      "team": "SF"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Luke Farrell",
+      "position": "TE",
+      "predicted_probability": 0.05126588,
+      "team": "SF"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Charlie Woerner",
+      "position": "TE",
+      "predicted_probability": 0.04281201,
+      "team": "ATL"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Demarcus Robinson",
+      "position": "WR",
+      "predicted_probability": 0.03783074,
+      "team": "SF"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Chris Blair",
+      "position": "WR",
+      "predicted_probability": 0.02534842,
+      "team": "ATL"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jordan James",
+      "position": "RB",
+      "predicted_probability": 0.02314318,
+      "team": "SF"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jake Matthews",
+      "position": "OT",
+      "predicted_probability": 0.01590479,
+      "team": "ATL"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "KhaDarel Hodge",
+      "position": "WR",
+      "predicted_probability": 0.00885273,
+      "team": "SF"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Mac Jones",
+      "position": "QB",
+      "predicted_probability": 0.0087853,
+      "team": "SF"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jack Strand",
+      "position": "QB",
+      "predicted_probability": 0.00812891,
+      "team": "ATL"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Cooper Rush",
+      "position": "QB",
+      "predicted_probability": 0.00781432,
+      "team": "ATL"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jake Brendel",
+      "position": "C",
+      "predicted_probability": 0.00626305,
+      "team": "SF"
+    }
+  ],
+  "provenance": "Published dashboard snapshot, archived by GitHub Actions before kickoff",
+  "schema_version": 1,
+  "season": 2026,
+  "week": 7
+}

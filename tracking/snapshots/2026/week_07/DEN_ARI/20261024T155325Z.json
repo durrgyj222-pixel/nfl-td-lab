@@ -1,0 +1,229 @@
+{
+  "captured_at_utc": "2026-10-24T15:53:37Z",
+  "forecast_generated_at_utc": "2026-10-24T15:53:25Z",
+  "game": "DEN @ ARI",
+  "kickoff_utc": "2026-10-25T20:05:00Z",
+  "model": "phase7",
+  "players": [
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Trey McBride",
+      "position": "TE",
+      "predicted_probability": 0.39769009,
+      "team": "ARI"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Michael Wilson",
+      "position": "WR",
+      "predicted_probability": 0.37440702,
+      "team": "ARI"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "J.K. Dobbins",
+      "position": "RB",
+      "predicted_probability": 0.35108207,
+      "team": "DEN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "RJ Harvey",
+      "position": "RB",
+      "predicted_probability": 0.27450763,
+      "team": "DEN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jaylen Waddle",
+      "position": "WR",
+      "predicted_probability": 0.26048819,
+      "team": "DEN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Tyler Allgeier",
+      "position": "RB",
+      "predicted_probability": 0.26041688,
+      "team": "ARI"
+    },
+    {
+      "availability": "EXCLUDED: REPORTED OUT",
+      "excluded_from_favorites": true,
+      "player": "Jeremiyah Love",
+      "position": "RB",
+      "predicted_probability": 0.25314003,
+      "team": "ARI"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Kendrick Bourne",
+      "position": "WR",
+      "predicted_probability": 0.21356955,
+      "team": "ARI"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Courtland Sutton",
+      "position": "WR",
+      "predicted_probability": 0.21315858,
+      "team": "DEN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Evan Engram",
+      "position": "TE",
+      "predicted_probability": 0.15158206,
+      "team": "DEN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Bo Nix",
+      "position": "QB",
+      "predicted_probability": 0.13513241,
+      "team": "DEN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Elijah Higgins",
+      "position": "TE",
+      "predicted_probability": 0.11847254,
+      "team": "ARI"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jacoby Brissett",
+      "position": "QB",
+      "predicted_probability": 0.11248588,
+      "team": "ARI"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Bam Knight",
+      "position": "RB",
+      "predicted_probability": 0.10890588,
+      "team": "ARI"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jalen Brooks",
+      "position": "WR",
+      "predicted_probability": 0.10429267,
+      "team": "ARI"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Marvin Mims Jr.",
+      "position": "WR",
+      "predicted_probability": 0.09511058,
+      "team": "DEN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Teagan Quitoriano",
+      "position": "TE",
+      "predicted_probability": 0.08318718,
+      "team": "ARI"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Pat Bryant",
+      "position": "WR",
+      "predicted_probability": 0.08049945,
+      "team": "DEN"
+    },
+    {
+      "availability": "EXCLUDED: REPORTED OUT",
+      "excluded_from_favorites": true,
+      "player": "Tyler Badie",
+      "position": "RB",
+      "predicted_probability": 0.07990962,
+      "team": "DEN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Troy Franklin",
+      "position": "WR",
+      "predicted_probability": 0.06281998,
+      "team": "DEN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Nate Adkins",
+      "position": "TE",
+      "predicted_probability": 0.0572867,
+      "team": "DEN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Reggie Virgil",
+      "position": "WR",
+      "predicted_probability": 0.05195614,
+      "team": "ARI"
+    },
+    {
+      "availability": "UNCERTAIN: QUESTIONABLE",
+      "excluded_from_favorites": false,
+      "player": "Jonah Coleman",
+      "position": "RB",
+      "predicted_probability": 0.03095019,
+      "team": "DEN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Lil'Jordan Humphrey",
+      "position": "WR",
+      "predicted_probability": 0.02914944,
+      "team": "DEN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Adam Trautman",
+      "position": "TE",
+      "predicted_probability": 0.02392357,
+      "team": "DEN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Adam Prentice",
+      "position": "FB",
+      "predicted_probability": 0.01913098,
+      "team": "DEN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Hunter Long",
+      "position": "TE",
+      "predicted_probability": 0.01693387,
+      "team": "ARI"
+    }
+  ],
+  "provenance": "Published dashboard snapshot, archived by GitHub Actions before kickoff",
+  "schema_version": 1,
+  "season": 2026,
+  "week": 7
+}

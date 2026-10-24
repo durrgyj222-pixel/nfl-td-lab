@@ -1,0 +1,237 @@
+{
+  "captured_at_utc": "2026-10-24T15:53:37Z",
+  "forecast_generated_at_utc": "2026-10-24T15:53:25Z",
+  "game": "PIT @ NO",
+  "kickoff_utc": "2026-10-25T13:30:00Z",
+  "model": "phase7",
+  "players": [
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jaylen Warren",
+      "position": "RB",
+      "predicted_probability": 0.39400087,
+      "team": "PIT"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Chris Olave",
+      "position": "WR",
+      "predicted_probability": 0.39037273,
+      "team": "NO"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "DK Metcalf",
+      "position": "WR",
+      "predicted_probability": 0.34094398,
+      "team": "PIT"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Devaughn Vele",
+      "position": "WR",
+      "predicted_probability": 0.31716729,
+      "team": "NO"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Kendre Miller",
+      "position": "RB",
+      "predicted_probability": 0.3035112,
+      "team": "NO"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Germie Bernard",
+      "position": "WR",
+      "predicted_probability": 0.29339449,
+      "team": "PIT"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Pat Freiermuth",
+      "position": "TE",
+      "predicted_probability": 0.2851991,
+      "team": "PIT"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Juwan Johnson",
+      "position": "TE",
+      "predicted_probability": 0.28188593,
+      "team": "NO"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Alvin Kamara",
+      "position": "RB",
+      "predicted_probability": 0.2690711,
+      "team": "NO"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Darnell Washington",
+      "position": "TE",
+      "predicted_probability": 0.24063672,
+      "team": "PIT"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Bryce Lance",
+      "position": "WR",
+      "predicted_probability": 0.18263757,
+      "team": "NO"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Roman Wilson",
+      "position": "WR",
+      "predicted_probability": 0.17477858,
+      "team": "PIT"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Noah Fant",
+      "position": "TE",
+      "predicted_probability": 0.15492771,
+      "team": "NO"
+    },
+    {
+      "availability": "UNCERTAIN: QUESTIONABLE",
+      "excluded_from_favorites": false,
+      "player": "Rico Dowdle",
+      "position": "RB",
+      "predicted_probability": 0.13146567,
+      "team": "PIT"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Tyler Shough",
+      "position": "QB",
+      "predicted_probability": 0.12947603,
+      "team": "NO"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "CJ Donaldson",
+      "position": "RB",
+      "predicted_probability": 0.12771431,
+      "team": "NO"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Travis Etienne",
+      "position": "RB",
+      "predicted_probability": 0.07985465,
+      "team": "NO"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Michael Pittman",
+      "position": "WR",
+      "predicted_probability": 0.07304918,
+      "team": "PIT"
+    },
+    {
+      "availability": "EXCLUDED: REPORTED OUT",
+      "excluded_from_favorites": true,
+      "player": "Ben Skowronek",
+      "position": "WR",
+      "predicted_probability": 0.05488995,
+      "team": "PIT"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Aaron Rodgers",
+      "position": "QB",
+      "predicted_probability": 0.0404603,
+      "team": "PIT"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Oscar Delp",
+      "position": "TE",
+      "predicted_probability": 0.03613601,
+      "team": "NO"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Barion Brown",
+      "position": "WR",
+      "predicted_probability": 0.03192796,
+      "team": "NO"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Travis Homer",
+      "position": "RB",
+      "predicted_probability": 0.02584362,
+      "team": "PIT"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Mason Rudolph",
+      "position": "QB",
+      "predicted_probability": 0.01928593,
+      "team": "PIT"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Lew Nichols III",
+      "position": "RB",
+      "predicted_probability": 0.01525907,
+      "team": "PIT"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Treyton Welch",
+      "position": "TE",
+      "predicted_probability": 0.01356278,
+      "team": "NO"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Robert Tonyan",
+      "position": "TE",
+      "predicted_probability": 0.01196964,
+      "team": "PIT"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Kevin Austin Jr.",
+      "position": "WR",
+      "predicted_probability": 0.00655388,
+      "team": "NO"
+    }
+  ],
+  "provenance": "Published dashboard snapshot, archived by GitHub Actions before kickoff",
+  "schema_version": 1,
+  "season": 2026,
+  "week": 7
+}

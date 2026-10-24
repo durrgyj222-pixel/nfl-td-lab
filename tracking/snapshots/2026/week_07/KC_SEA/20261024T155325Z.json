@@ -1,0 +1,245 @@
+{
+  "captured_at_utc": "2026-10-24T15:53:37Z",
+  "forecast_generated_at_utc": "2026-10-24T15:53:25Z",
+  "game": "KC @ SEA",
+  "kickoff_utc": "2026-10-26T00:20:00Z",
+  "model": "phase7",
+  "players": [
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Kenneth Walker III",
+      "position": "RB",
+      "predicted_probability": 0.64917139,
+      "team": "KC"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jaxon Smith-Njigba",
+      "position": "WR",
+      "predicted_probability": 0.48494001,
+      "team": "SEA"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Emanuel Wilson",
+      "position": "RB",
+      "predicted_probability": 0.36571473,
+      "team": "SEA"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Xavier Worthy",
+      "position": "WR",
+      "predicted_probability": 0.27946322,
+      "team": "KC"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Travis Kelce",
+      "position": "TE",
+      "predicted_probability": 0.2747026,
+      "team": "KC"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "AJ Barner",
+      "position": "TE",
+      "predicted_probability": 0.24256681,
+      "team": "SEA"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Rashid Shaheed",
+      "position": "WR",
+      "predicted_probability": 0.23587811,
+      "team": "SEA"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Cooper Kupp",
+      "position": "WR",
+      "predicted_probability": 0.22088752,
+      "team": "SEA"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "George Holani",
+      "position": "RB",
+      "predicted_probability": 0.1853319,
+      "team": "SEA"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Tyquan Thornton",
+      "position": "WR",
+      "predicted_probability": 0.18146293,
+      "team": "KC"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Emmett Johnson",
+      "position": "RB",
+      "predicted_probability": 0.15999399,
+      "team": "KC"
+    },
+    {
+      "availability": "EXCLUDED: REPORTED OUT",
+      "excluded_from_favorites": true,
+      "player": "Rashee Rice",
+      "position": "WR",
+      "predicted_probability": 0.15875819,
+      "team": "KC"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jalen Royals",
+      "position": "WR",
+      "predicted_probability": 0.1400519,
+      "team": "KC"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Noah Gray",
+      "position": "TE",
+      "predicted_probability": 0.13352756,
+      "team": "KC"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Patrick Mahomes",
+      "position": "QB",
+      "predicted_probability": 0.13106889,
+      "team": "KC"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Tory Horton",
+      "position": "WR",
+      "predicted_probability": 0.12914768,
+      "team": "SEA"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Eric Saubert",
+      "position": "TE",
+      "predicted_probability": 0.06902143,
+      "team": "SEA"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jadarian Price",
+      "position": "RB",
+      "predicted_probability": 0.05868424,
+      "team": "SEA"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Sam Darnold",
+      "position": "QB",
+      "predicted_probability": 0.05650551,
+      "team": "SEA"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Cyrus Allen",
+      "position": "WR",
+      "predicted_probability": 0.05640331,
+      "team": "KC"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Velus Jones Jr.",
+      "position": "RB",
+      "predicted_probability": 0.04399003,
+      "team": "SEA"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Andrew Armstrong",
+      "position": "WR",
+      "predicted_probability": 0.04301563,
+      "team": "KC"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Khyiris Tonga",
+      "position": "DT",
+      "predicted_probability": 0.02603116,
+      "team": "KC"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jake Briningstool",
+      "position": "TE",
+      "predicted_probability": 0.02525255,
+      "team": "KC"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Brady Russell",
+      "position": "RB",
+      "predicted_probability": 0.023388,
+      "team": "SEA"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Elijah Arroyo",
+      "position": "TE",
+      "predicted_probability": 0.02314592,
+      "team": "SEA"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Matt Araiza",
+      "position": "P",
+      "predicted_probability": 0.01618886,
+      "team": "KC"
+    },
+    {
+      "availability": "EXCLUDED: REPORTED OUT",
+      "excluded_from_favorites": true,
+      "player": "Brashard Smith",
+      "position": "RB",
+      "predicted_probability": 0.01352168,
+      "team": "KC"
+    },
+    {
+      "availability": "UNCERTAIN: QUESTIONABLE",
+      "excluded_from_favorites": false,
+      "player": "Drew Lock",
+      "position": "QB",
+      "predicted_probability": 0.00678287,
+      "team": "SEA"
+    }
+  ],
+  "provenance": "Published dashboard snapshot, archived by GitHub Actions before kickoff",
+  "schema_version": 1,
+  "season": 2026,
+  "week": 7
+}
