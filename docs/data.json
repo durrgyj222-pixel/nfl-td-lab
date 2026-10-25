@@ -1,539 +1,8 @@
 {
   "app_data_version": 1,
-  "generated_at_utc": "2026-10-24T15:53:25+00:00",
+  "generated_at_utc": "2026-10-25T16:11:15+00:00",
   "note": "Experimental P7 probabilities unchanged; non-excluded does not mean officially active.",
   "games": [
-    {
-      "game": "PIT @ NO",
-      "kickoff_utc": "2026-10-25T13:30:00+00:00",
-      "week": 7,
-      "weather": {
-        "stadium": "Stade de France",
-        "roof": "UNKNOWN",
-        "temperature_f": "",
-        "wind_mph_max": "",
-        "gust_mph_max": "",
-        "precip_probability_pct_max": "",
-        "weather_flags": "WEATHER UNAVAILABLE",
-        "forecast_retrieved_at_utc": "2026-10-24T15:53:22+00:00"
-      },
-      "favorites": [
-        {
-          "name": "Jaylen Warren",
-          "team": "PIT",
-          "opponent": "NO",
-          "position": "RB",
-          "td_probability": 0.3940008706715834,
-          "td_probability_pct": 39.4,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
-          "practice_status": "",
-          "status_source": "NO MATCHING WEEKLY INJURY ENTRY",
-          "red_zone_targets_last4": "3",
-          "inside5_carries_last4": "1"
-        },
-        {
-          "name": "Chris Olave",
-          "team": "NO",
-          "opponent": "PIT",
-          "position": "WR",
-          "td_probability": 0.3903727272891261,
-          "td_probability_pct": 39.0,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
-          "practice_status": "",
-          "status_source": "NO MATCHING WEEKLY INJURY ENTRY",
-          "red_zone_targets_last4": "5",
-          "inside5_carries_last4": "0"
-        },
-        {
-          "name": "DK Metcalf",
-          "team": "PIT",
-          "opponent": "NO",
-          "position": "WR",
-          "td_probability": 0.3409439784381626,
-          "td_probability_pct": 34.1,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
-          "practice_status": "",
-          "status_source": "NO MATCHING WEEKLY INJURY ENTRY",
-          "red_zone_targets_last4": "3",
-          "inside5_carries_last4": "0"
-        },
-        {
-          "name": "Devaughn Vele",
-          "team": "NO",
-          "opponent": "PIT",
-          "position": "WR",
-          "td_probability": 0.31716728599956323,
-          "td_probability_pct": 31.7,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
-          "practice_status": "",
-          "status_source": "NO MATCHING WEEKLY INJURY ENTRY",
-          "red_zone_targets_last4": "4",
-          "inside5_carries_last4": "0"
-        },
-        {
-          "name": "Kendre Miller",
-          "team": "NO",
-          "opponent": "PIT",
-          "position": "RB",
-          "td_probability": 0.3035112024527204,
-          "td_probability_pct": 30.4,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
-          "practice_status": "",
-          "status_source": "NO MATCHING WEEKLY INJURY ENTRY",
-          "red_zone_targets_last4": "1",
-          "inside5_carries_last4": "4"
-        }
-      ],
-      "excluded": [
-        {
-          "name": "Ben Skowronek",
-          "team": "PIT",
-          "opponent": "NO",
-          "position": "WR",
-          "td_probability": 0.05488994788356816,
-          "td_probability_pct": 5.5,
-          "status": "EXCLUDED: REPORTED OUT",
-          "reported_game_status": "OUT",
-          "injury": "Calf",
-          "practice_status": "Did Not Participate In Practice",
-          "status_source": "NFLVERSE INJURY FEED (CURRENT FILE)",
-          "red_zone_targets_last4": "1",
-          "inside5_carries_last4": "0"
-        }
-      ],
-      "all_players": [
-        {
-          "name": "Jaylen Warren",
-          "team": "PIT",
-          "opponent": "NO",
-          "position": "RB",
-          "td_probability": 0.3940008706715834,
-          "td_probability_pct": 39.4,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
-          "practice_status": "",
-          "status_source": "NO MATCHING WEEKLY INJURY ENTRY",
-          "red_zone_targets_last4": "3",
-          "inside5_carries_last4": "1"
-        },
-        {
-          "name": "Chris Olave",
-          "team": "NO",
-          "opponent": "PIT",
-          "position": "WR",
-          "td_probability": 0.3903727272891261,
-          "td_probability_pct": 39.0,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
-          "practice_status": "",
-          "status_source": "NO MATCHING WEEKLY INJURY ENTRY",
-          "red_zone_targets_last4": "5",
-          "inside5_carries_last4": "0"
-        },
-        {
-          "name": "DK Metcalf",
-          "team": "PIT",
-          "opponent": "NO",
-          "position": "WR",
-          "td_probability": 0.3409439784381626,
-          "td_probability_pct": 34.1,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
-          "practice_status": "",
-          "status_source": "NO MATCHING WEEKLY INJURY ENTRY",
-          "red_zone_targets_last4": "3",
-          "inside5_carries_last4": "0"
-        },
-        {
-          "name": "Devaughn Vele",
-          "team": "NO",
-          "opponent": "PIT",
-          "position": "WR",
-          "td_probability": 0.31716728599956323,
-          "td_probability_pct": 31.7,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
-          "practice_status": "",
-          "status_source": "NO MATCHING WEEKLY INJURY ENTRY",
-          "red_zone_targets_last4": "4",
-          "inside5_carries_last4": "0"
-        },
-        {
-          "name": "Kendre Miller",
-          "team": "NO",
-          "opponent": "PIT",
-          "position": "RB",
-          "td_probability": 0.3035112024527204,
-          "td_probability_pct": 30.4,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
-          "practice_status": "",
-          "status_source": "NO MATCHING WEEKLY INJURY ENTRY",
-          "red_zone_targets_last4": "1",
-          "inside5_carries_last4": "4"
-        },
-        {
-          "name": "Germie Bernard",
-          "team": "PIT",
-          "opponent": "NO",
-          "position": "WR",
-          "td_probability": 0.2933944884131696,
-          "td_probability_pct": 29.3,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
-          "practice_status": "",
-          "status_source": "NO MATCHING WEEKLY INJURY ENTRY",
-          "red_zone_targets_last4": "5",
-          "inside5_carries_last4": "0"
-        },
-        {
-          "name": "Pat Freiermuth",
-          "team": "PIT",
-          "opponent": "NO",
-          "position": "TE",
-          "td_probability": 0.28519909771995183,
-          "td_probability_pct": 28.5,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
-          "practice_status": "",
-          "status_source": "NO MATCHING WEEKLY INJURY ENTRY",
-          "red_zone_targets_last4": "3",
-          "inside5_carries_last4": "0"
-        },
-        {
-          "name": "Juwan Johnson",
-          "team": "NO",
-          "opponent": "PIT",
-          "position": "TE",
-          "td_probability": 0.2818859309547034,
-          "td_probability_pct": 28.2,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
-          "practice_status": "",
-          "status_source": "NO MATCHING WEEKLY INJURY ENTRY",
-          "red_zone_targets_last4": "3",
-          "inside5_carries_last4": "0"
-        },
-        {
-          "name": "Alvin Kamara",
-          "team": "NO",
-          "opponent": "PIT",
-          "position": "RB",
-          "td_probability": 0.2690710955113406,
-          "td_probability_pct": 26.9,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
-          "practice_status": "Limited Participation in Practice",
-          "status_source": "NFLVERSE INJURY FEED (CURRENT FILE)",
-          "red_zone_targets_last4": "0",
-          "inside5_carries_last4": "2"
-        },
-        {
-          "name": "Darnell Washington",
-          "team": "PIT",
-          "opponent": "NO",
-          "position": "TE",
-          "td_probability": 0.2406367160415612,
-          "td_probability_pct": 24.1,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
-          "practice_status": "",
-          "status_source": "NO MATCHING WEEKLY INJURY ENTRY",
-          "red_zone_targets_last4": "5",
-          "inside5_carries_last4": "0"
-        },
-        {
-          "name": "Bryce Lance",
-          "team": "NO",
-          "opponent": "PIT",
-          "position": "WR",
-          "td_probability": 0.182637572877479,
-          "td_probability_pct": 18.3,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
-          "practice_status": "",
-          "status_source": "NO MATCHING WEEKLY INJURY ENTRY",
-          "red_zone_targets_last4": "2",
-          "inside5_carries_last4": "0"
-        },
-        {
-          "name": "Roman Wilson",
-          "team": "PIT",
-          "opponent": "NO",
-          "position": "WR",
-          "td_probability": 0.17477857964596985,
-          "td_probability_pct": 17.5,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
-          "practice_status": "",
-          "status_source": "NO MATCHING WEEKLY INJURY ENTRY",
-          "red_zone_targets_last4": "2",
-          "inside5_carries_last4": "0"
-        },
-        {
-          "name": "Noah Fant",
-          "team": "NO",
-          "opponent": "PIT",
-          "position": "TE",
-          "td_probability": 0.15492770817633195,
-          "td_probability_pct": 15.5,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
-          "practice_status": "",
-          "status_source": "NO MATCHING WEEKLY INJURY ENTRY",
-          "red_zone_targets_last4": "2",
-          "inside5_carries_last4": "0"
-        },
-        {
-          "name": "Rico Dowdle",
-          "team": "PIT",
-          "opponent": "NO",
-          "position": "RB",
-          "td_probability": 0.13146567355669353,
-          "td_probability_pct": 13.1,
-          "status": "UNCERTAIN: QUESTIONABLE",
-          "reported_game_status": "QUESTIONABLE",
-          "injury": "Knee",
-          "practice_status": "Limited Participation in Practice",
-          "status_source": "NFLVERSE INJURY FEED (CURRENT FILE)",
-          "red_zone_targets_last4": "1",
-          "inside5_carries_last4": "0"
-        },
-        {
-          "name": "Tyler Shough",
-          "team": "NO",
-          "opponent": "PIT",
-          "position": "QB",
-          "td_probability": 0.12947603055513418,
-          "td_probability_pct": 12.9,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
-          "practice_status": "Full Participation in Practice",
-          "status_source": "NFLVERSE INJURY FEED (CURRENT FILE)",
-          "red_zone_targets_last4": "0",
-          "inside5_carries_last4": "2"
-        },
-        {
-          "name": "CJ Donaldson",
-          "team": "NO",
-          "opponent": "PIT",
-          "position": "RB",
-          "td_probability": 0.127714313470006,
-          "td_probability_pct": 12.8,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
-          "practice_status": "Full Participation in Practice",
-          "status_source": "NFLVERSE INJURY FEED (CURRENT FILE)",
-          "red_zone_targets_last4": "0",
-          "inside5_carries_last4": "1"
-        },
-        {
-          "name": "Travis Etienne",
-          "team": "NO",
-          "opponent": "PIT",
-          "position": "RB",
-          "td_probability": 0.07985464961130465,
-          "td_probability_pct": 8.0,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
-          "practice_status": "",
-          "status_source": "NO MATCHING WEEKLY INJURY ENTRY",
-          "red_zone_targets_last4": "0",
-          "inside5_carries_last4": "1"
-        },
-        {
-          "name": "Michael Pittman",
-          "team": "PIT",
-          "opponent": "NO",
-          "position": "WR",
-          "td_probability": 0.07304917855603116,
-          "td_probability_pct": 7.3,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
-          "practice_status": "",
-          "status_source": "NO MATCHING WEEKLY INJURY ENTRY",
-          "red_zone_targets_last4": "0",
-          "inside5_carries_last4": "0"
-        },
-        {
-          "name": "Ben Skowronek",
-          "team": "PIT",
-          "opponent": "NO",
-          "position": "WR",
-          "td_probability": 0.05488994788356816,
-          "td_probability_pct": 5.5,
-          "status": "EXCLUDED: REPORTED OUT",
-          "reported_game_status": "OUT",
-          "injury": "Calf",
-          "practice_status": "Did Not Participate In Practice",
-          "status_source": "NFLVERSE INJURY FEED (CURRENT FILE)",
-          "red_zone_targets_last4": "1",
-          "inside5_carries_last4": "0"
-        },
-        {
-          "name": "Aaron Rodgers",
-          "team": "PIT",
-          "opponent": "NO",
-          "position": "QB",
-          "td_probability": 0.04046029681711022,
-          "td_probability_pct": 4.0,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
-          "practice_status": "",
-          "status_source": "NO MATCHING WEEKLY INJURY ENTRY",
-          "red_zone_targets_last4": "0",
-          "inside5_carries_last4": "1"
-        },
-        {
-          "name": "Oscar Delp",
-          "team": "NO",
-          "opponent": "PIT",
-          "position": "TE",
-          "td_probability": 0.0361360101475183,
-          "td_probability_pct": 3.6,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
-          "practice_status": "",
-          "status_source": "NO MATCHING WEEKLY INJURY ENTRY",
-          "red_zone_targets_last4": "0",
-          "inside5_carries_last4": "0"
-        },
-        {
-          "name": "Barion Brown",
-          "team": "NO",
-          "opponent": "PIT",
-          "position": "WR",
-          "td_probability": 0.03192795752646633,
-          "td_probability_pct": 3.2,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
-          "practice_status": "",
-          "status_source": "NO MATCHING WEEKLY INJURY ENTRY",
-          "red_zone_targets_last4": "0",
-          "inside5_carries_last4": "0"
-        },
-        {
-          "name": "Travis Homer",
-          "team": "PIT",
-          "opponent": "NO",
-          "position": "RB",
-          "td_probability": 0.0258436170334534,
-          "td_probability_pct": 2.6,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
-          "practice_status": "",
-          "status_source": "NO MATCHING WEEKLY INJURY ENTRY",
-          "red_zone_targets_last4": "0",
-          "inside5_carries_last4": "0"
-        },
-        {
-          "name": "Mason Rudolph",
-          "team": "PIT",
-          "opponent": "NO",
-          "position": "QB",
-          "td_probability": 0.019285933449715503,
-          "td_probability_pct": 1.9,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
-          "practice_status": "",
-          "status_source": "NO MATCHING WEEKLY INJURY ENTRY",
-          "red_zone_targets_last4": "0",
-          "inside5_carries_last4": "0"
-        },
-        {
-          "name": "Lew Nichols III",
-          "team": "PIT",
-          "opponent": "NO",
-          "position": "RB",
-          "td_probability": 0.015259069971415134,
-          "td_probability_pct": 1.5,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
-          "practice_status": "",
-          "status_source": "NO MATCHING WEEKLY INJURY ENTRY",
-          "red_zone_targets_last4": "0",
-          "inside5_carries_last4": "0"
-        },
-        {
-          "name": "Treyton Welch",
-          "team": "NO",
-          "opponent": "PIT",
-          "position": "TE",
-          "td_probability": 0.013562783352429521,
-          "td_probability_pct": 1.4,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
-          "practice_status": "",
-          "status_source": "NO MATCHING WEEKLY INJURY ENTRY",
-          "red_zone_targets_last4": "0",
-          "inside5_carries_last4": "0"
-        },
-        {
-          "name": "Robert Tonyan",
-          "team": "PIT",
-          "opponent": "NO",
-          "position": "TE",
-          "td_probability": 0.011969635372769303,
-          "td_probability_pct": 1.2,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
-          "practice_status": "",
-          "status_source": "NO MATCHING WEEKLY INJURY ENTRY",
-          "red_zone_targets_last4": "1",
-          "inside5_carries_last4": "0"
-        },
-        {
-          "name": "Kevin Austin Jr.",
-          "team": "NO",
-          "opponent": "PIT",
-          "position": "WR",
-          "td_probability": 0.006553877687462062,
-          "td_probability_pct": 0.7,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
-          "practice_status": "",
-          "status_source": "NO MATCHING WEEKLY INJURY ENTRY",
-          "red_zone_targets_last4": "0",
-          "inside5_carries_last4": "0"
-        }
-      ]
-    },
     {
       "game": "SF @ ATL",
       "kickoff_utc": "2026-10-25T17:00:00+00:00",
@@ -541,12 +10,12 @@
       "weather": {
         "stadium": "Mercedes-Benz Stadium",
         "roof": "RETRACTABLE (ROOF UNCONFIRMED)",
-        "temperature_f": "65.6",
-        "wind_mph_max": "12.4",
-        "gust_mph_max": "17.9",
+        "temperature_f": "66.5",
+        "wind_mph_max": "11.5",
+        "gust_mph_max": "15.9",
         "precip_probability_pct_max": "0.0",
         "weather_flags": "CHECK ROOF STATUS",
-        "forecast_retrieved_at_utc": "2026-10-24T15:53:22+00:00"
+        "forecast_retrieved_at_utc": "2026-10-25T16:11:10+00:00"
       },
       "favorites": [
         {
@@ -1132,12 +601,12 @@
       "weather": {
         "stadium": "M&T Bank Stadium",
         "roof": "OUTDOORS",
-        "temperature_f": "62.7",
-        "wind_mph_max": "5.1",
-        "gust_mph_max": "5.8",
+        "temperature_f": "63.1",
+        "wind_mph_max": "5.3",
+        "gust_mph_max": "6.0",
         "precip_probability_pct_max": "0.0",
         "weather_flags": "NO MAJOR WEATHER FLAGS",
-        "forecast_retrieved_at_utc": "2026-10-24T15:53:22+00:00"
+        "forecast_retrieved_at_utc": "2026-10-25T16:11:10+00:00"
       },
       "favorites": [
         {
@@ -1216,7 +685,23 @@
           "inside5_carries_last4": "0"
         }
       ],
-      "excluded": [],
+      "excluded": [
+        {
+          "name": "Lamar Jackson",
+          "team": "BAL",
+          "opponent": "CIN",
+          "position": "QB",
+          "td_probability": 0.080843496647894,
+          "td_probability_pct": 8.1,
+          "status": "EXCLUDED: REPORTED OUT",
+          "reported_game_status": "OUT",
+          "injury": "Ankle",
+          "practice_status": "Limited Participation in Practice",
+          "status_source": "NFLVERSE INJURY FEED (CURRENT FILE)",
+          "red_zone_targets_last4": "0",
+          "inside5_carries_last4": "1"
+        }
+      ],
       "all_players": [
         {
           "name": "Derrick Henry",
@@ -1495,8 +980,8 @@
           "position": "QB",
           "td_probability": 0.080843496647894,
           "td_probability_pct": 8.1,
-          "status": "UNCERTAIN: QUESTIONABLE",
-          "reported_game_status": "QUESTIONABLE",
+          "status": "EXCLUDED: REPORTED OUT",
+          "reported_game_status": "OUT",
           "injury": "Ankle",
           "practice_status": "Limited Participation in Practice",
           "status_source": "NFLVERSE INJURY FEED (CURRENT FILE)",
@@ -1647,12 +1132,12 @@
       "weather": {
         "stadium": "Bank of America Stadium",
         "roof": "OUTDOORS",
-        "temperature_f": "65.4",
-        "wind_mph_max": "11.9",
-        "gust_mph_max": "16.6",
+        "temperature_f": "64.3",
+        "wind_mph_max": "11.2",
+        "gust_mph_max": "16.1",
         "precip_probability_pct_max": "0.0",
         "weather_flags": "NO MAJOR WEATHER FLAGS",
-        "forecast_retrieved_at_utc": "2026-10-24T15:53:22+00:00"
+        "forecast_retrieved_at_utc": "2026-10-25T16:11:10+00:00"
       },
       "favorites": [
         {
@@ -2228,7 +1713,7 @@
         "gust_mph_max": "",
         "precip_probability_pct_max": "",
         "weather_flags": "WEATHER UNAVAILABLE",
-        "forecast_retrieved_at_utc": "2026-10-24T15:53:22+00:00"
+        "forecast_retrieved_at_utc": "2026-10-25T16:11:10+00:00"
       },
       "favorites": [
         {
@@ -2819,7 +2304,7 @@
         "gust_mph_max": "",
         "precip_probability_pct_max": "",
         "weather_flags": "INDOOR",
-        "forecast_retrieved_at_utc": "2026-10-24T15:53:22+00:00"
+        "forecast_retrieved_at_utc": "2026-10-25T16:11:10+00:00"
       },
       "favorites": [
         {
@@ -3390,12 +2875,12 @@
       "weather": {
         "stadium": "MetLife Stadium",
         "roof": "OUTDOORS",
-        "temperature_f": "64.4",
-        "wind_mph_max": "6.0",
-        "gust_mph_max": "7.8",
+        "temperature_f": "64.9",
+        "wind_mph_max": "4.1",
+        "gust_mph_max": "5.1",
         "precip_probability_pct_max": "0.0",
         "weather_flags": "NO MAJOR WEATHER FLAGS",
-        "forecast_retrieved_at_utc": "2026-10-24T15:53:22+00:00"
+        "forecast_retrieved_at_utc": "2026-10-25T16:11:10+00:00"
       },
       "favorites": [
         {
@@ -3920,12 +3405,12 @@
       "weather": {
         "stadium": "Nissan Stadium",
         "roof": "OUTDOORS",
-        "temperature_f": "72.6",
+        "temperature_f": "70.4",
         "wind_mph_max": "2.9",
-        "gust_mph_max": "7.2",
+        "gust_mph_max": "5.1",
         "precip_probability_pct_max": "0.0",
         "weather_flags": "NO MAJOR WEATHER FLAGS",
-        "forecast_retrieved_at_utc": "2026-10-24T15:53:22+00:00"
+        "forecast_retrieved_at_utc": "2026-10-25T16:11:10+00:00"
       },
       "favorites": [
         {
@@ -4420,12 +3905,12 @@
       "weather": {
         "stadium": "State Farm Stadium",
         "roof": "RETRACTABLE (ROOF UNCONFIRMED)",
-        "temperature_f": "80.4",
-        "wind_mph_max": "6.5",
-        "gust_mph_max": "9.2",
+        "temperature_f": "79.5",
+        "wind_mph_max": "3.4",
+        "gust_mph_max": "4.0",
         "precip_probability_pct_max": "0.0",
         "weather_flags": "CHECK ROOF STATUS",
-        "forecast_retrieved_at_utc": "2026-10-24T15:53:22+00:00"
+        "forecast_retrieved_at_utc": "2026-10-25T16:11:10+00:00"
       },
       "favorites": [
         {
@@ -4956,7 +4441,7 @@
         "gust_mph_max": "",
         "precip_probability_pct_max": "",
         "weather_flags": "INDOOR",
-        "forecast_retrieved_at_utc": "2026-10-24T15:53:22+00:00"
+        "forecast_retrieved_at_utc": "2026-10-25T16:11:10+00:00"
       },
       "favorites": [
         {
@@ -5426,7 +4911,7 @@
         "gust_mph_max": "",
         "precip_probability_pct_max": "",
         "weather_flags": "INDOOR",
-        "forecast_retrieved_at_utc": "2026-10-24T15:53:22+00:00"
+        "forecast_retrieved_at_utc": "2026-10-25T16:11:10+00:00"
       },
       "favorites": [
         {
@@ -5981,12 +5466,12 @@
       "weather": {
         "stadium": "Lumen Field",
         "roof": "OUTDOORS",
-        "temperature_f": "51.5",
-        "wind_mph_max": "4.1",
-        "gust_mph_max": "13.6",
-        "precip_probability_pct_max": "21.0",
+        "temperature_f": "52.0",
+        "wind_mph_max": "8.0",
+        "gust_mph_max": "18.8",
+        "precip_probability_pct_max": "9.0",
         "weather_flags": "NO MAJOR WEATHER FLAGS",
-        "forecast_retrieved_at_utc": "2026-10-24T15:53:22+00:00"
+        "forecast_retrieved_at_utc": "2026-10-25T16:11:10+00:00"
       },
       "favorites": [
         {
@@ -6542,12 +6027,12 @@
       "weather": {
         "stadium": "Lincoln Financial Field",
         "roof": "OUTDOORS",
-        "temperature_f": "62.3",
-        "wind_mph_max": "4.4",
-        "gust_mph_max": "13.9",
-        "precip_probability_pct_max": "0.0",
+        "temperature_f": "56.9",
+        "wind_mph_max": "4.7",
+        "gust_mph_max": "9.2",
+        "precip_probability_pct_max": "2.0",
         "weather_flags": "NO MAJOR WEATHER FLAGS",
-        "forecast_retrieved_at_utc": "2026-10-24T15:53:22+00:00"
+        "forecast_retrieved_at_utc": "2026-10-25T16:11:10+00:00"
       },
       "favorites": [
         {
@@ -6596,21 +6081,6 @@
           "inside5_carries_last4": "0"
         },
         {
-          "name": "DeVonta Smith",
-          "team": "PHI",
-          "opponent": "DAL",
-          "position": "WR",
-          "td_probability": 0.2797052500418011,
-          "td_probability_pct": 28.0,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
-          "practice_status": "Did Not Participate In Practice",
-          "status_source": "NFLVERSE INJURY FEED (CURRENT FILE)",
-          "red_zone_targets_last4": "2",
-          "inside5_carries_last4": "0"
-        },
-        {
           "name": "Ryan Flournoy",
           "team": "DAL",
           "opponent": "PHI",
@@ -6624,9 +6094,70 @@
           "status_source": "NO MATCHING WEEKLY INJURY ENTRY",
           "red_zone_targets_last4": "8",
           "inside5_carries_last4": "0"
+        },
+        {
+          "name": "Dameon Pierce",
+          "team": "PHI",
+          "opponent": "DAL",
+          "position": "RB",
+          "td_probability": 0.23461025752978162,
+          "td_probability_pct": 23.5,
+          "status": "UNKNOWN / NOT VERIFIED",
+          "reported_game_status": "UNKNOWN",
+          "injury": "",
+          "practice_status": "",
+          "status_source": "NO MATCHING WEEKLY INJURY ENTRY",
+          "red_zone_targets_last4": "1",
+          "inside5_carries_last4": "2"
         }
       ],
-      "excluded": [],
+      "excluded": [
+        {
+          "name": "DeVonta Smith",
+          "team": "PHI",
+          "opponent": "DAL",
+          "position": "WR",
+          "td_probability": 0.2797052500418011,
+          "td_probability_pct": 28.0,
+          "status": "EXCLUDED: REPORTED OUT",
+          "reported_game_status": "OUT",
+          "injury": "Hamstring",
+          "practice_status": "Did Not Participate In Practice",
+          "status_source": "NFLVERSE INJURY FEED (CURRENT FILE)",
+          "red_zone_targets_last4": "2",
+          "inside5_carries_last4": "0"
+        },
+        {
+          "name": "Dontayvion Wicks",
+          "team": "PHI",
+          "opponent": "DAL",
+          "position": "WR",
+          "td_probability": 0.23557496029369218,
+          "td_probability_pct": 23.6,
+          "status": "EXCLUDED: REPORTED OUT",
+          "reported_game_status": "OUT",
+          "injury": "Ankle",
+          "practice_status": "Did Not Participate In Practice",
+          "status_source": "NFLVERSE INJURY FEED (CURRENT FILE)",
+          "red_zone_targets_last4": "2",
+          "inside5_carries_last4": "0"
+        },
+        {
+          "name": "KaVontae Turpin",
+          "team": "DAL",
+          "opponent": "PHI",
+          "position": "WR",
+          "td_probability": 0.09761795945541582,
+          "td_probability_pct": 9.8,
+          "status": "EXCLUDED: REPORTED OUT",
+          "reported_game_status": "OUT",
+          "injury": "Ribs",
+          "practice_status": "Did Not Participate In Practice",
+          "status_source": "NFLVERSE INJURY FEED (CURRENT FILE)",
+          "red_zone_targets_last4": "1",
+          "inside5_carries_last4": "0"
+        }
+      ],
       "all_players": [
         {
           "name": "Javonte Williams",
@@ -6680,9 +6211,9 @@
           "position": "WR",
           "td_probability": 0.2797052500418011,
           "td_probability_pct": 28.0,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
+          "status": "EXCLUDED: REPORTED OUT",
+          "reported_game_status": "OUT",
+          "injury": "Hamstring",
           "practice_status": "Did Not Participate In Practice",
           "status_source": "NFLVERSE INJURY FEED (CURRENT FILE)",
           "red_zone_targets_last4": "2",
@@ -6710,9 +6241,9 @@
           "position": "WR",
           "td_probability": 0.23557496029369218,
           "td_probability_pct": 23.6,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
+          "status": "EXCLUDED: REPORTED OUT",
+          "reported_game_status": "OUT",
+          "injury": "Ankle",
           "practice_status": "Did Not Participate In Practice",
           "status_source": "NFLVERSE INJURY FEED (CURRENT FILE)",
           "red_zone_targets_last4": "2",
@@ -6758,7 +6289,7 @@
           "status": "UNKNOWN / NOT VERIFIED",
           "reported_game_status": "UNKNOWN",
           "injury": "",
-          "practice_status": "Did Not Participate In Practice",
+          "practice_status": "Full Participation in Practice",
           "status_source": "NFLVERSE INJURY FEED (CURRENT FILE)",
           "red_zone_targets_last4": "0",
           "inside5_carries_last4": "0"
@@ -6875,10 +6406,10 @@
           "position": "RB",
           "td_probability": 0.10283296920991553,
           "td_probability_pct": 10.3,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
-          "practice_status": "Limited Participation in Practice",
+          "status": "UNCERTAIN: QUESTIONABLE",
+          "reported_game_status": "QUESTIONABLE",
+          "injury": "Hamstring",
+          "practice_status": "Full Participation in Practice",
           "status_source": "NFLVERSE INJURY FEED (CURRENT FILE)",
           "red_zone_targets_last4": "0",
           "inside5_carries_last4": "2"
@@ -6890,9 +6421,9 @@
           "position": "WR",
           "td_probability": 0.09761795945541582,
           "td_probability_pct": 9.8,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
+          "status": "EXCLUDED: REPORTED OUT",
+          "reported_game_status": "OUT",
+          "injury": "Ribs",
           "practice_status": "Did Not Participate In Practice",
           "status_source": "NFLVERSE INJURY FEED (CURRENT FILE)",
           "red_zone_targets_last4": "1",
