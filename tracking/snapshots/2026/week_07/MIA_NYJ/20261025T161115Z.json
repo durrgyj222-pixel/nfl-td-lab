@@ -1,0 +1,245 @@
+{
+  "captured_at_utc": "2026-10-25T16:11:28Z",
+  "forecast_generated_at_utc": "2026-10-25T16:11:15Z",
+  "game": "MIA @ NYJ",
+  "kickoff_utc": "2026-10-25T17:00:00Z",
+  "model": "phase7",
+  "players": [
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Braelon Allen",
+      "position": "RB",
+      "predicted_probability": 0.35493207,
+      "team": "NYJ"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Garrett Wilson",
+      "position": "WR",
+      "predicted_probability": 0.33742281,
+      "team": "NYJ"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Ollie Gordon II",
+      "position": "RB",
+      "predicted_probability": 0.30178904,
+      "team": "MIA"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Malik Washington",
+      "position": "WR",
+      "predicted_probability": 0.26637867,
+      "team": "MIA"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Kenyon Sadiq",
+      "position": "TE",
+      "predicted_probability": 0.19647122,
+      "team": "NYJ"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Malik Willis",
+      "position": "QB",
+      "predicted_probability": 0.19297063,
+      "team": "MIA"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Kevin Coleman Jr.",
+      "position": "WR",
+      "predicted_probability": 0.1690264,
+      "team": "MIA"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Greg Dulcich",
+      "position": "TE",
+      "predicted_probability": 0.1519453,
+      "team": "MIA"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "De'Von Achane",
+      "position": "RB",
+      "predicted_probability": 0.1325383,
+      "team": "MIA"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Isaiah Williams",
+      "position": "WR",
+      "predicted_probability": 0.12502433,
+      "team": "NYJ"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Omar Cooper Jr.",
+      "position": "WR",
+      "predicted_probability": 0.11942163,
+      "team": "NYJ"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Chris Bell",
+      "position": "WR",
+      "predicted_probability": 0.11681208,
+      "team": "MIA"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Mason Taylor",
+      "position": "TE",
+      "predicted_probability": 0.11662628,
+      "team": "NYJ"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jaylen Wright",
+      "position": "RB",
+      "predicted_probability": 0.09609727,
+      "team": "MIA"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Geno Smith",
+      "position": "QB",
+      "predicted_probability": 0.08942534,
+      "team": "NYJ"
+    },
+    {
+      "availability": "UNCERTAIN: QUESTIONABLE",
+      "excluded_from_favorites": false,
+      "player": "Breece Hall",
+      "position": "RB",
+      "predicted_probability": 0.08757189,
+      "team": "NYJ"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Isaiah Davis",
+      "position": "RB",
+      "predicted_probability": 0.07851819,
+      "team": "NYJ"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Tim Patrick",
+      "position": "WR",
+      "predicted_probability": 0.0743921,
+      "team": "NYJ"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Ryan Miller",
+      "position": "WR",
+      "predicted_probability": 0.06154647,
+      "team": "MIA"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jeremy Ruckert",
+      "position": "TE",
+      "predicted_probability": 0.0523152,
+      "team": "NYJ"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Will Kacmarek",
+      "position": "TE",
+      "predicted_probability": 0.05227524,
+      "team": "MIA"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jelani Woods",
+      "position": "TE",
+      "predicted_probability": 0.04927797,
+      "team": "NYJ"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jalen Tolbert",
+      "position": "WR",
+      "predicted_probability": 0.04107968,
+      "team": "MIA"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Caleb Douglas",
+      "position": "WR",
+      "predicted_probability": 0.03764329,
+      "team": "MIA"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Adonai Mitchell",
+      "position": "WR",
+      "predicted_probability": 0.03671583,
+      "team": "NYJ"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Sterling Shepard",
+      "position": "WR",
+      "predicted_probability": 0.02429295,
+      "team": "NYJ"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "DJ Herman",
+      "position": "RB",
+      "predicted_probability": 0.01849768,
+      "team": "MIA"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Bradley Pinion",
+      "position": "P",
+      "predicted_probability": 0.01379172,
+      "team": "MIA"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Arian Smith",
+      "position": "WR",
+      "predicted_probability": 0.00631068,
+      "team": "NYJ"
+    }
+  ],
+  "provenance": "Published dashboard snapshot, archived by GitHub Actions before kickoff",
+  "schema_version": 1,
+  "season": 2026,
+  "week": 7
+}
