@@ -1,0 +1,283 @@
+{
+  "forecast_generated_at_utc": "2026-10-25T16:11:15Z",
+  "game": "DEN @ ARI",
+  "graded_at_utc": "2026-10-26T19:31:36Z",
+  "kickoff_utc": "2026-10-25T20:05:00Z",
+  "outcome_definition": "at least one rushing or receiving touchdown",
+  "players": [
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Trey McBride",
+      "position": "TE",
+      "predicted_probability": 0.39769009,
+      "scored_td": 1,
+      "team": "ARI",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Michael Wilson",
+      "position": "WR",
+      "predicted_probability": 0.37440702,
+      "scored_td": 0,
+      "team": "ARI",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "J.K. Dobbins",
+      "position": "RB",
+      "predicted_probability": 0.35108207,
+      "scored_td": 1,
+      "team": "DEN",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "RJ Harvey",
+      "position": "RB",
+      "predicted_probability": 0.27450763,
+      "scored_td": 1,
+      "team": "DEN",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jaylen Waddle",
+      "position": "WR",
+      "predicted_probability": 0.26048819,
+      "scored_td": 0,
+      "team": "DEN",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Tyler Allgeier",
+      "position": "RB",
+      "predicted_probability": 0.26041688,
+      "scored_td": 0,
+      "team": "ARI",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "EXCLUDED: REPORTED OUT",
+      "excluded_from_favorites": true,
+      "player": "Jeremiyah Love",
+      "position": "RB",
+      "predicted_probability": 0.25314003,
+      "scored_td": null,
+      "team": "ARI",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Kendrick Bourne",
+      "position": "WR",
+      "predicted_probability": 0.21356955,
+      "scored_td": 0,
+      "team": "ARI",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Courtland Sutton",
+      "position": "WR",
+      "predicted_probability": 0.21315858,
+      "scored_td": 0,
+      "team": "DEN",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Evan Engram",
+      "position": "TE",
+      "predicted_probability": 0.15158206,
+      "scored_td": 0,
+      "team": "DEN",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Bo Nix",
+      "position": "QB",
+      "predicted_probability": 0.13513241,
+      "scored_td": 1,
+      "team": "DEN",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Elijah Higgins",
+      "position": "TE",
+      "predicted_probability": 0.11847254,
+      "scored_td": 0,
+      "team": "ARI",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jacoby Brissett",
+      "position": "QB",
+      "predicted_probability": 0.11248588,
+      "scored_td": 0,
+      "team": "ARI",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Bam Knight",
+      "position": "RB",
+      "predicted_probability": 0.10890588,
+      "scored_td": 0,
+      "team": "ARI",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jalen Brooks",
+      "position": "WR",
+      "predicted_probability": 0.10429267,
+      "scored_td": 0,
+      "team": "ARI",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Marvin Mims Jr.",
+      "position": "WR",
+      "predicted_probability": 0.09511058,
+      "scored_td": 0,
+      "team": "DEN",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Teagan Quitoriano",
+      "position": "TE",
+      "predicted_probability": 0.08318718,
+      "scored_td": null,
+      "team": "ARI",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Pat Bryant",
+      "position": "WR",
+      "predicted_probability": 0.08049945,
+      "scored_td": null,
+      "team": "DEN",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "EXCLUDED: REPORTED OUT",
+      "excluded_from_favorites": true,
+      "player": "Tyler Badie",
+      "position": "RB",
+      "predicted_probability": 0.07990962,
+      "scored_td": null,
+      "team": "DEN",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Troy Franklin",
+      "position": "WR",
+      "predicted_probability": 0.06281998,
+      "scored_td": 0,
+      "team": "DEN",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Nate Adkins",
+      "position": "TE",
+      "predicted_probability": 0.0572867,
+      "scored_td": 0,
+      "team": "DEN",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Reggie Virgil",
+      "position": "WR",
+      "predicted_probability": 0.05195614,
+      "scored_td": null,
+      "team": "ARI",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "UNCERTAIN: QUESTIONABLE",
+      "excluded_from_favorites": false,
+      "player": "Jonah Coleman",
+      "position": "RB",
+      "predicted_probability": 0.03095019,
+      "scored_td": 0,
+      "team": "DEN",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Lil'Jordan Humphrey",
+      "position": "WR",
+      "predicted_probability": 0.02914944,
+      "scored_td": 0,
+      "team": "DEN",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Adam Trautman",
+      "position": "TE",
+      "predicted_probability": 0.02392357,
+      "scored_td": 0,
+      "team": "DEN",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Adam Prentice",
+      "position": "FB",
+      "predicted_probability": 0.01913098,
+      "scored_td": 0,
+      "team": "DEN",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Hunter Long",
+      "position": "TE",
+      "predicted_probability": 0.01693387,
+      "scored_td": null,
+      "team": "ARI",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    }
+  ],
+  "schema_version": 1,
+  "season": 2026,
+  "validation_note": "Only players with a unique same-week offensive stat row are graded; others remain unverified.",
+  "week": 7
+}
