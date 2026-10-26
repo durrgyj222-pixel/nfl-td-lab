@@ -1,0 +1,293 @@
+{
+  "forecast_generated_at_utc": "2026-10-25T16:11:15Z",
+  "game": "CIN @ BAL",
+  "graded_at_utc": "2026-10-26T01:32:02Z",
+  "kickoff_utc": "2026-10-25T17:00:00Z",
+  "outcome_definition": "at least one rushing or receiving touchdown",
+  "players": [
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Derrick Henry",
+      "position": "RB",
+      "predicted_probability": 0.54181911,
+      "scored_td": 0,
+      "team": "BAL",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Chase Brown",
+      "position": "RB",
+      "predicted_probability": 0.40665287,
+      "scored_td": 0,
+      "team": "CIN",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Ja'Marr Chase",
+      "position": "WR",
+      "predicted_probability": 0.3976416,
+      "scored_td": 1,
+      "team": "CIN",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Zay Flowers",
+      "position": "WR",
+      "predicted_probability": 0.39341412,
+      "scored_td": 1,
+      "team": "BAL",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Tee Higgins",
+      "position": "WR",
+      "predicted_probability": 0.33708163,
+      "scored_td": 1,
+      "team": "CIN",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Mark Andrews",
+      "position": "TE",
+      "predicted_probability": 0.27451023,
+      "scored_td": 0,
+      "team": "BAL",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Mike Gesicki",
+      "position": "TE",
+      "predicted_probability": 0.23613768,
+      "scored_td": 1,
+      "team": "CIN",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Samaje Perine",
+      "position": "RB",
+      "predicted_probability": 0.217974,
+      "scored_td": 1,
+      "team": "CIN",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Rashod Bateman",
+      "position": "WR",
+      "predicted_probability": 0.18553197,
+      "scored_td": 0,
+      "team": "BAL",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Dohnte Meyers",
+      "position": "WR",
+      "predicted_probability": 0.16702642,
+      "scored_td": 0,
+      "team": "CIN",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Justice Hill",
+      "position": "RB",
+      "predicted_probability": 0.1581302,
+      "scored_td": 0,
+      "team": "BAL",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Tyler Huntley",
+      "position": "QB",
+      "predicted_probability": 0.15579906,
+      "scored_td": 0,
+      "team": "BAL",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Tanner Hudson",
+      "position": "TE",
+      "predicted_probability": 0.12398237,
+      "scored_td": null,
+      "team": "CIN",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Josh Cuevas",
+      "position": "TE",
+      "predicted_probability": 0.12306419,
+      "scored_td": 0,
+      "team": "BAL",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Devontez Walker",
+      "position": "WR",
+      "predicted_probability": 0.11789355,
+      "scored_td": null,
+      "team": "BAL",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Joe Burrow",
+      "position": "QB",
+      "predicted_probability": 0.10386488,
+      "scored_td": 0,
+      "team": "CIN",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Mitchell Tinsley",
+      "position": "WR",
+      "predicted_probability": 0.09639607,
+      "scored_td": 0,
+      "team": "CIN",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Ja'Kobi Lane",
+      "position": "WR",
+      "predicted_probability": 0.09153086,
+      "scored_td": 0,
+      "team": "BAL",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "EXCLUDED: REPORTED OUT",
+      "excluded_from_favorites": true,
+      "player": "Lamar Jackson",
+      "position": "QB",
+      "predicted_probability": 0.0808435,
+      "scored_td": null,
+      "team": "BAL",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Erick All",
+      "position": "TE",
+      "predicted_probability": 0.07643829,
+      "scored_td": 0,
+      "team": "CIN",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Drew Sample",
+      "position": "TE",
+      "predicted_probability": 0.06347157,
+      "scored_td": 1,
+      "team": "CIN",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Matthew Hibner",
+      "position": "TE",
+      "predicted_probability": 0.06219734,
+      "scored_td": 0,
+      "team": "BAL",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Chris Moore",
+      "position": "WR",
+      "predicted_probability": 0.04408345,
+      "scored_td": null,
+      "team": "BAL",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "LaJohntay Wester",
+      "position": "WR",
+      "predicted_probability": 0.03003879,
+      "scored_td": 0,
+      "team": "BAL",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Elijah Sarratt",
+      "position": "WR",
+      "predicted_probability": 0.02540625,
+      "scored_td": null,
+      "team": "BAL",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Colbie Young",
+      "position": "WR",
+      "predicted_probability": 0.02369337,
+      "scored_td": null,
+      "team": "CIN",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Andrei Iosivas",
+      "position": "WR",
+      "predicted_probability": 0.0234909,
+      "scored_td": null,
+      "team": "CIN",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Durham Smythe",
+      "position": "TE",
+      "predicted_probability": 0.01429671,
+      "scored_td": null,
+      "team": "BAL",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    }
+  ],
+  "schema_version": 1,
+  "season": 2026,
+  "validation_note": "Only players with a unique same-week offensive stat row are graded; others remain unverified.",
+  "week": 7
+}

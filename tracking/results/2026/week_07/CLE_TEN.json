@@ -1,0 +1,283 @@
+{
+  "forecast_generated_at_utc": "2026-10-25T16:11:15Z",
+  "game": "CLE @ TEN",
+  "graded_at_utc": "2026-10-26T01:32:02Z",
+  "kickoff_utc": "2026-10-25T17:00:00Z",
+  "outcome_definition": "at least one rushing or receiving touchdown",
+  "players": [
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Tony Pollard",
+      "position": "RB",
+      "predicted_probability": 0.33262802,
+      "scored_td": 1,
+      "team": "TEN",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Quinshon Judkins",
+      "position": "RB",
+      "predicted_probability": 0.30334602,
+      "scored_td": 1,
+      "team": "CLE",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Denzel Boston",
+      "position": "WR",
+      "predicted_probability": 0.27856261,
+      "scored_td": 0,
+      "team": "CLE",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Wan'Dale Robinson",
+      "position": "WR",
+      "predicted_probability": 0.27460079,
+      "scored_td": 0,
+      "team": "TEN",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Carnell Tate",
+      "position": "WR",
+      "predicted_probability": 0.25337697,
+      "scored_td": 0,
+      "team": "TEN",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Harold Fannin Jr.",
+      "position": "TE",
+      "predicted_probability": 0.2516705,
+      "scored_td": 0,
+      "team": "CLE",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "KC Concepcion",
+      "position": "WR",
+      "predicted_probability": 0.23090415,
+      "scored_td": 0,
+      "team": "CLE",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Deshaun Watson",
+      "position": "QB",
+      "predicted_probability": 0.17649816,
+      "scored_td": 1,
+      "team": "CLE",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jerry Jeudy",
+      "position": "WR",
+      "predicted_probability": 0.14018308,
+      "scored_td": 0,
+      "team": "CLE",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNCERTAIN: QUESTIONABLE",
+      "excluded_from_favorites": false,
+      "player": "Tyjae Spears",
+      "position": "RB",
+      "predicted_probability": 0.1237888,
+      "scored_td": null,
+      "team": "TEN",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Elic Ayomanor",
+      "position": "WR",
+      "predicted_probability": 0.12264255,
+      "scored_td": 0,
+      "team": "TEN",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jaleel McLaughlin",
+      "position": "RB",
+      "predicted_probability": 0.11829853,
+      "scored_td": 0,
+      "team": "CLE",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Cam Ward",
+      "position": "QB",
+      "predicted_probability": 0.10719839,
+      "scored_td": 0,
+      "team": "TEN",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Raheim Sanders",
+      "position": "RB",
+      "predicted_probability": 0.08362918,
+      "scored_td": null,
+      "team": "CLE",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Audric Estimé",
+      "position": "RB",
+      "predicted_probability": 0.07972458,
+      "scored_td": null,
+      "team": "CLE",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "UNCERTAIN: QUESTIONABLE",
+      "excluded_from_favorites": false,
+      "player": "Calvin Ridley",
+      "position": "WR",
+      "predicted_probability": 0.07961616,
+      "scored_td": null,
+      "team": "TEN",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Isaiah Bond",
+      "position": "WR",
+      "predicted_probability": 0.07585184,
+      "scored_td": null,
+      "team": "CLE",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Daniel Bellinger",
+      "position": "TE",
+      "predicted_probability": 0.06825679,
+      "scored_td": 0,
+      "team": "TEN",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Gunnar Helm",
+      "position": "TE",
+      "predicted_probability": 0.06622197,
+      "scored_td": 0,
+      "team": "TEN",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Blake Whiteheart",
+      "position": "TE",
+      "predicted_probability": 0.05978827,
+      "scored_td": null,
+      "team": "CLE",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Chimere Dike",
+      "position": "WR",
+      "predicted_probability": 0.05528589,
+      "scored_td": 0,
+      "team": "TEN",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Michael Burton",
+      "position": "FB",
+      "predicted_probability": 0.03374449,
+      "scored_td": null,
+      "team": "CLE",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Nicholas Singleton",
+      "position": "RB",
+      "predicted_probability": 0.02525405,
+      "scored_td": null,
+      "team": "TEN",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Tylan Wallace",
+      "position": "WR",
+      "predicted_probability": 0.01839978,
+      "scored_td": null,
+      "team": "CLE",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Kylen Granson",
+      "position": "TE",
+      "predicted_probability": 0.01349729,
+      "scored_td": null,
+      "team": "TEN",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Corey Bojorquez",
+      "position": "P",
+      "predicted_probability": 0.01161648,
+      "scored_td": 0,
+      "team": "CLE",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Kalel Mullings",
+      "position": "RB",
+      "predicted_probability": 0.00941104,
+      "scored_td": null,
+      "team": "TEN",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    }
+  ],
+  "schema_version": 1,
+  "season": 2026,
+  "validation_note": "Only players with a unique same-week offensive stat row are graded; others remain unverified.",
+  "week": 7
+}
