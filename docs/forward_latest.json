@@ -1,7 +1,7 @@
 {
   "archived_games": 27,
-  "archived_player_rows_in_graded_games": 751,
-  "brier_on_graded_rows": 0.14405,
+  "archived_player_rows_in_graded_games": 780,
+  "brier_on_graded_rows": 0.14534,
   "games": [
     {
       "archived_players": 31,
@@ -110,6 +110,16 @@
       "game": "DEN @ ARI",
       "graded_players": 21,
       "scorers": 4,
+      "season": 2026,
+      "week": 7
+    },
+    {
+      "archived_players": 29,
+      "brier_scored_rows": 0.18268,
+      "forecast_generated_at_utc": "2026-10-26T21:39:46Z",
+      "game": "DAL @ PHI",
+      "graded_players": 18,
+      "scorers": 6,
       "season": 2026,
       "week": 7
     },
@@ -264,12 +274,12 @@
       "week": 6
     }
   ],
-  "generated_at_utc": "2026-10-26T19:31:36Z",
-  "graded_games": 26,
-  "graded_player_rows": 519,
+  "generated_at_utc": "2026-10-27T18:55:30Z",
+  "graded_games": 27,
+  "graded_player_rows": 537,
   "important_limitation": "Graded subset requires same-week stat row and excludes flagged OUT players. This is NOT a complete active-roster evaluation; missing rows do NOT equal zero touchdowns.",
   "model": "phase7",
   "schema_version": 1,
-  "scoring_rate_on_graded_rows": 0.19268,
-  "ungraded_player_rows": 232
+  "scoring_rate_on_graded_rows": 0.19739,
+  "ungraded_player_rows": 243
 }
