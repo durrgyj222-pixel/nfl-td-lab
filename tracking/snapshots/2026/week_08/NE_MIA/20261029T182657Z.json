@@ -1,0 +1,253 @@
+{
+  "captured_at_utc": "2026-10-29T18:27:11Z",
+  "forecast_generated_at_utc": "2026-10-29T18:26:57Z",
+  "game": "NE @ MIA",
+  "kickoff_utc": "2026-11-01T21:25:00Z",
+  "model": "phase7",
+  "players": [
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Ollie Gordon II",
+      "position": "RB",
+      "predicted_probability": 0.36480881,
+      "team": "MIA"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Rhamondre Stevenson",
+      "position": "RB",
+      "predicted_probability": 0.35269042,
+      "team": "NE"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "DeMario Douglas",
+      "position": "WR",
+      "predicted_probability": 0.28020714,
+      "team": "NE"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Malik Washington",
+      "position": "WR",
+      "predicted_probability": 0.27117109,
+      "team": "MIA"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Hunter Henry",
+      "position": "TE",
+      "predicted_probability": 0.26791933,
+      "team": "NE"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Malik Willis",
+      "position": "QB",
+      "predicted_probability": 0.21639088,
+      "team": "MIA"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Eli Raridon",
+      "position": "TE",
+      "predicted_probability": 0.20603837,
+      "team": "NE"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "A.J. Brown",
+      "position": "WR",
+      "predicted_probability": 0.20481912,
+      "team": "NE"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "TreVeyon Henderson",
+      "position": "RB",
+      "predicted_probability": 0.20076987,
+      "team": "NE"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Romeo Doubs",
+      "position": "WR",
+      "predicted_probability": 0.18727889,
+      "team": "NE"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Greg Dulcich",
+      "position": "TE",
+      "predicted_probability": 0.16916909,
+      "team": "MIA"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Kevin Coleman Jr.",
+      "position": "WR",
+      "predicted_probability": 0.16719823,
+      "team": "MIA"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Drake Maye",
+      "position": "QB",
+      "predicted_probability": 0.1639099,
+      "team": "NE"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Efton Chism III",
+      "position": "WR",
+      "predicted_probability": 0.15459922,
+      "team": "NE"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Corey Kiner",
+      "position": "RB",
+      "predicted_probability": 0.13925329,
+      "team": "NE"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Chris Bell",
+      "position": "WR",
+      "predicted_probability": 0.13003061,
+      "team": "MIA"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Caleb Douglas",
+      "position": "WR",
+      "predicted_probability": 0.12446638,
+      "team": "MIA"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jaylen Wright",
+      "position": "RB",
+      "predicted_probability": 0.1231361,
+      "team": "MIA"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Kyle Williams",
+      "position": "WR",
+      "predicted_probability": 0.10846023,
+      "team": "NE"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "De'Von Achane",
+      "position": "RB",
+      "predicted_probability": 0.0694148,
+      "team": "MIA"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Mack Hollins",
+      "position": "WR",
+      "predicted_probability": 0.05885272,
+      "team": "NE"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Ryan Miller",
+      "position": "WR",
+      "predicted_probability": 0.04323676,
+      "team": "MIA"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Will Kacmarek",
+      "position": "TE",
+      "predicted_probability": 0.04298786,
+      "team": "MIA"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jalen Tolbert",
+      "position": "WR",
+      "predicted_probability": 0.03526568,
+      "team": "MIA"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Seydou Traore",
+      "position": "TE",
+      "predicted_probability": 0.01727235,
+      "team": "MIA"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Bradley Pinion",
+      "position": "P",
+      "predicted_probability": 0.01102454,
+      "team": "MIA"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "DJ Herman",
+      "position": "RB",
+      "predicted_probability": 0.01058171,
+      "team": "MIA"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Reggie Gilliam",
+      "position": "RB",
+      "predicted_probability": 0.00647631,
+      "team": "NE"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Tommy DeVito",
+      "position": "QB",
+      "predicted_probability": 0.00629614,
+      "team": "NE"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Lan Larison",
+      "position": "RB",
+      "predicted_probability": 0.00536775,
+      "team": "NE"
+    }
+  ],
+  "provenance": "Published dashboard snapshot, archived by GitHub Actions before kickoff",
+  "schema_version": 1,
+  "season": 2026,
+  "week": 8
+}

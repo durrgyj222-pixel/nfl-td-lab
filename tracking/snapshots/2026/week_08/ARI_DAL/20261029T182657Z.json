@@ -1,0 +1,213 @@
+{
+  "captured_at_utc": "2026-10-29T18:27:11Z",
+  "forecast_generated_at_utc": "2026-10-29T18:26:57Z",
+  "game": "ARI @ DAL",
+  "kickoff_utc": "2026-11-01T18:00:00Z",
+  "model": "phase7",
+  "players": [
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "CeeDee Lamb",
+      "position": "WR",
+      "predicted_probability": 0.51387014,
+      "team": "DAL"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Javonte Williams",
+      "position": "RB",
+      "predicted_probability": 0.49741564,
+      "team": "DAL"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Trey McBride",
+      "position": "TE",
+      "predicted_probability": 0.41848499,
+      "team": "ARI"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Michael Wilson",
+      "position": "WR",
+      "predicted_probability": 0.33691954,
+      "team": "ARI"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "George Pickens",
+      "position": "WR",
+      "predicted_probability": 0.33512655,
+      "team": "DAL"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Tyler Allgeier",
+      "position": "RB",
+      "predicted_probability": 0.24740656,
+      "team": "ARI"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Ryan Flournoy",
+      "position": "WR",
+      "predicted_probability": 0.2471689,
+      "team": "DAL"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Kendrick Bourne",
+      "position": "WR",
+      "predicted_probability": 0.21921877,
+      "team": "ARI"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jake Ferguson",
+      "position": "TE",
+      "predicted_probability": 0.18933063,
+      "team": "DAL"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Tyler Goodson",
+      "position": "RB",
+      "predicted_probability": 0.16449102,
+      "team": "DAL"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Bam Knight",
+      "position": "RB",
+      "predicted_probability": 0.16389237,
+      "team": "ARI"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jalen Brooks",
+      "position": "WR",
+      "predicted_probability": 0.14383545,
+      "team": "ARI"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jeremiyah Love",
+      "position": "RB",
+      "predicted_probability": 0.14153467,
+      "team": "ARI"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jacoby Brissett",
+      "position": "QB",
+      "predicted_probability": 0.12751212,
+      "team": "ARI"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Elijah Higgins",
+      "position": "TE",
+      "predicted_probability": 0.12452453,
+      "team": "ARI"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Brevyn Spann-Ford",
+      "position": "TE",
+      "predicted_probability": 0.09987289,
+      "team": "DAL"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Dak Prescott",
+      "position": "QB",
+      "predicted_probability": 0.09163136,
+      "team": "DAL"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jonathan Mingo",
+      "position": "WR",
+      "predicted_probability": 0.07501789,
+      "team": "DAL"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "KaVontae Turpin",
+      "position": "WR",
+      "predicted_probability": 0.06700024,
+      "team": "DAL"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Teagan Quitoriano",
+      "position": "TE",
+      "predicted_probability": 0.06536317,
+      "team": "ARI"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Hunter Luepke",
+      "position": "RB",
+      "predicted_probability": 0.06314966,
+      "team": "DAL"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Reggie Virgil",
+      "position": "WR",
+      "predicted_probability": 0.04018097,
+      "team": "ARI"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Luke Schoonmaker",
+      "position": "TE",
+      "predicted_probability": 0.01889969,
+      "team": "DAL"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Emari Demercado",
+      "position": "RB",
+      "predicted_probability": 0.01141908,
+      "team": "DAL"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Hunter Long",
+      "position": "TE",
+      "predicted_probability": 0.01032064,
+      "team": "ARI"
+    }
+  ],
+  "provenance": "Published dashboard snapshot, archived by GitHub Actions before kickoff",
+  "schema_version": 1,
+  "season": 2026,
+  "week": 8
+}

@@ -1,0 +1,269 @@
+{
+  "captured_at_utc": "2026-10-29T18:27:11Z",
+  "forecast_generated_at_utc": "2026-10-29T18:26:57Z",
+  "game": "LAC @ LA",
+  "kickoff_utc": "2026-11-01T21:05:00Z",
+  "model": "phase7",
+  "players": [
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Kyren Williams",
+      "position": "RB",
+      "predicted_probability": 0.53247468,
+      "team": "LA"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Puka Nacua",
+      "position": "WR",
+      "predicted_probability": 0.45202583,
+      "team": "LA"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Blake Corum",
+      "position": "RB",
+      "predicted_probability": 0.33813766,
+      "team": "LA"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Omarion Hampton",
+      "position": "RB",
+      "predicted_probability": 0.28892256,
+      "team": "LAC"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Davante Adams",
+      "position": "WR",
+      "predicted_probability": 0.26934002,
+      "team": "LA"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Keaton Mitchell",
+      "position": "RB",
+      "predicted_probability": 0.20700215,
+      "team": "LAC"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Kimani Vidal",
+      "position": "RB",
+      "predicted_probability": 0.20145868,
+      "team": "LAC"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Oronde Gadsden II",
+      "position": "TE",
+      "predicted_probability": 0.19287746,
+      "team": "LAC"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Tyler Higbee",
+      "position": "TE",
+      "predicted_probability": 0.18741075,
+      "team": "LA"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Colby Parkinson",
+      "position": "TE",
+      "predicted_probability": 0.1746961,
+      "team": "LA"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Davis Allen",
+      "position": "TE",
+      "predicted_probability": 0.16226583,
+      "team": "LA"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Justin Herbert",
+      "position": "QB",
+      "predicted_probability": 0.1417982,
+      "team": "LAC"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Tre Harris",
+      "position": "WR",
+      "predicted_probability": 0.13597544,
+      "team": "LAC"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Konata Mumpfield",
+      "position": "WR",
+      "predicted_probability": 0.11992348,
+      "team": "LA"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Quentin Johnston",
+      "position": "WR",
+      "predicted_probability": 0.11898771,
+      "team": "LAC"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Charlie Kolar",
+      "position": "TE",
+      "predicted_probability": 0.11001068,
+      "team": "LAC"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Ladd McConkey",
+      "position": "WR",
+      "predicted_probability": 0.1096877,
+      "team": "LAC"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "KeAndre Lambert-Smith",
+      "position": "WR",
+      "predicted_probability": 0.09639316,
+      "team": "LAC"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Matthew Stafford",
+      "position": "QB",
+      "predicted_probability": 0.07402364,
+      "team": "LA"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Hayden Rucci",
+      "position": "TE",
+      "predicted_probability": 0.05257582,
+      "team": "LAC"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Theo Wease Jr.",
+      "position": "WR",
+      "predicted_probability": 0.04992758,
+      "team": "LAC"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Marquez Valdes-Scantling",
+      "position": "WR",
+      "predicted_probability": 0.04343664,
+      "team": "LAC"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Terrance Ferguson",
+      "position": "TE",
+      "predicted_probability": 0.03735618,
+      "team": "LA"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Derius Davis",
+      "position": "WR",
+      "predicted_probability": 0.0302693,
+      "team": "LAC"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jordan Whittington",
+      "position": "WR",
+      "predicted_probability": 0.02981049,
+      "team": "LA"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Tutu Atwell",
+      "position": "WR",
+      "predicted_probability": 0.0254446,
+      "team": "LA"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Alec Ingold",
+      "position": "FB",
+      "predicted_probability": 0.02253323,
+      "team": "LAC"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "David Njoku",
+      "position": "TE",
+      "predicted_probability": 0.02059033,
+      "team": "LAC"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Brenen Thompson",
+      "position": "WR",
+      "predicted_probability": 0.01090123,
+      "team": "LAC"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Ronnie Rivers",
+      "position": "RB",
+      "predicted_probability": 0.00979551,
+      "team": "LA"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Xavier Smith",
+      "position": "WR",
+      "predicted_probability": 0.00616106,
+      "team": "LA"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Stetson Bennett",
+      "position": "QB",
+      "predicted_probability": 0.00457327,
+      "team": "LA"
+    }
+  ],
+  "provenance": "Published dashboard snapshot, archived by GitHub Actions before kickoff",
+  "schema_version": 1,
+  "season": 2026,
+  "week": 8
+}

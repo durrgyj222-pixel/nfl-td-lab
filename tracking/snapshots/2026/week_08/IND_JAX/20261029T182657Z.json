@@ -1,0 +1,245 @@
+{
+  "captured_at_utc": "2026-10-29T18:27:11Z",
+  "forecast_generated_at_utc": "2026-10-29T18:26:57Z",
+  "game": "IND @ JAX",
+  "kickoff_utc": "2026-11-01T18:00:00Z",
+  "model": "phase7",
+  "players": [
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jonathan Taylor",
+      "position": "RB",
+      "predicted_probability": 0.50361371,
+      "team": "IND"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Parker Washington",
+      "position": "WR",
+      "predicted_probability": 0.43780522,
+      "team": "JAX"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Bhayshul Tuten",
+      "position": "RB",
+      "predicted_probability": 0.41826602,
+      "team": "JAX"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jakobi Meyers",
+      "position": "WR",
+      "predicted_probability": 0.3255889,
+      "team": "JAX"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Brenton Strange",
+      "position": "TE",
+      "predicted_probability": 0.29302356,
+      "team": "JAX"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Brian Thomas Jr.",
+      "position": "WR",
+      "predicted_probability": 0.19204633,
+      "team": "JAX"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Keenan Allen",
+      "position": "WR",
+      "predicted_probability": 0.18979776,
+      "team": "IND"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Josh Cameron",
+      "position": "WR",
+      "predicted_probability": 0.18348234,
+      "team": "JAX"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Chris Rodriguez Jr.",
+      "position": "RB",
+      "predicted_probability": 0.18160365,
+      "team": "JAX"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Josh Downs",
+      "position": "WR",
+      "predicted_probability": 0.17732971,
+      "team": "IND"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Seth McGowan",
+      "position": "RB",
+      "predicted_probability": 0.17267886,
+      "team": "IND"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Laquon Treadwell",
+      "position": "WR",
+      "predicted_probability": 0.14025674,
+      "team": "IND"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Daniel Jones",
+      "position": "QB",
+      "predicted_probability": 0.13777547,
+      "team": "IND"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Tyler Warren",
+      "position": "TE",
+      "predicted_probability": 0.13749144,
+      "team": "IND"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Nate Boerkircher",
+      "position": "TE",
+      "predicted_probability": 0.13048371,
+      "team": "JAX"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Travis Hunter",
+      "position": "CB",
+      "predicted_probability": 0.10480346,
+      "team": "JAX"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Trevor Lawrence",
+      "position": "QB",
+      "predicted_probability": 0.08786534,
+      "team": "JAX"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Mo Alie-Cox",
+      "position": "TE",
+      "predicted_probability": 0.07471369,
+      "team": "IND"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Will Mallory",
+      "position": "TE",
+      "predicted_probability": 0.07370964,
+      "team": "IND"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Deion Burks",
+      "position": "WR",
+      "predicted_probability": 0.06523435,
+      "team": "IND"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "LeQuint Allen Jr.",
+      "position": "RB",
+      "predicted_probability": 0.05562041,
+      "team": "JAX"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Ameer Abdullah",
+      "position": "RB",
+      "predicted_probability": 0.05223229,
+      "team": "JAX"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Ashton Dulin",
+      "position": "WR",
+      "predicted_probability": 0.04205178,
+      "team": "IND"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Andrew Ogletree",
+      "position": "TE",
+      "predicted_probability": 0.0347051,
+      "team": "IND"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Quintin Morris",
+      "position": "TE",
+      "predicted_probability": 0.01913478,
+      "team": "JAX"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Pharaoh Brown",
+      "position": "TE",
+      "predicted_probability": 0.01221695,
+      "team": "IND"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Alec Pierce",
+      "position": "WR",
+      "predicted_probability": 0.01151799,
+      "team": "IND"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Nick Westbrook-Ikhine",
+      "position": "WR",
+      "predicted_probability": 0.00982672,
+      "team": "IND"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Nick Mullens",
+      "position": "QB",
+      "predicted_probability": 0.00722825,
+      "team": "JAX"
+    }
+  ],
+  "provenance": "Published dashboard snapshot, archived by GitHub Actions before kickoff",
+  "schema_version": 1,
+  "season": 2026,
+  "week": 8
+}

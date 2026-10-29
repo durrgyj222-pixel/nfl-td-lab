@@ -1,5 +1,5 @@
 {
-  "archived_games": 27,
+  "archived_games": 41,
   "archived_player_rows_in_graded_games": 780,
   "brier_on_graded_rows": 0.14534,
   "games": [
@@ -274,7 +274,7 @@
       "week": 6
     }
   ],
-  "generated_at_utc": "2026-10-27T18:55:30Z",
+  "generated_at_utc": "2026-10-29T18:27:11Z",
   "graded_games": 27,
   "graded_player_rows": 537,
   "important_limitation": "Graded subset requires same-week stat row and excludes flagged OUT players. This is NOT a complete active-roster evaluation; missing rows do NOT equal zero touchdowns.",

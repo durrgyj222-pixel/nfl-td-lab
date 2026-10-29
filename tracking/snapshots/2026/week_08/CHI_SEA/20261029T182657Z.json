@@ -1,0 +1,237 @@
+{
+  "captured_at_utc": "2026-10-29T18:27:11Z",
+  "forecast_generated_at_utc": "2026-10-29T18:26:57Z",
+  "game": "CHI @ SEA",
+  "kickoff_utc": "2026-11-03T01:15:00Z",
+  "model": "phase7",
+  "players": [
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "D'Andre Swift",
+      "position": "RB",
+      "predicted_probability": 0.48297765,
+      "team": "CHI"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jaxon Smith-Njigba",
+      "position": "WR",
+      "predicted_probability": 0.47901486,
+      "team": "SEA"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Emanuel Wilson",
+      "position": "RB",
+      "predicted_probability": 0.38914407,
+      "team": "SEA"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Colston Loveland",
+      "position": "TE",
+      "predicted_probability": 0.2917761,
+      "team": "CHI"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Luther Burden III",
+      "position": "WR",
+      "predicted_probability": 0.2826689,
+      "team": "CHI"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Rashid Shaheed",
+      "position": "WR",
+      "predicted_probability": 0.23654754,
+      "team": "SEA"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "AJ Barner",
+      "position": "TE",
+      "predicted_probability": 0.23275672,
+      "team": "SEA"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Roschon Johnson",
+      "position": "RB",
+      "predicted_probability": 0.21868569,
+      "team": "CHI"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Rome Odunze",
+      "position": "WR",
+      "predicted_probability": 0.20175164,
+      "team": "CHI"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Cooper Kupp",
+      "position": "WR",
+      "predicted_probability": 0.19865518,
+      "team": "SEA"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "George Holani",
+      "position": "RB",
+      "predicted_probability": 0.18780029,
+      "team": "SEA"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Caleb Williams",
+      "position": "QB",
+      "predicted_probability": 0.16289655,
+      "team": "CHI"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Kalif Raymond",
+      "position": "WR",
+      "predicted_probability": 0.15164427,
+      "team": "CHI"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Kyle Monangai",
+      "position": "RB",
+      "predicted_probability": 0.12284093,
+      "team": "CHI"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Tory Horton",
+      "position": "WR",
+      "predicted_probability": 0.11859629,
+      "team": "SEA"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Cole Kmet",
+      "position": "TE",
+      "predicted_probability": 0.10579472,
+      "team": "CHI"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Velus Jones Jr.",
+      "position": "RB",
+      "predicted_probability": 0.06790239,
+      "team": "SEA"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Eric Saubert",
+      "position": "TE",
+      "predicted_probability": 0.06311274,
+      "team": "SEA"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Sam Darnold",
+      "position": "QB",
+      "predicted_probability": 0.05575557,
+      "team": "SEA"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Zavion Thomas",
+      "position": "WR",
+      "predicted_probability": 0.05025399,
+      "team": "CHI"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Tyson Bagent",
+      "position": "QB",
+      "predicted_probability": 0.04823869,
+      "team": "CHI"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jahdae Walker",
+      "position": "WR",
+      "predicted_probability": 0.04822073,
+      "team": "CHI"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Case Keenum",
+      "position": "QB",
+      "predicted_probability": 0.04113178,
+      "team": "CHI"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jadarian Price",
+      "position": "RB",
+      "predicted_probability": 0.03862824,
+      "team": "SEA"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Sam Roush",
+      "position": "TE",
+      "predicted_probability": 0.02354821,
+      "team": "CHI"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Elijah Arroyo",
+      "position": "TE",
+      "predicted_probability": 0.01814093,
+      "team": "SEA"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Brady Russell",
+      "position": "RB",
+      "predicted_probability": 0.01796108,
+      "team": "SEA"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Drew Lock",
+      "position": "QB",
+      "predicted_probability": 0.00512047,
+      "team": "SEA"
+    }
+  ],
+  "provenance": "Published dashboard snapshot, archived by GitHub Actions before kickoff",
+  "schema_version": 1,
+  "season": 2026,
+  "week": 8
+}

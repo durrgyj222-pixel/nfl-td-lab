@@ -1,0 +1,237 @@
+{
+  "captured_at_utc": "2026-10-29T18:27:11Z",
+  "forecast_generated_at_utc": "2026-10-29T18:26:57Z",
+  "game": "TEN @ CIN",
+  "kickoff_utc": "2026-11-01T18:00:00Z",
+  "model": "phase7",
+  "players": [
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Chase Brown",
+      "position": "RB",
+      "predicted_probability": 0.43374631,
+      "team": "CIN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Tony Pollard",
+      "position": "RB",
+      "predicted_probability": 0.42515282,
+      "team": "TEN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Ja'Marr Chase",
+      "position": "WR",
+      "predicted_probability": 0.40954543,
+      "team": "CIN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Tee Higgins",
+      "position": "WR",
+      "predicted_probability": 0.37275817,
+      "team": "CIN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Wan'Dale Robinson",
+      "position": "WR",
+      "predicted_probability": 0.25156634,
+      "team": "TEN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Mike Gesicki",
+      "position": "TE",
+      "predicted_probability": 0.25120585,
+      "team": "CIN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Samaje Perine",
+      "position": "RB",
+      "predicted_probability": 0.22920067,
+      "team": "CIN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Carnell Tate",
+      "position": "WR",
+      "predicted_probability": 0.22820571,
+      "team": "TEN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Dohnte Meyers",
+      "position": "WR",
+      "predicted_probability": 0.18378481,
+      "team": "CIN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Elic Ayomanor",
+      "position": "WR",
+      "predicted_probability": 0.14439905,
+      "team": "TEN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Mitchell Tinsley",
+      "position": "WR",
+      "predicted_probability": 0.12459575,
+      "team": "CIN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Cam Ward",
+      "position": "QB",
+      "predicted_probability": 0.11969579,
+      "team": "TEN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Joe Burrow",
+      "position": "QB",
+      "predicted_probability": 0.10779177,
+      "team": "CIN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Drew Sample",
+      "position": "TE",
+      "predicted_probability": 0.10640071,
+      "team": "CIN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Tyjae Spears",
+      "position": "RB",
+      "predicted_probability": 0.10262403,
+      "team": "TEN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Erick All",
+      "position": "TE",
+      "predicted_probability": 0.10244732,
+      "team": "CIN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Tanner Hudson",
+      "position": "TE",
+      "predicted_probability": 0.10105751,
+      "team": "CIN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Gunnar Helm",
+      "position": "TE",
+      "predicted_probability": 0.07908021,
+      "team": "TEN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Daniel Bellinger",
+      "position": "TE",
+      "predicted_probability": 0.06632595,
+      "team": "TEN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Calvin Ridley",
+      "position": "WR",
+      "predicted_probability": 0.05562135,
+      "team": "TEN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Chimere Dike",
+      "position": "WR",
+      "predicted_probability": 0.04514166,
+      "team": "TEN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Michael Carter",
+      "position": "RB",
+      "predicted_probability": 0.03923379,
+      "team": "TEN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Tahj Brooks",
+      "position": "RB",
+      "predicted_probability": 0.02588994,
+      "team": "CIN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Nicholas Singleton",
+      "position": "RB",
+      "predicted_probability": 0.02120379,
+      "team": "TEN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Andrei Iosivas",
+      "position": "WR",
+      "predicted_probability": 0.01723897,
+      "team": "CIN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Colbie Young",
+      "position": "WR",
+      "predicted_probability": 0.01612052,
+      "team": "CIN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Kylen Granson",
+      "position": "TE",
+      "predicted_probability": 0.01013273,
+      "team": "TEN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Kalel Mullings",
+      "position": "RB",
+      "predicted_probability": 0.00906789,
+      "team": "TEN"
+    }
+  ],
+  "provenance": "Published dashboard snapshot, archived by GitHub Actions before kickoff",
+  "schema_version": 1,
+  "season": 2026,
+  "week": 8
+}

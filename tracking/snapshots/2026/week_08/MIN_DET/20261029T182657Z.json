@@ -1,0 +1,229 @@
+{
+  "captured_at_utc": "2026-10-29T18:27:11Z",
+  "forecast_generated_at_utc": "2026-10-29T18:26:57Z",
+  "game": "MIN @ DET",
+  "kickoff_utc": "2026-11-01T18:00:00Z",
+  "model": "phase7",
+  "players": [
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jahmyr Gibbs",
+      "position": "RB",
+      "predicted_probability": 0.66055074,
+      "team": "DET"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Amon-Ra St. Brown",
+      "position": "WR",
+      "predicted_probability": 0.51493302,
+      "team": "DET"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Aaron Jones",
+      "position": "RB",
+      "predicted_probability": 0.40236936,
+      "team": "MIN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jameson Williams",
+      "position": "WR",
+      "predicted_probability": 0.36246667,
+      "team": "DET"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Sam LaPorta",
+      "position": "TE",
+      "predicted_probability": 0.34702908,
+      "team": "DET"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "T.J. Hockenson",
+      "position": "TE",
+      "predicted_probability": 0.27767083,
+      "team": "MIN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Justin Jefferson",
+      "position": "WR",
+      "predicted_probability": 0.25337053,
+      "team": "MIN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Isaac TeSlaa",
+      "position": "WR",
+      "predicted_probability": 0.19428692,
+      "team": "DET"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jordan Addison",
+      "position": "WR",
+      "predicted_probability": 0.18327497,
+      "team": "MIN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jordan Mason",
+      "position": "RB",
+      "predicted_probability": 0.13246072,
+      "team": "MIN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Kyler Murray",
+      "position": "QB",
+      "predicted_probability": 0.120966,
+      "team": "MIN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Sione Vaki",
+      "position": "RB",
+      "predicted_probability": 0.11343939,
+      "team": "DET"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Gavin Bartholomew",
+      "position": "TE",
+      "predicted_probability": 0.0939172,
+      "team": "MIN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jared Goff",
+      "position": "QB",
+      "predicted_probability": 0.09017699,
+      "team": "DET"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Myles Price",
+      "position": "WR",
+      "predicted_probability": 0.08118341,
+      "team": "MIN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jauan Jennings",
+      "position": "WR",
+      "predicted_probability": 0.08008327,
+      "team": "MIN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Tai Felton",
+      "position": "WR",
+      "predicted_probability": 0.07887221,
+      "team": "MIN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Brock Wright",
+      "position": "TE",
+      "predicted_probability": 0.05857413,
+      "team": "DET"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Demond Claiborne",
+      "position": "RB",
+      "predicted_probability": 0.03721877,
+      "team": "MIN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "DeeJay Dallas",
+      "position": "RB",
+      "predicted_probability": 0.03669578,
+      "team": "MIN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Tyler Conklin",
+      "position": "TE",
+      "predicted_probability": 0.02208264,
+      "team": "DET"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Josh Oliver",
+      "position": "TE",
+      "predicted_probability": 0.020012,
+      "team": "MIN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Ben Yurosek",
+      "position": "TE",
+      "predicted_probability": 0.01608717,
+      "team": "MIN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jeshaun Jones",
+      "position": "WR",
+      "predicted_probability": 0.01560186,
+      "team": "MIN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Max Bredeson",
+      "position": "RB",
+      "predicted_probability": 0.0151856,
+      "team": "MIN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Carson Wentz",
+      "position": "QB",
+      "predicted_probability": 0.01435396,
+      "team": "MIN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jackson Meeks",
+      "position": "TE",
+      "predicted_probability": 0.01193893,
+      "team": "DET"
+    }
+  ],
+  "provenance": "Published dashboard snapshot, archived by GitHub Actions before kickoff",
+  "schema_version": 1,
+  "season": 2026,
+  "week": 8
+}
