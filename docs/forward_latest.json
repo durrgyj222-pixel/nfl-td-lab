@@ -1,8 +1,18 @@
 {
   "archived_games": 41,
-  "archived_player_rows_in_graded_games": 780,
-  "brier_on_graded_rows": 0.14534,
+  "archived_player_rows_in_graded_games": 815,
+  "brier_on_graded_rows": 0.14468,
   "games": [
+    {
+      "archived_players": 35,
+      "brier_scored_rows": 0.12839,
+      "forecast_generated_at_utc": "2026-10-29T18:26:57Z",
+      "game": "CAR @ GB",
+      "graded_players": 22,
+      "scorers": 5,
+      "season": 2026,
+      "week": 8
+    },
     {
       "archived_players": 31,
       "brier_scored_rows": 0.1447,
@@ -274,12 +284,12 @@
       "week": 6
     }
   ],
-  "generated_at_utc": "2026-10-29T18:27:11Z",
-  "graded_games": 27,
-  "graded_player_rows": 537,
+  "generated_at_utc": "2026-10-30T18:48:59Z",
+  "graded_games": 28,
+  "graded_player_rows": 559,
   "important_limitation": "Graded subset requires same-week stat row and excludes flagged OUT players. This is NOT a complete active-roster evaluation; missing rows do NOT equal zero touchdowns.",
   "model": "phase7",
   "schema_version": 1,
-  "scoring_rate_on_graded_rows": 0.19739,
-  "ungraded_player_rows": 243
+  "scoring_rate_on_graded_rows": 0.19857,
+  "ungraded_player_rows": 256
 }
