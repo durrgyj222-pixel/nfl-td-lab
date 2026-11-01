@@ -1,6 +1,6 @@
 {
   "app_data_version": 1,
-  "generated_at_utc": "2026-10-31T17:14:35+00:00",
+  "generated_at_utc": "2026-11-01T17:55:22+00:00",
   "note": "Experimental P7 probabilities unchanged; non-excluded does not mean officially active.",
   "games": [
     {
@@ -10,12 +10,12 @@
       "weather": {
         "stadium": "Highmark Stadium",
         "roof": "OUTDOORS",
-        "temperature_f": "66.5",
-        "wind_mph_max": "6.1",
-        "gust_mph_max": "11.0",
-        "precip_probability_pct_max": "4.0",
+        "temperature_f": "69.6",
+        "wind_mph_max": "9.2",
+        "gust_mph_max": "12.5",
+        "precip_probability_pct_max": "1.0",
         "weather_flags": "NO MAJOR WEATHER FLAGS",
-        "forecast_retrieved_at_utc": "2026-10-31T17:14:29+00:00"
+        "forecast_retrieved_at_utc": "2026-11-01T17:55:15+00:00"
       },
       "favorites": [
         {
@@ -540,12 +540,12 @@
       "weather": {
         "stadium": "Paycor Stadium",
         "roof": "OUTDOORS",
-        "temperature_f": "70.9",
-        "wind_mph_max": "7.7",
-        "gust_mph_max": "11.9",
-        "precip_probability_pct_max": "8.0",
+        "temperature_f": "72.5",
+        "wind_mph_max": "4.9",
+        "gust_mph_max": "6.9",
+        "precip_probability_pct_max": "10.0",
         "weather_flags": "NO MAJOR WEATHER FLAGS",
-        "forecast_retrieved_at_utc": "2026-10-31T17:14:29+00:00"
+        "forecast_retrieved_at_utc": "2026-11-01T17:55:15+00:00"
       },
       "favorites": [
         {
@@ -1086,12 +1086,12 @@
       "weather": {
         "stadium": "AT&T Stadium",
         "roof": "RETRACTABLE (ROOF UNCONFIRMED)",
-        "temperature_f": "75.5",
-        "wind_mph_max": "4.7",
-        "gust_mph_max": "6.7",
-        "precip_probability_pct_max": "3.0",
+        "temperature_f": "71.6",
+        "wind_mph_max": "7.2",
+        "gust_mph_max": "9.2",
+        "precip_probability_pct_max": "2.0",
         "weather_flags": "CHECK ROOF STATUS",
-        "forecast_retrieved_at_utc": "2026-10-31T17:14:29+00:00"
+        "forecast_retrieved_at_utc": "2026-11-01T17:55:15+00:00"
       },
       "favorites": [
         {
@@ -1577,7 +1577,7 @@
         "gust_mph_max": "",
         "precip_probability_pct_max": "",
         "weather_flags": "INDOOR",
-        "forecast_retrieved_at_utc": "2026-10-31T17:14:29+00:00"
+        "forecast_retrieved_at_utc": "2026-11-01T17:55:15+00:00"
       },
       "favorites": [
         {
@@ -2073,11 +2073,11 @@
         "stadium": "EverBank Stadium",
         "roof": "OUTDOORS",
         "temperature_f": "78.8",
-        "wind_mph_max": "9.0",
-        "gust_mph_max": "21.9",
+        "wind_mph_max": "11.7",
+        "gust_mph_max": "17.0",
         "precip_probability_pct_max": "25.0",
         "weather_flags": "NO MAJOR WEATHER FLAGS",
-        "forecast_retrieved_at_utc": "2026-10-31T17:14:29+00:00"
+        "forecast_retrieved_at_utc": "2026-11-01T17:55:15+00:00"
       },
       "favorites": [
         {
@@ -2602,12 +2602,12 @@
       "weather": {
         "stadium": "MetLife Stadium",
         "roof": "OUTDOORS",
-        "temperature_f": "61.0",
-        "wind_mph_max": "6.8",
-        "gust_mph_max": "11.9",
-        "precip_probability_pct_max": "1.0",
+        "temperature_f": "60.6",
+        "wind_mph_max": "4.5",
+        "gust_mph_max": "6.3",
+        "precip_probability_pct_max": "0.0",
         "weather_flags": "NO MAJOR WEATHER FLAGS",
-        "forecast_retrieved_at_utc": "2026-10-31T17:14:29+00:00"
+        "forecast_retrieved_at_utc": "2026-11-01T17:55:15+00:00"
       },
       "favorites": [
         {
@@ -3177,12 +3177,12 @@
       "weather": {
         "stadium": "Acrisure Stadium",
         "roof": "OUTDOORS",
-        "temperature_f": "67.1",
-        "wind_mph_max": "3.1",
-        "gust_mph_max": "5.4",
-        "precip_probability_pct_max": "7.0",
+        "temperature_f": "66.9",
+        "wind_mph_max": "7.1",
+        "gust_mph_max": "12.1",
+        "precip_probability_pct_max": "3.0",
         "weather_flags": "NO MAJOR WEATHER FLAGS",
-        "forecast_retrieved_at_utc": "2026-10-31T17:14:29+00:00"
+        "forecast_retrieved_at_utc": "2026-11-01T17:55:15+00:00"
       },
       "favorites": [
         {
@@ -3722,12 +3722,12 @@
       "weather": {
         "stadium": "Raymond James Stadium",
         "roof": "OUTDOORS",
-        "temperature_f": "71.4",
-        "wind_mph_max": "10.3",
-        "gust_mph_max": "21.5",
-        "precip_probability_pct_max": "59.0",
-        "weather_flags": "NO MAJOR WEATHER FLAGS",
-        "forecast_retrieved_at_utc": "2026-10-31T17:14:29+00:00"
+        "temperature_f": "78.5",
+        "wind_mph_max": "14.6",
+        "gust_mph_max": "30.2",
+        "precip_probability_pct_max": "70.0",
+        "weather_flags": "STRONG WIND GUSTS",
+        "forecast_retrieved_at_utc": "2026-11-01T17:55:15+00:00"
       },
       "favorites": [
         {
@@ -4298,12 +4298,12 @@
       "weather": {
         "stadium": "SoFi Stadium",
         "roof": "COVERED/OPEN-SIDED",
-        "temperature_f": "65.9",
-        "wind_mph_max": "11.5",
-        "gust_mph_max": "21.7",
-        "precip_probability_pct_max": "0.0",
+        "temperature_f": "70.4",
+        "wind_mph_max": "16.9",
+        "gust_mph_max": "26.2",
+        "precip_probability_pct_max": "1.0",
         "weather_flags": "PARTIALLY SHELTERED VENUE",
-        "forecast_retrieved_at_utc": "2026-10-31T17:14:29+00:00"
+        "forecast_retrieved_at_utc": "2026-11-01T17:55:15+00:00"
       },
       "favorites": [
         {
@@ -4889,12 +4889,12 @@
       "weather": {
         "stadium": "Empower Field at Mile High",
         "roof": "OUTDOORS",
-        "temperature_f": "66.9",
-        "wind_mph_max": "9.5",
-        "gust_mph_max": "14.3",
-        "precip_probability_pct_max": "4.0",
+        "temperature_f": "67.9",
+        "wind_mph_max": "8.8",
+        "gust_mph_max": "10.5",
+        "precip_probability_pct_max": "11.0",
         "weather_flags": "NO MAJOR WEATHER FLAGS",
-        "forecast_retrieved_at_utc": "2026-10-31T17:14:29+00:00"
+        "forecast_retrieved_at_utc": "2026-11-01T17:55:15+00:00"
       },
       "favorites": [
         {
@@ -5465,12 +5465,12 @@
       "weather": {
         "stadium": "Hard Rock Stadium",
         "roof": "COVERED/OPEN-SIDED",
-        "temperature_f": "74.0",
-        "wind_mph_max": "8.5",
+        "temperature_f": "78.0",
+        "wind_mph_max": "8.2",
         "gust_mph_max": "24.2",
-        "precip_probability_pct_max": "55.0",
-        "weather_flags": "HEAVY PRECIPITATION FORECAST | PARTIALLY SHELTERED VENUE",
-        "forecast_retrieved_at_utc": "2026-10-31T17:14:29+00:00"
+        "precip_probability_pct_max": "45.0",
+        "weather_flags": "PARTIALLY SHELTERED VENUE",
+        "forecast_retrieved_at_utc": "2026-11-01T17:55:15+00:00"
       },
       "favorites": [
         {
@@ -6010,12 +6010,12 @@
       "weather": {
         "stadium": "Northwest Stadium",
         "roof": "OUTDOORS",
-        "temperature_f": "51.6",
-        "wind_mph_max": "5.0",
-        "gust_mph_max": "6.3",
-        "precip_probability_pct_max": "2.0",
+        "temperature_f": "50.7",
+        "wind_mph_max": "4.8",
+        "gust_mph_max": "6.5",
+        "precip_probability_pct_max": "1.0",
         "weather_flags": "NO MAJOR WEATHER FLAGS",
-        "forecast_retrieved_at_utc": "2026-10-31T17:14:29+00:00"
+        "forecast_retrieved_at_utc": "2026-11-01T17:55:15+00:00"
       },
       "favorites": [
         {
@@ -6721,12 +6721,12 @@
       "weather": {
         "stadium": "Lumen Field",
         "roof": "OUTDOORS",
-        "temperature_f": "50.5",
-        "wind_mph_max": "2.2",
-        "gust_mph_max": "2.9",
-        "precip_probability_pct_max": "0.0",
+        "temperature_f": "51.3",
+        "wind_mph_max": "2.9",
+        "gust_mph_max": "4.7",
+        "precip_probability_pct_max": "6.0",
         "weather_flags": "NO MAJOR WEATHER FLAGS",
-        "forecast_retrieved_at_utc": "2026-10-31T17:14:29+00:00"
+        "forecast_retrieved_at_utc": "2026-11-01T17:55:15+00:00"
       },
       "favorites": [
         {
@@ -6784,7 +6784,7 @@
           "status": "UNKNOWN / NOT VERIFIED",
           "reported_game_status": "UNKNOWN",
           "injury": "",
-          "practice_status": "Limited Participation in Practice",
+          "practice_status": "Full Participation in Practice",
           "status_source": "NFLVERSE INJURY FEED (CURRENT FILE)",
           "red_zone_targets_last4": "7",
           "inside5_carries_last4": "0"
@@ -6805,7 +6805,53 @@
           "inside5_carries_last4": "1"
         }
       ],
-      "excluded": [],
+      "excluded": [
+        {
+          "name": "Rashid Shaheed",
+          "team": "SEA",
+          "opponent": "CHI",
+          "position": "WR",
+          "td_probability": 0.236547541492415,
+          "td_probability_pct": 23.7,
+          "status": "EXCLUDED: REPORTED OUT",
+          "reported_game_status": "OUT",
+          "injury": "Knee",
+          "practice_status": "Did Not Participate In Practice",
+          "status_source": "NFLVERSE INJURY FEED (CURRENT FILE)",
+          "red_zone_targets_last4": "3",
+          "inside5_carries_last4": "0"
+        },
+        {
+          "name": "Kyle Monangai",
+          "team": "CHI",
+          "opponent": "SEA",
+          "position": "RB",
+          "td_probability": 0.12284093209613774,
+          "td_probability_pct": 12.3,
+          "status": "EXCLUDED: REPORTED OUT",
+          "reported_game_status": "OUT",
+          "injury": "Thumb",
+          "practice_status": "Did Not Participate In Practice",
+          "status_source": "NFLVERSE INJURY FEED (CURRENT FILE)",
+          "red_zone_targets_last4": "0",
+          "inside5_carries_last4": "6"
+        },
+        {
+          "name": "Velus Jones Jr.",
+          "team": "SEA",
+          "opponent": "CHI",
+          "position": "RB",
+          "td_probability": 0.06790238617251518,
+          "td_probability_pct": 6.8,
+          "status": "EXCLUDED: REPORTED OUT",
+          "reported_game_status": "OUT",
+          "injury": "Hamstring",
+          "practice_status": "Did Not Participate In Practice",
+          "status_source": "NFLVERSE INJURY FEED (CURRENT FILE)",
+          "red_zone_targets_last4": "0",
+          "inside5_carries_last4": "0"
+        }
+      ],
       "all_players": [
         {
           "name": "D'Andre Swift",
@@ -6862,7 +6908,7 @@
           "status": "UNKNOWN / NOT VERIFIED",
           "reported_game_status": "UNKNOWN",
           "injury": "",
-          "practice_status": "Limited Participation in Practice",
+          "practice_status": "Full Participation in Practice",
           "status_source": "NFLVERSE INJURY FEED (CURRENT FILE)",
           "red_zone_targets_last4": "7",
           "inside5_carries_last4": "0"
@@ -6889,9 +6935,9 @@
           "position": "WR",
           "td_probability": 0.236547541492415,
           "td_probability_pct": 23.7,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
+          "status": "EXCLUDED: REPORTED OUT",
+          "reported_game_status": "OUT",
+          "injury": "Knee",
           "practice_status": "Did Not Participate In Practice",
           "status_source": "NFLVERSE INJURY FEED (CURRENT FILE)",
           "red_zone_targets_last4": "3",
@@ -7009,9 +7055,9 @@
           "position": "RB",
           "td_probability": 0.12284093209613774,
           "td_probability_pct": 12.3,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
+          "status": "EXCLUDED: REPORTED OUT",
+          "reported_game_status": "OUT",
+          "injury": "Thumb",
           "practice_status": "Did Not Participate In Practice",
           "status_source": "NFLVERSE INJURY FEED (CURRENT FILE)",
           "red_zone_targets_last4": "0",
@@ -7054,9 +7100,9 @@
           "position": "RB",
           "td_probability": 0.06790238617251518,
           "td_probability_pct": 6.8,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
+          "status": "EXCLUDED: REPORTED OUT",
+          "reported_game_status": "OUT",
+          "injury": "Hamstring",
           "practice_status": "Did Not Participate In Practice",
           "status_source": "NFLVERSE INJURY FEED (CURRENT FILE)",
           "red_zone_targets_last4": "0",
@@ -7219,9 +7265,9 @@
           "position": "QB",
           "td_probability": 0.005120467432750699,
           "td_probability_pct": 0.5,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
+          "status": "UNCERTAIN: QUESTIONABLE",
+          "reported_game_status": "QUESTIONABLE",
+          "injury": "Elbow",
           "practice_status": "Limited Participation in Practice",
           "status_source": "NFLVERSE INJURY FEED (CURRENT FILE)",
           "red_zone_targets_last4": "0",
