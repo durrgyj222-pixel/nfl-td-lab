@@ -1,7 +1,7 @@
 {
   "archived_games": 41,
-  "archived_player_rows_in_graded_games": 1045,
-  "brier_on_graded_rows": 0.14806,
+  "archived_player_rows_in_graded_games": 1177,
+  "brier_on_graded_rows": 0.1475,
   "games": [
     {
       "archived_players": 28,
@@ -10,6 +10,26 @@
       "game": "TEN @ CIN",
       "graded_players": 16,
       "scorers": 7,
+      "season": 2026,
+      "week": 8
+    },
+    {
+      "archived_players": 39,
+      "brier_scored_rows": 0.09925,
+      "forecast_generated_at_utc": "2026-11-01T17:55:22Z",
+      "game": "PHI @ WAS",
+      "graded_players": 21,
+      "scorers": 3,
+      "season": 2026,
+      "week": 8
+    },
+    {
+      "archived_players": 30,
+      "brier_scored_rows": 0.17992,
+      "forecast_generated_at_utc": "2026-11-01T17:55:22Z",
+      "game": "NE @ MIA",
+      "graded_players": 21,
+      "scorers": 5,
       "season": 2026,
       "week": 8
     },
@@ -29,6 +49,26 @@
       "forecast_generated_at_utc": "2026-11-01T17:55:22Z",
       "game": "LV @ NYJ",
       "graded_players": 19,
+      "scorers": 6,
+      "season": 2026,
+      "week": 8
+    },
+    {
+      "archived_players": 32,
+      "brier_scored_rows": 0.06655,
+      "forecast_generated_at_utc": "2026-11-01T17:55:22Z",
+      "game": "LAC @ LA",
+      "graded_players": 20,
+      "scorers": 3,
+      "season": 2026,
+      "week": 8
+    },
+    {
+      "archived_players": 31,
+      "brier_scored_rows": 0.20963,
+      "forecast_generated_at_utc": "2026-11-01T17:55:22Z",
+      "game": "KC @ DEN",
+      "graded_players": 25,
       "scorers": 6,
       "season": 2026,
       "week": 8
@@ -364,12 +404,12 @@
       "week": 6
     }
   ],
-  "generated_at_utc": "2026-11-02T02:41:35Z",
-  "graded_games": 36,
-  "graded_player_rows": 711,
+  "generated_at_utc": "2026-11-02T22:27:44Z",
+  "graded_games": 40,
+  "graded_player_rows": 798,
   "important_limitation": "Graded subset requires same-week stat row and excludes flagged OUT players. This is NOT a complete active-roster evaluation; missing rows do NOT equal zero touchdowns.",
   "model": "phase7",
   "schema_version": 1,
-  "scoring_rate_on_graded_rows": 0.20675,
-  "ungraded_player_rows": 334
+  "scoring_rate_on_graded_rows": 0.20551,
+  "ungraded_player_rows": 379
 }
