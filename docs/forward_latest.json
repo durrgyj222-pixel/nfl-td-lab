@@ -1,8 +1,18 @@
 {
   "archived_games": 56,
-  "archived_player_rows_in_graded_games": 1205,
-  "brier_on_graded_rows": 0.14692,
+  "archived_player_rows_in_graded_games": 1237,
+  "brier_on_graded_rows": 0.14586,
   "games": [
+    {
+      "archived_players": 32,
+      "brier_scored_rows": 0.10987,
+      "forecast_generated_at_utc": "2026-11-05T19:53:54Z",
+      "game": "JAX @ BAL",
+      "graded_players": 24,
+      "scorers": 4,
+      "season": 2026,
+      "week": 9
+    },
     {
       "archived_players": 28,
       "brier_scored_rows": 0.26407,
@@ -414,12 +424,12 @@
       "week": 6
     }
   ],
-  "generated_at_utc": "2026-11-05T19:54:10Z",
-  "graded_games": 41,
-  "graded_player_rows": 815,
+  "generated_at_utc": "2026-11-06T20:04:09Z",
+  "graded_games": 42,
+  "graded_player_rows": 839,
   "important_limitation": "Graded subset requires same-week stat row and excludes flagged OUT players. This is NOT a complete active-roster evaluation; missing rows do NOT equal zero touchdowns.",
   "model": "phase7",
   "schema_version": 1,
-  "scoring_rate_on_graded_rows": 0.20613,
-  "ungraded_player_rows": 390
+  "scoring_rate_on_graded_rows": 0.20501,
+  "ungraded_player_rows": 398
 }
