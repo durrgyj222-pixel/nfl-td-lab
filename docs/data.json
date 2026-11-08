@@ -1,599 +1,8 @@
 {
   "app_data_version": 1,
-  "generated_at_utc": "2026-11-07T17:43:55+00:00",
+  "generated_at_utc": "2026-11-08T17:54:30+00:00",
   "note": "Experimental P7 probabilities unchanged; non-excluded does not mean officially active.",
   "games": [
-    {
-      "game": "CIN @ ATL",
-      "kickoff_utc": "2026-11-08T14:30:00+00:00",
-      "week": 9,
-      "weather": {
-        "stadium": "Bernabeu",
-        "roof": "UNKNOWN",
-        "temperature_f": "",
-        "wind_mph_max": "",
-        "gust_mph_max": "",
-        "precip_probability_pct_max": "",
-        "weather_flags": "WEATHER UNAVAILABLE",
-        "forecast_retrieved_at_utc": "2026-11-07T17:43:52+00:00"
-      },
-      "favorites": [
-        {
-          "name": "Ja'Marr Chase",
-          "team": "CIN",
-          "opponent": "ATL",
-          "position": "WR",
-          "td_probability": 0.46684835843699873,
-          "td_probability_pct": 46.7,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
-          "practice_status": "",
-          "status_source": "NO MATCHING WEEKLY INJURY ENTRY",
-          "red_zone_targets_last4": "6",
-          "inside5_carries_last4": "0"
-        },
-        {
-          "name": "Bijan Robinson",
-          "team": "ATL",
-          "opponent": "CIN",
-          "position": "RB",
-          "td_probability": 0.45742762217933386,
-          "td_probability_pct": 45.7,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
-          "practice_status": "",
-          "status_source": "NO MATCHING WEEKLY INJURY ENTRY",
-          "red_zone_targets_last4": "1",
-          "inside5_carries_last4": "1"
-        },
-        {
-          "name": "Chase Brown",
-          "team": "CIN",
-          "opponent": "ATL",
-          "position": "RB",
-          "td_probability": 0.4571850513164447,
-          "td_probability_pct": 45.7,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
-          "practice_status": "",
-          "status_source": "NO MATCHING WEEKLY INJURY ENTRY",
-          "red_zone_targets_last4": "2",
-          "inside5_carries_last4": "1"
-        },
-        {
-          "name": "Tee Higgins",
-          "team": "CIN",
-          "opponent": "ATL",
-          "position": "WR",
-          "td_probability": 0.4257810608594266,
-          "td_probability_pct": 42.6,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
-          "practice_status": "",
-          "status_source": "NO MATCHING WEEKLY INJURY ENTRY",
-          "red_zone_targets_last4": "5",
-          "inside5_carries_last4": "0"
-        },
-        {
-          "name": "Drake London",
-          "team": "ATL",
-          "opponent": "CIN",
-          "position": "WR",
-          "td_probability": 0.3367796897861642,
-          "td_probability_pct": 33.7,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
-          "practice_status": "",
-          "status_source": "NO MATCHING WEEKLY INJURY ENTRY",
-          "red_zone_targets_last4": "5",
-          "inside5_carries_last4": "0"
-        }
-      ],
-      "excluded": [
-        {
-          "name": "Brian Robinson",
-          "team": "ATL",
-          "opponent": "CIN",
-          "position": "RB",
-          "td_probability": 0.12678840490827237,
-          "td_probability_pct": 12.7,
-          "status": "EXCLUDED: REPORTED OUT",
-          "reported_game_status": "OUT",
-          "injury": "Hamstring",
-          "practice_status": "Limited Participation in Practice",
-          "status_source": "NFLVERSE INJURY FEED (CURRENT FILE)",
-          "red_zone_targets_last4": "1",
-          "inside5_carries_last4": "0"
-        },
-        {
-          "name": "Zachariah Branch",
-          "team": "ATL",
-          "opponent": "CIN",
-          "position": "WR",
-          "td_probability": 0.08848139020527777,
-          "td_probability_pct": 8.8,
-          "status": "EXCLUDED: REPORTED OUT",
-          "reported_game_status": "OUT",
-          "injury": "Hamstring",
-          "practice_status": "Did Not Participate In Practice",
-          "status_source": "NFLVERSE INJURY FEED (CURRENT FILE)",
-          "red_zone_targets_last4": "2",
-          "inside5_carries_last4": "0"
-        }
-      ],
-      "all_players": [
-        {
-          "name": "Ja'Marr Chase",
-          "team": "CIN",
-          "opponent": "ATL",
-          "position": "WR",
-          "td_probability": 0.46684835843699873,
-          "td_probability_pct": 46.7,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
-          "practice_status": "",
-          "status_source": "NO MATCHING WEEKLY INJURY ENTRY",
-          "red_zone_targets_last4": "6",
-          "inside5_carries_last4": "0"
-        },
-        {
-          "name": "Bijan Robinson",
-          "team": "ATL",
-          "opponent": "CIN",
-          "position": "RB",
-          "td_probability": 0.45742762217933386,
-          "td_probability_pct": 45.7,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
-          "practice_status": "",
-          "status_source": "NO MATCHING WEEKLY INJURY ENTRY",
-          "red_zone_targets_last4": "1",
-          "inside5_carries_last4": "1"
-        },
-        {
-          "name": "Chase Brown",
-          "team": "CIN",
-          "opponent": "ATL",
-          "position": "RB",
-          "td_probability": 0.4571850513164447,
-          "td_probability_pct": 45.7,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
-          "practice_status": "",
-          "status_source": "NO MATCHING WEEKLY INJURY ENTRY",
-          "red_zone_targets_last4": "2",
-          "inside5_carries_last4": "1"
-        },
-        {
-          "name": "Tee Higgins",
-          "team": "CIN",
-          "opponent": "ATL",
-          "position": "WR",
-          "td_probability": 0.4257810608594266,
-          "td_probability_pct": 42.6,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
-          "practice_status": "",
-          "status_source": "NO MATCHING WEEKLY INJURY ENTRY",
-          "red_zone_targets_last4": "5",
-          "inside5_carries_last4": "0"
-        },
-        {
-          "name": "Drake London",
-          "team": "ATL",
-          "opponent": "CIN",
-          "position": "WR",
-          "td_probability": 0.3367796897861642,
-          "td_probability_pct": 33.7,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
-          "practice_status": "",
-          "status_source": "NO MATCHING WEEKLY INJURY ENTRY",
-          "red_zone_targets_last4": "5",
-          "inside5_carries_last4": "0"
-        },
-        {
-          "name": "Kyle Pitts",
-          "team": "ATL",
-          "opponent": "CIN",
-          "position": "TE",
-          "td_probability": 0.28918786100508365,
-          "td_probability_pct": 28.9,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
-          "practice_status": "",
-          "status_source": "NO MATCHING WEEKLY INJURY ENTRY",
-          "red_zone_targets_last4": "7",
-          "inside5_carries_last4": "0"
-        },
-        {
-          "name": "Mike Gesicki",
-          "team": "CIN",
-          "opponent": "ATL",
-          "position": "TE",
-          "td_probability": 0.2780236059725347,
-          "td_probability_pct": 27.8,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
-          "practice_status": "",
-          "status_source": "NO MATCHING WEEKLY INJURY ENTRY",
-          "red_zone_targets_last4": "3",
-          "inside5_carries_last4": "0"
-        },
-        {
-          "name": "Samaje Perine",
-          "team": "CIN",
-          "opponent": "ATL",
-          "position": "RB",
-          "td_probability": 0.22604912380227485,
-          "td_probability_pct": 22.6,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
-          "practice_status": "",
-          "status_source": "NO MATCHING WEEKLY INJURY ENTRY",
-          "red_zone_targets_last4": "1",
-          "inside5_carries_last4": "1"
-        },
-        {
-          "name": "Jahan Dotson",
-          "team": "ATL",
-          "opponent": "CIN",
-          "position": "WR",
-          "td_probability": 0.22441110561014677,
-          "td_probability_pct": 22.4,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
-          "practice_status": "",
-          "status_source": "NO MATCHING WEEKLY INJURY ENTRY",
-          "red_zone_targets_last4": "5",
-          "inside5_carries_last4": "0"
-        },
-        {
-          "name": "Dohnte Meyers",
-          "team": "CIN",
-          "opponent": "ATL",
-          "position": "WR",
-          "td_probability": 0.1798754571475253,
-          "td_probability_pct": 18.0,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
-          "practice_status": "",
-          "status_source": "NO MATCHING WEEKLY INJURY ENTRY",
-          "red_zone_targets_last4": "2",
-          "inside5_carries_last4": "0"
-        },
-        {
-          "name": "Joe Burrow",
-          "team": "CIN",
-          "opponent": "ATL",
-          "position": "QB",
-          "td_probability": 0.12753681649786616,
-          "td_probability_pct": 12.8,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
-          "practice_status": "",
-          "status_source": "NO MATCHING WEEKLY INJURY ENTRY",
-          "red_zone_targets_last4": "0",
-          "inside5_carries_last4": "2"
-        },
-        {
-          "name": "Brian Robinson",
-          "team": "ATL",
-          "opponent": "CIN",
-          "position": "RB",
-          "td_probability": 0.12678840490827237,
-          "td_probability_pct": 12.7,
-          "status": "EXCLUDED: REPORTED OUT",
-          "reported_game_status": "OUT",
-          "injury": "Hamstring",
-          "practice_status": "Limited Participation in Practice",
-          "status_source": "NFLVERSE INJURY FEED (CURRENT FILE)",
-          "red_zone_targets_last4": "1",
-          "inside5_carries_last4": "0"
-        },
-        {
-          "name": "Michael Penix Jr.",
-          "team": "ATL",
-          "opponent": "CIN",
-          "position": "QB",
-          "td_probability": 0.10201247650174884,
-          "td_probability_pct": 10.2,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
-          "practice_status": "",
-          "status_source": "NO MATCHING WEEKLY INJURY ENTRY",
-          "red_zone_targets_last4": "0",
-          "inside5_carries_last4": "0"
-        },
-        {
-          "name": "Zachariah Branch",
-          "team": "ATL",
-          "opponent": "CIN",
-          "position": "WR",
-          "td_probability": 0.08848139020527777,
-          "td_probability_pct": 8.8,
-          "status": "EXCLUDED: REPORTED OUT",
-          "reported_game_status": "OUT",
-          "injury": "Hamstring",
-          "practice_status": "Did Not Participate In Practice",
-          "status_source": "NFLVERSE INJURY FEED (CURRENT FILE)",
-          "red_zone_targets_last4": "2",
-          "inside5_carries_last4": "0"
-        },
-        {
-          "name": "Mitchell Tinsley",
-          "team": "CIN",
-          "opponent": "ATL",
-          "position": "WR",
-          "td_probability": 0.08780969209415601,
-          "td_probability_pct": 8.8,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
-          "practice_status": "",
-          "status_source": "NO MATCHING WEEKLY INJURY ENTRY",
-          "red_zone_targets_last4": "3",
-          "inside5_carries_last4": "0"
-        },
-        {
-          "name": "Austin Hooper",
-          "team": "ATL",
-          "opponent": "CIN",
-          "position": "TE",
-          "td_probability": 0.08613797019670281,
-          "td_probability_pct": 8.6,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
-          "practice_status": "",
-          "status_source": "NO MATCHING WEEKLY INJURY ENTRY",
-          "red_zone_targets_last4": "0",
-          "inside5_carries_last4": "0"
-        },
-        {
-          "name": "Olamide Zaccheaus",
-          "team": "ATL",
-          "opponent": "CIN",
-          "position": "WR",
-          "td_probability": 0.08539859463963076,
-          "td_probability_pct": 8.5,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
-          "practice_status": "",
-          "status_source": "NO MATCHING WEEKLY INJURY ENTRY",
-          "red_zone_targets_last4": "1",
-          "inside5_carries_last4": "0"
-        },
-        {
-          "name": "Erick All",
-          "team": "CIN",
-          "opponent": "ATL",
-          "position": "TE",
-          "td_probability": 0.08524108671973044,
-          "td_probability_pct": 8.5,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
-          "practice_status": "",
-          "status_source": "NO MATCHING WEEKLY INJURY ENTRY",
-          "red_zone_targets_last4": "1",
-          "inside5_carries_last4": "0"
-        },
-        {
-          "name": "Drew Sample",
-          "team": "CIN",
-          "opponent": "ATL",
-          "position": "TE",
-          "td_probability": 0.08196408785187702,
-          "td_probability_pct": 8.2,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
-          "practice_status": "",
-          "status_source": "NO MATCHING WEEKLY INJURY ENTRY",
-          "red_zone_targets_last4": "1",
-          "inside5_carries_last4": "0"
-        },
-        {
-          "name": "Tanner Hudson",
-          "team": "CIN",
-          "opponent": "ATL",
-          "position": "TE",
-          "td_probability": 0.07563468368349884,
-          "td_probability_pct": 7.6,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
-          "practice_status": "",
-          "status_source": "NO MATCHING WEEKLY INJURY ENTRY",
-          "red_zone_targets_last4": "3",
-          "inside5_carries_last4": "0"
-        },
-        {
-          "name": "Khalil Herbert",
-          "team": "ATL",
-          "opponent": "CIN",
-          "position": "RB",
-          "td_probability": 0.06769390072498925,
-          "td_probability_pct": 6.8,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
-          "practice_status": "",
-          "status_source": "NO MATCHING WEEKLY INJURY ENTRY",
-          "red_zone_targets_last4": "1",
-          "inside5_carries_last4": "0"
-        },
-        {
-          "name": "Charlie Woerner",
-          "team": "ATL",
-          "opponent": "CIN",
-          "position": "TE",
-          "td_probability": 0.06445705877904713,
-          "td_probability_pct": 6.4,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
-          "practice_status": "",
-          "status_source": "NO MATCHING WEEKLY INJURY ENTRY",
-          "red_zone_targets_last4": "0",
-          "inside5_carries_last4": "0"
-        },
-        {
-          "name": "Jack Endries",
-          "team": "CIN",
-          "opponent": "ATL",
-          "position": "TE",
-          "td_probability": 0.05783472809300586,
-          "td_probability_pct": 5.8,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
-          "practice_status": "",
-          "status_source": "NO MATCHING WEEKLY INJURY ENTRY",
-          "red_zone_targets_last4": "1",
-          "inside5_carries_last4": "0"
-        },
-        {
-          "name": "Nick Muse",
-          "team": "ATL",
-          "opponent": "CIN",
-          "position": "TE",
-          "td_probability": 0.05435374671815383,
-          "td_probability_pct": 5.4,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
-          "practice_status": "",
-          "status_source": "NO MATCHING WEEKLY INJURY ENTRY",
-          "red_zone_targets_last4": "1",
-          "inside5_carries_last4": "0"
-        },
-        {
-          "name": "Tahj Brooks",
-          "team": "CIN",
-          "opponent": "ATL",
-          "position": "RB",
-          "td_probability": 0.024833032478432823,
-          "td_probability_pct": 2.5,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
-          "practice_status": "",
-          "status_source": "NO MATCHING WEEKLY INJURY ENTRY",
-          "red_zone_targets_last4": "0",
-          "inside5_carries_last4": "0"
-        },
-        {
-          "name": "Chris Blair",
-          "team": "ATL",
-          "opponent": "CIN",
-          "position": "WR",
-          "td_probability": 0.024251252339983504,
-          "td_probability_pct": 2.4,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
-          "practice_status": "",
-          "status_source": "NO MATCHING WEEKLY INJURY ENTRY",
-          "red_zone_targets_last4": "0",
-          "inside5_carries_last4": "0"
-        },
-        {
-          "name": "Andrei Iosivas",
-          "team": "CIN",
-          "opponent": "ATL",
-          "position": "WR",
-          "td_probability": 0.013595946770543446,
-          "td_probability_pct": 1.4,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
-          "practice_status": "",
-          "status_source": "NO MATCHING WEEKLY INJURY ENTRY",
-          "red_zone_targets_last4": "0",
-          "inside5_carries_last4": "0"
-        },
-        {
-          "name": "Colbie Young",
-          "team": "CIN",
-          "opponent": "ATL",
-          "position": "WR",
-          "td_probability": 0.010140256983985624,
-          "td_probability_pct": 1.0,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
-          "practice_status": "",
-          "status_source": "NO MATCHING WEEKLY INJURY ENTRY",
-          "red_zone_targets_last4": "0",
-          "inside5_carries_last4": "0"
-        },
-        {
-          "name": "Jake Matthews",
-          "team": "ATL",
-          "opponent": "CIN",
-          "position": "OT",
-          "td_probability": 0.009247429926506937,
-          "td_probability_pct": 0.9,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
-          "practice_status": "",
-          "status_source": "NO MATCHING WEEKLY INJURY ENTRY",
-          "red_zone_targets_last4": "1",
-          "inside5_carries_last4": "0"
-        },
-        {
-          "name": "Jack Strand",
-          "team": "ATL",
-          "opponent": "CIN",
-          "position": "QB",
-          "td_probability": 0.004455081973951418,
-          "td_probability_pct": 0.4,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
-          "practice_status": "",
-          "status_source": "NO MATCHING WEEKLY INJURY ENTRY",
-          "red_zone_targets_last4": "0",
-          "inside5_carries_last4": "0"
-        },
-        {
-          "name": "Cooper Rush",
-          "team": "ATL",
-          "opponent": "CIN",
-          "position": "QB",
-          "td_probability": 0.004324676477831277,
-          "td_probability_pct": 0.4,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
-          "practice_status": "",
-          "status_source": "NO MATCHING WEEKLY INJURY ENTRY",
-          "red_zone_targets_last4": "0",
-          "inside5_carries_last4": "0"
-        }
-      ]
-    },
     {
       "game": "DEN @ CAR",
       "kickoff_utc": "2026-11-08T18:00:00+00:00",
@@ -601,12 +10,12 @@
       "weather": {
         "stadium": "Bank of America Stadium",
         "roof": "OUTDOORS",
-        "temperature_f": "64.8",
-        "wind_mph_max": "7.5",
-        "gust_mph_max": "10.1",
+        "temperature_f": "65.1",
+        "wind_mph_max": "7.7",
+        "gust_mph_max": "10.7",
         "precip_probability_pct_max": "0.0",
         "weather_flags": "NO MAJOR WEATHER FLAGS",
-        "forecast_retrieved_at_utc": "2026-11-07T17:43:52+00:00"
+        "forecast_retrieved_at_utc": "2026-11-08T17:54:25+00:00"
       },
       "favorites": [
         {
@@ -1191,12 +600,12 @@
       "weather": {
         "stadium": "Lucas Oil Stadium",
         "roof": "RETRACTABLE (ROOF UNCONFIRMED)",
-        "temperature_f": "51.4",
-        "wind_mph_max": "12.9",
-        "gust_mph_max": "24.4",
+        "temperature_f": "54.3",
+        "wind_mph_max": "12.8",
+        "gust_mph_max": "24.6",
         "precip_probability_pct_max": "0.0",
         "weather_flags": "CHECK ROOF STATUS",
-        "forecast_retrieved_at_utc": "2026-11-07T17:43:52+00:00"
+        "forecast_retrieved_at_utc": "2026-11-08T17:54:25+00:00"
       },
       "favorites": [
         {
@@ -1752,12 +1161,12 @@
       "weather": {
         "stadium": "GEHA Field at Arrowhead Stadium",
         "roof": "OUTDOORS",
-        "temperature_f": "56.9",
-        "wind_mph_max": "7.3",
-        "gust_mph_max": "11.9",
+        "temperature_f": "58.1",
+        "wind_mph_max": "6.1",
+        "gust_mph_max": "8.7",
         "precip_probability_pct_max": "0.0",
         "weather_flags": "NO MAJOR WEATHER FLAGS",
-        "forecast_retrieved_at_utc": "2026-11-07T17:43:52+00:00"
+        "forecast_retrieved_at_utc": "2026-11-08T17:54:25+00:00"
       },
       "favorites": [
         {
@@ -2343,12 +1752,12 @@
       "weather": {
         "stadium": "Hard Rock Stadium",
         "roof": "COVERED/OPEN-SIDED",
-        "temperature_f": "81.7",
-        "wind_mph_max": "6.3",
-        "gust_mph_max": "8.1",
-        "precip_probability_pct_max": "5.0",
+        "temperature_f": "83.6",
+        "wind_mph_max": "5.7",
+        "gust_mph_max": "6.3",
+        "precip_probability_pct_max": "2.0",
         "weather_flags": "PARTIALLY SHELTERED VENUE",
-        "forecast_retrieved_at_utc": "2026-11-07T17:43:52+00:00"
+        "forecast_retrieved_at_utc": "2026-11-08T17:54:25+00:00"
       },
       "favorites": [
         {
@@ -2818,7 +2227,7 @@
         "gust_mph_max": "",
         "precip_probability_pct_max": "",
         "weather_flags": "INDOOR",
-        "forecast_retrieved_at_utc": "2026-11-07T17:43:52+00:00"
+        "forecast_retrieved_at_utc": "2026-11-08T17:54:25+00:00"
       },
       "favorites": [
         {
@@ -3359,12 +2768,12 @@
       "weather": {
         "stadium": "Lincoln Financial Field",
         "roof": "OUTDOORS",
-        "temperature_f": "55.9",
-        "wind_mph_max": "10.5",
+        "temperature_f": "57.9",
+        "wind_mph_max": "10.6",
         "gust_mph_max": "19.0",
         "precip_probability_pct_max": "0.0",
         "weather_flags": "NO MAJOR WEATHER FLAGS",
-        "forecast_retrieved_at_utc": "2026-11-07T17:43:52+00:00"
+        "forecast_retrieved_at_utc": "2026-11-08T17:54:25+00:00"
       },
       "favorites": [
         {
@@ -4025,12 +3434,12 @@
       "weather": {
         "stadium": "Northwest Stadium",
         "roof": "OUTDOORS",
-        "temperature_f": "59.2",
-        "wind_mph_max": "9.9",
-        "gust_mph_max": "16.6",
+        "temperature_f": "60.2",
+        "wind_mph_max": "10.3",
+        "gust_mph_max": "16.3",
         "precip_probability_pct_max": "0.0",
         "weather_flags": "NO MAJOR WEATHER FLAGS",
-        "forecast_retrieved_at_utc": "2026-11-07T17:43:52+00:00"
+        "forecast_retrieved_at_utc": "2026-11-08T17:54:25+00:00"
       },
       "favorites": [
         {
@@ -4706,12 +4115,12 @@
       "weather": {
         "stadium": "SoFi Stadium",
         "roof": "COVERED/OPEN-SIDED",
-        "temperature_f": "89.5",
-        "wind_mph_max": "7.8",
-        "gust_mph_max": "11.2",
+        "temperature_f": "89.1",
+        "wind_mph_max": "8.5",
+        "gust_mph_max": "12.1",
         "precip_probability_pct_max": "0.0",
         "weather_flags": "PARTIALLY SHELTERED VENUE",
-        "forecast_retrieved_at_utc": "2026-11-07T17:43:52+00:00"
+        "forecast_retrieved_at_utc": "2026-11-08T17:54:25+00:00"
       },
       "favorites": [
         {
@@ -4790,7 +4199,23 @@
           "inside5_carries_last4": "0"
         }
       ],
-      "excluded": [],
+      "excluded": [
+        {
+          "name": "David Montgomery",
+          "team": "HOU",
+          "opponent": "LAC",
+          "position": "RB",
+          "td_probability": 0.1412623865377638,
+          "td_probability_pct": 14.1,
+          "status": "EXCLUDED: REPORTED OUT",
+          "reported_game_status": "OUT",
+          "injury": "Groin",
+          "practice_status": "Did Not Participate In Practice",
+          "status_source": "NFLVERSE INJURY FEED (CURRENT FILE)",
+          "red_zone_targets_last4": "0",
+          "inside5_carries_last4": "0"
+        }
+      ],
       "all_players": [
         {
           "name": "Woody Marks",
@@ -4949,9 +4374,9 @@
           "position": "RB",
           "td_probability": 0.1412623865377638,
           "td_probability_pct": 14.1,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
+          "status": "EXCLUDED: REPORTED OUT",
+          "reported_game_status": "OUT",
+          "injury": "Groin",
           "practice_status": "Did Not Participate In Practice",
           "status_source": "NFLVERSE INJURY FEED (CURRENT FILE)",
           "red_zone_targets_last4": "0",
@@ -5311,12 +4736,12 @@
       "weather": {
         "stadium": "Levi's Stadium",
         "roof": "OUTDOORS",
-        "temperature_f": "66.3",
-        "wind_mph_max": "8.4",
-        "gust_mph_max": "12.8",
+        "temperature_f": "66.5",
+        "wind_mph_max": "7.1",
+        "gust_mph_max": "11.4",
         "precip_probability_pct_max": "0.0",
         "weather_flags": "NO MAJOR WEATHER FLAGS",
-        "forecast_retrieved_at_utc": "2026-11-07T17:43:52+00:00"
+        "forecast_retrieved_at_utc": "2026-11-08T17:54:25+00:00"
       },
       "favorites": [
         {
@@ -5917,12 +5342,12 @@
       "weather": {
         "stadium": "Gillette Stadium",
         "roof": "OUTDOORS",
-        "temperature_f": "49.8",
-        "wind_mph_max": "6.6",
-        "gust_mph_max": "14.1",
-        "precip_probability_pct_max": "1.0",
+        "temperature_f": "49.9",
+        "wind_mph_max": "8.1",
+        "gust_mph_max": "15.0",
+        "precip_probability_pct_max": "0.0",
         "weather_flags": "NO MAJOR WEATHER FLAGS",
-        "forecast_retrieved_at_utc": "2026-11-07T17:43:52+00:00"
+        "forecast_retrieved_at_utc": "2026-11-08T17:54:25+00:00"
       },
       "favorites": [
         {
@@ -6523,12 +5948,12 @@
       "weather": {
         "stadium": "Lumen Field",
         "roof": "OUTDOORS",
-        "temperature_f": "53.6",
-        "wind_mph_max": "8.9",
-        "gust_mph_max": "14.3",
-        "precip_probability_pct_max": "10.0",
+        "temperature_f": "56.6",
+        "wind_mph_max": "9.6",
+        "gust_mph_max": "18.1",
+        "precip_probability_pct_max": "3.0",
         "weather_flags": "NO MAJOR WEATHER FLAGS",
-        "forecast_retrieved_at_utc": "2026-11-07T17:43:52+00:00"
+        "forecast_retrieved_at_utc": "2026-11-08T17:54:25+00:00"
       },
       "favorites": [
         {
@@ -7099,12 +6524,12 @@
       "weather": {
         "stadium": "Soldier Field",
         "roof": "OUTDOORS",
-        "temperature_f": "45.3",
-        "wind_mph_max": "8.2",
-        "gust_mph_max": "27.3",
+        "temperature_f": "48.7",
+        "wind_mph_max": "7.9",
+        "gust_mph_max": "22.4",
         "precip_probability_pct_max": "0.0",
         "weather_flags": "NO MAJOR WEATHER FLAGS",
-        "forecast_retrieved_at_utc": "2026-11-07T17:43:52+00:00"
+        "forecast_retrieved_at_utc": "2026-11-08T17:54:25+00:00"
       },
       "favorites": [
         {
@@ -7619,7 +7044,7 @@
         "gust_mph_max": "",
         "precip_probability_pct_max": "",
         "weather_flags": "INDOOR",
-        "forecast_retrieved_at_utc": "2026-11-07T17:43:52+00:00"
+        "forecast_retrieved_at_utc": "2026-11-08T17:54:25+00:00"
       },
       "favorites": [
         {
@@ -7698,7 +7123,68 @@
           "inside5_carries_last4": "0"
         }
       ],
-      "excluded": [],
+      "excluded": [
+        {
+          "name": "Josh Palmer",
+          "team": "BUF",
+          "opponent": "MIN",
+          "position": "WR",
+          "td_probability": 0.13257443348412576,
+          "td_probability_pct": 13.3,
+          "status": "EXCLUDED: REPORTED OUT",
+          "reported_game_status": "OUT",
+          "injury": "Hamstring",
+          "practice_status": "Did Not Participate In Practice",
+          "status_source": "NFLVERSE INJURY FEED (CURRENT FILE)",
+          "red_zone_targets_last4": "1",
+          "inside5_carries_last4": "0"
+        },
+        {
+          "name": "Kyler Murray",
+          "team": "MIN",
+          "opponent": "BUF",
+          "position": "QB",
+          "td_probability": 0.11736046131857267,
+          "td_probability_pct": 11.7,
+          "status": "EXCLUDED: REPORTED OUT",
+          "reported_game_status": "OUT",
+          "injury": "Hamstring",
+          "practice_status": "Did Not Participate In Practice",
+          "status_source": "NFLVERSE INJURY FEED (CURRENT FILE)",
+          "red_zone_targets_last4": "0",
+          "inside5_carries_last4": "0"
+        },
+        {
+          "name": "Jauan Jennings",
+          "team": "MIN",
+          "opponent": "BUF",
+          "position": "WR",
+          "td_probability": 0.0851145558274594,
+          "td_probability_pct": 8.5,
+          "status": "EXCLUDED: REPORTED OUT",
+          "reported_game_status": "OUT",
+          "injury": "Calf",
+          "practice_status": "Did Not Participate In Practice",
+          "status_source": "NFLVERSE INJURY FEED (CURRENT FILE)",
+          "red_zone_targets_last4": "1",
+          "inside5_carries_last4": "0"
+        },
+        {
+          "name": "Demond Claiborne",
+          "team": "MIN",
+          "opponent": "BUF",
+          "position": "RB",
+          "td_probability": 0.023414284107028366,
+          "td_probability_pct": 2.3,
+          "status": "EXCLUDED: REPORTED OUT",
+          "reported_game_status": "OUT",
+          "injury": "Knee",
+          "practice_status": "Did Not Participate In Practice",
+          "status_source": "NFLVERSE INJURY FEED (CURRENT FILE)",
+          "red_zone_targets_last4": "0",
+          "inside5_carries_last4": "0"
+        }
+      ],
       "all_players": [
         {
           "name": "James Cook",
@@ -7800,7 +7286,7 @@
           "status": "UNKNOWN / NOT VERIFIED",
           "reported_game_status": "UNKNOWN",
           "injury": "",
-          "practice_status": "Did Not Participate In Practice",
+          "practice_status": "Full Participation in Practice",
           "status_source": "NFLVERSE INJURY FEED (CURRENT FILE)",
           "red_zone_targets_last4": "4",
           "inside5_carries_last4": "0"
@@ -7887,9 +7373,9 @@
           "position": "WR",
           "td_probability": 0.13257443348412576,
           "td_probability_pct": 13.3,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
+          "status": "EXCLUDED: REPORTED OUT",
+          "reported_game_status": "OUT",
+          "injury": "Hamstring",
           "practice_status": "Did Not Participate In Practice",
           "status_source": "NFLVERSE INJURY FEED (CURRENT FILE)",
           "red_zone_targets_last4": "1",
@@ -7917,9 +7403,9 @@
           "position": "QB",
           "td_probability": 0.11736046131857267,
           "td_probability_pct": 11.7,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
+          "status": "EXCLUDED: REPORTED OUT",
+          "reported_game_status": "OUT",
+          "injury": "Hamstring",
           "practice_status": "Did Not Participate In Practice",
           "status_source": "NFLVERSE INJURY FEED (CURRENT FILE)",
           "red_zone_targets_last4": "0",
@@ -7947,9 +7433,9 @@
           "position": "WR",
           "td_probability": 0.0851145558274594,
           "td_probability_pct": 8.5,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
+          "status": "EXCLUDED: REPORTED OUT",
+          "reported_game_status": "OUT",
+          "injury": "Calf",
           "practice_status": "Did Not Participate In Practice",
           "status_source": "NFLVERSE INJURY FEED (CURRENT FILE)",
           "red_zone_targets_last4": "1",
@@ -8082,9 +7568,9 @@
           "position": "RB",
           "td_probability": 0.023414284107028366,
           "td_probability_pct": 2.3,
-          "status": "UNKNOWN / NOT VERIFIED",
-          "reported_game_status": "UNKNOWN",
-          "injury": "",
+          "status": "EXCLUDED: REPORTED OUT",
+          "reported_game_status": "OUT",
+          "injury": "Knee",
           "practice_status": "Did Not Participate In Practice",
           "status_source": "NFLVERSE INJURY FEED (CURRENT FILE)",
           "red_zone_targets_last4": "0",
