@@ -1,8 +1,38 @@
 {
   "archived_games": 56,
-  "archived_player_rows_in_graded_games": 1237,
-  "brier_on_graded_rows": 0.14586,
+  "archived_player_rows_in_graded_games": 1489,
+  "brier_on_graded_rows": 0.14301,
   "games": [
+    {
+      "archived_players": 32,
+      "brier_scored_rows": 0.08293,
+      "forecast_generated_at_utc": "2026-11-08T17:54:30Z",
+      "game": "NYJ @ KC",
+      "graded_players": 23,
+      "scorers": 3,
+      "season": 2026,
+      "week": 9
+    },
+    {
+      "archived_players": 36,
+      "brier_scored_rows": 0.08247,
+      "forecast_generated_at_utc": "2026-11-08T17:54:30Z",
+      "game": "NYG @ PHI",
+      "graded_players": 17,
+      "scorers": 2,
+      "season": 2026,
+      "week": 9
+    },
+    {
+      "archived_players": 36,
+      "brier_scored_rows": 0.11256,
+      "forecast_generated_at_utc": "2026-11-08T17:54:30Z",
+      "game": "LA @ WAS",
+      "graded_players": 20,
+      "scorers": 3,
+      "season": 2026,
+      "week": 9
+    },
     {
       "archived_players": 32,
       "brier_scored_rows": 0.10987,
@@ -10,6 +40,56 @@
       "game": "JAX @ BAL",
       "graded_players": 24,
       "scorers": 4,
+      "season": 2026,
+      "week": 9
+    },
+    {
+      "archived_players": 25,
+      "brier_scored_rows": 0.05784,
+      "forecast_generated_at_utc": "2026-11-08T17:54:30Z",
+      "game": "DET @ MIA",
+      "graded_players": 18,
+      "scorers": 1,
+      "season": 2026,
+      "week": 9
+    },
+    {
+      "archived_players": 33,
+      "brier_scored_rows": 0.19151,
+      "forecast_generated_at_utc": "2026-11-08T17:54:30Z",
+      "game": "DEN @ CAR",
+      "graded_players": 24,
+      "scorers": 6,
+      "season": 2026,
+      "week": 9
+    },
+    {
+      "archived_players": 30,
+      "brier_scored_rows": 0.20072,
+      "forecast_generated_at_utc": "2026-11-08T17:54:30Z",
+      "game": "DAL @ IND",
+      "graded_players": 17,
+      "scorers": 5,
+      "season": 2026,
+      "week": 9
+    },
+    {
+      "archived_players": 29,
+      "brier_scored_rows": 0.12591,
+      "forecast_generated_at_utc": "2026-11-08T17:54:30Z",
+      "game": "CLE @ NO",
+      "graded_players": 19,
+      "scorers": 3,
+      "season": 2026,
+      "week": 9
+    },
+    {
+      "archived_players": 31,
+      "brier_scored_rows": 0.15997,
+      "forecast_generated_at_utc": "2026-11-07T17:43:55Z",
+      "game": "CIN @ ATL",
+      "graded_players": 20,
+      "scorers": 5,
       "season": 2026,
       "week": 9
     },
@@ -424,12 +504,12 @@
       "week": 6
     }
   ],
-  "generated_at_utc": "2026-11-06T20:04:09Z",
-  "graded_games": 42,
-  "graded_player_rows": 839,
+  "generated_at_utc": "2026-11-09T02:54:36Z",
+  "graded_games": 50,
+  "graded_player_rows": 997,
   "important_limitation": "Graded subset requires same-week stat row and excludes flagged OUT players. This is NOT a complete active-roster evaluation; missing rows do NOT equal zero touchdowns.",
   "model": "phase7",
   "schema_version": 1,
-  "scoring_rate_on_graded_rows": 0.20501,
-  "ungraded_player_rows": 398
+  "scoring_rate_on_graded_rows": 0.2006,
+  "ungraded_player_rows": 492
 }
