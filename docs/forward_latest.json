@@ -1,7 +1,7 @@
 {
   "archived_games": 56,
-  "archived_player_rows_in_graded_games": 1644,
-  "brier_on_graded_rows": 0.14638,
+  "archived_player_rows_in_graded_games": 1675,
+  "brier_on_graded_rows": 0.14467,
   "games": [
     {
       "archived_players": 28,
@@ -130,6 +130,16 @@
       "game": "CIN @ ATL",
       "graded_players": 20,
       "scorers": 5,
+      "season": 2026,
+      "week": 9
+    },
+    {
+      "archived_players": 31,
+      "brier_scored_rows": 0.05076,
+      "forecast_generated_at_utc": "2026-11-10T00:43:33Z",
+      "game": "BUF @ MIN",
+      "graded_players": 20,
+      "scorers": 1,
       "season": 2026,
       "week": 9
     },
@@ -554,12 +564,12 @@
       "week": 6
     }
   ],
-  "generated_at_utc": "2026-11-09T23:07:52Z",
-  "graded_games": 55,
-  "graded_player_rows": 1100,
+  "generated_at_utc": "2026-11-10T20:35:28Z",
+  "graded_games": 56,
+  "graded_player_rows": 1120,
   "important_limitation": "Graded subset requires same-week stat row and excludes flagged OUT players. This is NOT a complete active-roster evaluation; missing rows do NOT equal zero touchdowns.",
   "model": "phase7",
   "schema_version": 1,
-  "scoring_rate_on_graded_rows": 0.20364,
-  "ungraded_player_rows": 544
+  "scoring_rate_on_graded_rows": 0.20089,
+  "ungraded_player_rows": 555
 }
