@@ -1,0 +1,293 @@
+{
+  "captured_at_utc": "2026-11-12T19:52:41Z",
+  "forecast_generated_at_utc": "2026-11-12T19:52:26Z",
+  "game": "HOU @ CLE",
+  "kickoff_utc": "2026-11-15T18:00:00Z",
+  "model": "phase7",
+  "players": [
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Woody Marks",
+      "position": "RB",
+      "predicted_probability": 0.39318663,
+      "team": "HOU"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Nico Collins",
+      "position": "WR",
+      "predicted_probability": 0.30702132,
+      "team": "HOU"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Denzel Boston",
+      "position": "WR",
+      "predicted_probability": 0.300851,
+      "team": "CLE"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Quinshon Judkins",
+      "position": "RB",
+      "predicted_probability": 0.30051709,
+      "team": "CLE"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Xavier Hutchinson",
+      "position": "WR",
+      "predicted_probability": 0.27426502,
+      "team": "HOU"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Dalton Schultz",
+      "position": "TE",
+      "predicted_probability": 0.24894541,
+      "team": "HOU"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Harold Fannin Jr.",
+      "position": "TE",
+      "predicted_probability": 0.24544828,
+      "team": "CLE"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "KC Concepcion",
+      "position": "WR",
+      "predicted_probability": 0.2266549,
+      "team": "CLE"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Kayshon Boutte",
+      "position": "WR",
+      "predicted_probability": 0.20149175,
+      "team": "HOU"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jaylin Noel",
+      "position": "WR",
+      "predicted_probability": 0.16757666,
+      "team": "HOU"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Dylan Sampson",
+      "position": "RB",
+      "predicted_probability": 0.16427195,
+      "team": "CLE"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Marvin Harrison Jr.",
+      "position": "WR",
+      "predicted_probability": 0.15303511,
+      "team": "HOU"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Tank Dell",
+      "position": "WR",
+      "predicted_probability": 0.14558118,
+      "team": "HOU"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jerry Jeudy",
+      "position": "WR",
+      "predicted_probability": 0.11860618,
+      "team": "CLE"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Deshaun Watson",
+      "position": "QB",
+      "predicted_probability": 0.11526776,
+      "team": "CLE"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Foster Moreau",
+      "position": "TE",
+      "predicted_probability": 0.10026206,
+      "team": "HOU"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "C.J. Stroud",
+      "position": "QB",
+      "predicted_probability": 0.09418417,
+      "team": "HOU"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "David Montgomery",
+      "position": "RB",
+      "predicted_probability": 0.07825598,
+      "team": "HOU"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Shedeur Sanders",
+      "position": "QB",
+      "predicted_probability": 0.0684836,
+      "team": "CLE"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Emari Demercado",
+      "position": "RB",
+      "predicted_probability": 0.06197439,
+      "team": "HOU"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Blake Whiteheart",
+      "position": "TE",
+      "predicted_probability": 0.05715996,
+      "team": "CLE"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jaleel McLaughlin",
+      "position": "RB",
+      "predicted_probability": 0.05145349,
+      "team": "CLE"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jawhar Jordan",
+      "position": "RB",
+      "predicted_probability": 0.04940544,
+      "team": "HOU"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Cade Stover",
+      "position": "TE",
+      "predicted_probability": 0.04587685,
+      "team": "HOU"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Isaiah Bond",
+      "position": "WR",
+      "predicted_probability": 0.0330564,
+      "team": "CLE"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Tylan Wallace",
+      "position": "WR",
+      "predicted_probability": 0.02964012,
+      "team": "CLE"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Brevin Jordan",
+      "position": "TE",
+      "predicted_probability": 0.02335717,
+      "team": "HOU"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Davis Mills",
+      "position": "QB",
+      "predicted_probability": 0.02282938,
+      "team": "HOU"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Raheim Sanders",
+      "position": "RB",
+      "predicted_probability": 0.0216772,
+      "team": "CLE"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Dare Ogunbowale",
+      "position": "RB",
+      "predicted_probability": 0.01572891,
+      "team": "HOU"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Michael Burton",
+      "position": "FB",
+      "predicted_probability": 0.01236638,
+      "team": "CLE"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Malachi Corley",
+      "position": "WR",
+      "predicted_probability": 0.01220865,
+      "team": "CLE"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Corey Bojorquez",
+      "position": "P",
+      "predicted_probability": 0.01102454,
+      "team": "CLE"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Lewis Bond",
+      "position": "WR",
+      "predicted_probability": 0.00548927,
+      "team": "HOU"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Marlin Klein",
+      "position": "TE",
+      "predicted_probability": 0.00453613,
+      "team": "HOU"
+    }
+  ],
+  "provenance": "Published dashboard snapshot, archived by GitHub Actions before kickoff",
+  "schema_version": 1,
+  "season": 2026,
+  "week": 10
+}
