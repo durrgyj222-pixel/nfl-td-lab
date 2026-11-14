@@ -1,0 +1,245 @@
+{
+  "captured_at_utc": "2026-11-14T18:00:04Z",
+  "forecast_generated_at_utc": "2026-11-14T17:59:48Z",
+  "game": "JAX @ TEN",
+  "kickoff_utc": "2026-11-15T18:00:00Z",
+  "model": "phase7",
+  "players": [
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Tony Pollard",
+      "position": "RB",
+      "predicted_probability": 0.44584437,
+      "team": "TEN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Bhayshul Tuten",
+      "position": "RB",
+      "predicted_probability": 0.44323794,
+      "team": "JAX"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Parker Washington",
+      "position": "WR",
+      "predicted_probability": 0.41653957,
+      "team": "JAX"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jakobi Meyers",
+      "position": "WR",
+      "predicted_probability": 0.31461157,
+      "team": "JAX"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Wan'Dale Robinson",
+      "position": "WR",
+      "predicted_probability": 0.27400365,
+      "team": "TEN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Chris Rodriguez Jr.",
+      "position": "RB",
+      "predicted_probability": 0.24594197,
+      "team": "JAX"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Brenton Strange",
+      "position": "TE",
+      "predicted_probability": 0.23814993,
+      "team": "JAX"
+    },
+    {
+      "availability": "EXCLUDED: REPORTED OUT",
+      "excluded_from_favorites": true,
+      "player": "Carnell Tate",
+      "position": "WR",
+      "predicted_probability": 0.16890903,
+      "team": "TEN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Elic Ayomanor",
+      "position": "WR",
+      "predicted_probability": 0.16552858,
+      "team": "TEN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Nate Boerkircher",
+      "position": "TE",
+      "predicted_probability": 0.15252647,
+      "team": "JAX"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Brian Thomas Jr.",
+      "position": "WR",
+      "predicted_probability": 0.15220038,
+      "team": "JAX"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Cam Ward",
+      "position": "QB",
+      "predicted_probability": 0.14220154,
+      "team": "TEN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Josh Cameron",
+      "position": "WR",
+      "predicted_probability": 0.14183132,
+      "team": "JAX"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Gunnar Helm",
+      "position": "TE",
+      "predicted_probability": 0.12031005,
+      "team": "TEN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Travis Hunter",
+      "position": "CB",
+      "predicted_probability": 0.11774638,
+      "team": "JAX"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Ameer Abdullah",
+      "position": "RB",
+      "predicted_probability": 0.10290297,
+      "team": "JAX"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Chimere Dike",
+      "position": "WR",
+      "predicted_probability": 0.09384358,
+      "team": "TEN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Trevor Lawrence",
+      "position": "QB",
+      "predicted_probability": 0.08897751,
+      "team": "JAX"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Daniel Bellinger",
+      "position": "TE",
+      "predicted_probability": 0.08154814,
+      "team": "TEN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Calvin Ridley",
+      "position": "WR",
+      "predicted_probability": 0.07679107,
+      "team": "TEN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "LeQuint Allen Jr.",
+      "position": "RB",
+      "predicted_probability": 0.06758862,
+      "team": "JAX"
+    },
+    {
+      "availability": "UNCERTAIN: QUESTIONABLE",
+      "excluded_from_favorites": false,
+      "player": "Tyjae Spears",
+      "position": "RB",
+      "predicted_probability": 0.06529237,
+      "team": "TEN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Tanner Koziol",
+      "position": "TE",
+      "predicted_probability": 0.05088396,
+      "team": "JAX"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Michael Carter",
+      "position": "RB",
+      "predicted_probability": 0.03182448,
+      "team": "TEN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Quintin Morris",
+      "position": "TE",
+      "predicted_probability": 0.01916925,
+      "team": "JAX"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Nicholas Singleton",
+      "position": "RB",
+      "predicted_probability": 0.0132052,
+      "team": "TEN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Kylen Granson",
+      "position": "TE",
+      "predicted_probability": 0.00796091,
+      "team": "TEN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Kalel Mullings",
+      "position": "RB",
+      "predicted_probability": 0.00695054,
+      "team": "TEN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Nick Mullens",
+      "position": "QB",
+      "predicted_probability": 0.00576271,
+      "team": "JAX"
+    }
+  ],
+  "provenance": "Published dashboard snapshot, archived by GitHub Actions before kickoff",
+  "schema_version": 1,
+  "season": 2026,
+  "week": 10
+}
