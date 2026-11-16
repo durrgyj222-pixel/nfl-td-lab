@@ -1,7 +1,7 @@
 {
   "archived_games": 70,
-  "archived_player_rows_in_graded_games": 1976,
-  "brier_on_graded_rows": 0.14308,
+  "archived_player_rows_in_graded_games": 2099,
+  "brier_on_graded_rows": 0.14579,
   "games": [
     {
       "archived_players": 41,
@@ -10,6 +10,36 @@
       "game": "WAS @ NYG",
       "graded_players": 22,
       "scorers": 5,
+      "season": 2026,
+      "week": 10
+    },
+    {
+      "archived_players": 29,
+      "brier_scored_rows": 0.20459,
+      "forecast_generated_at_utc": "2026-11-15T18:47:52Z",
+      "game": "SF @ DAL",
+      "graded_players": 17,
+      "scorers": 6,
+      "season": 2026,
+      "week": 10
+    },
+    {
+      "archived_players": 31,
+      "brier_scored_rows": 0.16718,
+      "forecast_generated_at_utc": "2026-11-15T18:47:52Z",
+      "game": "SEA @ LV",
+      "graded_players": 20,
+      "scorers": 4,
+      "season": 2026,
+      "week": 10
+    },
+    {
+      "archived_players": 32,
+      "brier_scored_rows": 0.19116,
+      "forecast_generated_at_utc": "2026-11-15T18:47:52Z",
+      "game": "PIT @ CIN",
+      "graded_players": 23,
+      "scorers": 6,
       "season": 2026,
       "week": 10
     },
@@ -40,6 +70,16 @@
       "game": "MIA @ IND",
       "graded_players": 22,
       "scorers": 3,
+      "season": 2026,
+      "week": 10
+    },
+    {
+      "archived_players": 31,
+      "brier_scored_rows": 0.21518,
+      "forecast_generated_at_utc": "2026-11-15T18:47:52Z",
+      "game": "LA @ ARI",
+      "graded_players": 16,
+      "scorers": 4,
       "season": 2026,
       "week": 10
     },
@@ -654,12 +694,12 @@
       "week": 6
     }
   ],
-  "generated_at_utc": "2026-11-16T02:57:29Z",
-  "graded_games": 65,
-  "graded_player_rows": 1322,
+  "generated_at_utc": "2026-11-16T23:00:09Z",
+  "graded_games": 69,
+  "graded_player_rows": 1398,
   "important_limitation": "Graded subset requires same-week stat row and excludes flagged OUT players. This is NOT a complete active-roster evaluation; missing rows do NOT equal zero touchdowns.",
   "model": "phase7",
   "schema_version": 1,
-  "scoring_rate_on_graded_rows": 0.19818,
-  "ungraded_player_rows": 654
+  "scoring_rate_on_graded_rows": 0.20172,
+  "ungraded_player_rows": 701
 }

@@ -1,0 +1,333 @@
+{
+  "forecast_generated_at_utc": "2026-11-15T18:47:52Z",
+  "game": "PIT @ CIN",
+  "graded_at_utc": "2026-11-16T23:00:09Z",
+  "kickoff_utc": "2026-11-16T01:20:00Z",
+  "outcome_definition": "at least one rushing or receiving touchdown",
+  "players": [
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Ja'Marr Chase",
+      "position": "WR",
+      "predicted_probability": 0.53233085,
+      "scored_td": 0,
+      "team": "CIN",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Tee Higgins",
+      "position": "WR",
+      "predicted_probability": 0.44461644,
+      "scored_td": 0,
+      "team": "CIN",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Chase Brown",
+      "position": "RB",
+      "predicted_probability": 0.42421051,
+      "scored_td": 1,
+      "team": "CIN",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jaylen Warren",
+      "position": "RB",
+      "predicted_probability": 0.34910063,
+      "scored_td": 0,
+      "team": "PIT",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "DK Metcalf",
+      "position": "WR",
+      "predicted_probability": 0.32501955,
+      "scored_td": 1,
+      "team": "PIT",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Germie Bernard",
+      "position": "WR",
+      "predicted_probability": 0.29347498,
+      "scored_td": 0,
+      "team": "PIT",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Mike Gesicki",
+      "position": "TE",
+      "predicted_probability": 0.25773351,
+      "scored_td": 0,
+      "team": "CIN",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Pat Freiermuth",
+      "position": "TE",
+      "predicted_probability": 0.25277665,
+      "scored_td": 1,
+      "team": "PIT",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Rico Dowdle",
+      "position": "RB",
+      "predicted_probability": 0.24507473,
+      "scored_td": 0,
+      "team": "PIT",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Darnell Washington",
+      "position": "TE",
+      "predicted_probability": 0.22981359,
+      "scored_td": 0,
+      "team": "PIT",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Samaje Perine",
+      "position": "RB",
+      "predicted_probability": 0.21904115,
+      "scored_td": 1,
+      "team": "CIN",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Dohnte Meyers",
+      "position": "WR",
+      "predicted_probability": 0.17882857,
+      "scored_td": 1,
+      "team": "CIN",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Joe Burrow",
+      "position": "QB",
+      "predicted_probability": 0.12841135,
+      "scored_td": 0,
+      "team": "CIN",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Mitchell Tinsley",
+      "position": "WR",
+      "predicted_probability": 0.07010068,
+      "scored_td": null,
+      "team": "CIN",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Erick All",
+      "position": "TE",
+      "predicted_probability": 0.06807067,
+      "scored_td": null,
+      "team": "CIN",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jack Endries",
+      "position": "TE",
+      "predicted_probability": 0.06773762,
+      "scored_td": 0,
+      "team": "CIN",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Roman Wilson",
+      "position": "WR",
+      "predicted_probability": 0.06604319,
+      "scored_td": null,
+      "team": "PIT",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Drew Sample",
+      "position": "TE",
+      "predicted_probability": 0.06553903,
+      "scored_td": 1,
+      "team": "CIN",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Tanner Hudson",
+      "position": "TE",
+      "predicted_probability": 0.0506935,
+      "scored_td": null,
+      "team": "CIN",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Aaron Rodgers",
+      "position": "QB",
+      "predicted_probability": 0.04627369,
+      "scored_td": 0,
+      "team": "PIT",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Michael Pittman",
+      "position": "WR",
+      "predicted_probability": 0.02533945,
+      "scored_td": null,
+      "team": "PIT",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Brandon Smith",
+      "position": "WR",
+      "predicted_probability": 0.02494765,
+      "scored_td": 0,
+      "team": "PIT",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Ben Skowronek",
+      "position": "WR",
+      "predicted_probability": 0.02384327,
+      "scored_td": 0,
+      "team": "PIT",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Tahj Brooks",
+      "position": "RB",
+      "predicted_probability": 0.0217103,
+      "scored_td": 0,
+      "team": "CIN",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Brandon Johnson",
+      "position": "WR",
+      "predicted_probability": 0.01837046,
+      "scored_td": null,
+      "team": "PIT",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Riley Nowakowski",
+      "position": "FB",
+      "predicted_probability": 0.0161148,
+      "scored_td": null,
+      "team": "PIT",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Travis Homer",
+      "position": "RB",
+      "predicted_probability": 0.01299559,
+      "scored_td": 0,
+      "team": "PIT",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Mason Rudolph",
+      "position": "QB",
+      "predicted_probability": 0.01156818,
+      "scored_td": 0,
+      "team": "PIT",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNCERTAIN: DOUBTFUL",
+      "excluded_from_favorites": false,
+      "player": "Andrei Iosivas",
+      "position": "WR",
+      "predicted_probability": 0.01067254,
+      "scored_td": null,
+      "team": "CIN",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Lew Nichols III",
+      "position": "RB",
+      "predicted_probability": 0.00907207,
+      "scored_td": 0,
+      "team": "PIT",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Colbie Young",
+      "position": "WR",
+      "predicted_probability": 0.00795625,
+      "scored_td": null,
+      "team": "CIN",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Robert Tonyan",
+      "position": "TE",
+      "predicted_probability": 0.00547176,
+      "scored_td": 0,
+      "team": "PIT",
+      "verification": "WEEKLY_STAT_ROW"
+    }
+  ],
+  "schema_version": 1,
+  "season": 2026,
+  "validation_note": "Only players with a unique same-week offensive stat row are graded; others remain unverified.",
+  "week": 10
+}

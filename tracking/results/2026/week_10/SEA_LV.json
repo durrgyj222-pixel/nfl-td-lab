@@ -1,0 +1,323 @@
+{
+  "forecast_generated_at_utc": "2026-11-15T18:47:52Z",
+  "game": "SEA @ LV",
+  "graded_at_utc": "2026-11-16T23:00:09Z",
+  "kickoff_utc": "2026-11-15T21:05:00Z",
+  "outcome_definition": "at least one rushing or receiving touchdown",
+  "players": [
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jaxon Smith-Njigba",
+      "position": "WR",
+      "predicted_probability": 0.45123543,
+      "scored_td": 1,
+      "team": "SEA",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Brock Bowers",
+      "position": "TE",
+      "predicted_probability": 0.43996555,
+      "scored_td": 0,
+      "team": "LV",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Ashton Jeanty",
+      "position": "RB",
+      "predicted_probability": 0.40839374,
+      "scored_td": 0,
+      "team": "LV",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Tre Tucker",
+      "position": "WR",
+      "predicted_probability": 0.3494264,
+      "scored_td": 0,
+      "team": "LV",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "AJ Barner",
+      "position": "TE",
+      "predicted_probability": 0.26517552,
+      "scored_td": 0,
+      "team": "SEA",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Michael Mayer",
+      "position": "TE",
+      "predicted_probability": 0.22634634,
+      "scored_td": 0,
+      "team": "LV",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jalen Nailor",
+      "position": "WR",
+      "predicted_probability": 0.21835034,
+      "scored_td": 0,
+      "team": "LV",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Mike Washington Jr.",
+      "position": "RB",
+      "predicted_probability": 0.21792431,
+      "scored_td": 0,
+      "team": "LV",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Cooper Kupp",
+      "position": "WR",
+      "predicted_probability": 0.20972497,
+      "scored_td": 1,
+      "team": "SEA",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Emanuel Wilson",
+      "position": "RB",
+      "predicted_probability": 0.20285278,
+      "scored_td": null,
+      "team": "SEA",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jadarian Price",
+      "position": "RB",
+      "predicted_probability": 0.18409893,
+      "scored_td": 1,
+      "team": "SEA",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Zach Charbonnet",
+      "position": "RB",
+      "predicted_probability": 0.17156298,
+      "scored_td": 0,
+      "team": "SEA",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Tory Horton",
+      "position": "WR",
+      "predicted_probability": 0.1615204,
+      "scored_td": null,
+      "team": "SEA",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "George Holani",
+      "position": "RB",
+      "predicted_probability": 0.13697097,
+      "scored_td": null,
+      "team": "SEA",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Rashid Shaheed",
+      "position": "WR",
+      "predicted_probability": 0.11221102,
+      "scored_td": 0,
+      "team": "SEA",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Cody White",
+      "position": "WR",
+      "predicted_probability": 0.10712025,
+      "scored_td": 0,
+      "team": "LV",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Kirk Cousins",
+      "position": "QB",
+      "predicted_probability": 0.10243081,
+      "scored_td": null,
+      "team": "LV",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jack Bech",
+      "position": "WR",
+      "predicted_probability": 0.07524756,
+      "scored_td": 0,
+      "team": "LV",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Eric Saubert",
+      "position": "TE",
+      "predicted_probability": 0.06132691,
+      "scored_td": null,
+      "team": "SEA",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Drew Lock",
+      "position": "QB",
+      "predicted_probability": 0.0448228,
+      "scored_td": 0,
+      "team": "SEA",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "EXCLUDED: REPORTED OUT",
+      "excluded_from_favorites": true,
+      "player": "Sam Darnold",
+      "position": "QB",
+      "predicted_probability": 0.0417131,
+      "scored_td": null,
+      "team": "SEA",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Dylan Laube",
+      "position": "RB",
+      "predicted_probability": 0.04157365,
+      "scored_td": 0,
+      "team": "LV",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Velus Jones Jr.",
+      "position": "RB",
+      "predicted_probability": 0.04047534,
+      "scored_td": null,
+      "team": "SEA",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Ian Thomas",
+      "position": "TE",
+      "predicted_probability": 0.04038415,
+      "scored_td": 0,
+      "team": "LV",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Malik Benson",
+      "position": "WR",
+      "predicted_probability": 0.03687582,
+      "scored_td": null,
+      "team": "LV",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Connor Heyward",
+      "position": "FB",
+      "predicted_probability": 0.02801702,
+      "scored_td": 0,
+      "team": "LV",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Dareke Young",
+      "position": "WR",
+      "predicted_probability": 0.0198359,
+      "scored_td": 0,
+      "team": "LV",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Brady Russell",
+      "position": "RB",
+      "predicted_probability": 0.01287109,
+      "scored_td": null,
+      "team": "SEA",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Elijah Arroyo",
+      "position": "TE",
+      "predicted_probability": 0.00749403,
+      "scored_td": null,
+      "team": "SEA",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Deven Thompkins",
+      "position": "WR",
+      "predicted_probability": 0.00664,
+      "scored_td": null,
+      "team": "LV",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Fernando Mendoza",
+      "position": "QB",
+      "predicted_probability": 0.00639293,
+      "scored_td": 1,
+      "team": "LV",
+      "verification": "WEEKLY_STAT_ROW"
+    }
+  ],
+  "schema_version": 1,
+  "season": 2026,
+  "validation_note": "Only players with a unique same-week offensive stat row are graded; others remain unverified.",
+  "week": 10
+}

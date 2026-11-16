@@ -1,0 +1,303 @@
+{
+  "forecast_generated_at_utc": "2026-11-15T18:47:52Z",
+  "game": "SF @ DAL",
+  "graded_at_utc": "2026-11-16T23:00:09Z",
+  "kickoff_utc": "2026-11-15T21:25:00Z",
+  "outcome_definition": "at least one rushing or receiving touchdown",
+  "players": [
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Christian McCaffrey",
+      "position": "RB",
+      "predicted_probability": 0.55573378,
+      "scored_td": 1,
+      "team": "SF",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "CeeDee Lamb",
+      "position": "WR",
+      "predicted_probability": 0.53217184,
+      "scored_td": 1,
+      "team": "DAL",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Javonte Williams",
+      "position": "RB",
+      "predicted_probability": 0.48595513,
+      "scored_td": 0,
+      "team": "DAL",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "George Kittle",
+      "position": "TE",
+      "predicted_probability": 0.4191992,
+      "scored_td": 0,
+      "team": "SF",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Kaelon Black",
+      "position": "RB",
+      "predicted_probability": 0.26736441,
+      "scored_td": 1,
+      "team": "SF",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Ryan Flournoy",
+      "position": "WR",
+      "predicted_probability": 0.25105548,
+      "scored_td": 1,
+      "team": "DAL",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "EXCLUDED: REPORTED OUT",
+      "excluded_from_favorites": true,
+      "player": "Tyler Goodson",
+      "position": "RB",
+      "predicted_probability": 0.21580664,
+      "scored_td": null,
+      "team": "DAL",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "George Pickens",
+      "position": "WR",
+      "predicted_probability": 0.21330746,
+      "scored_td": 1,
+      "team": "DAL",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "EXCLUDED: REPORTED OUT",
+      "excluded_from_favorites": true,
+      "player": "Mike Evans",
+      "position": "WR",
+      "predicted_probability": 0.19427529,
+      "scored_td": null,
+      "team": "SF",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Brock Purdy",
+      "position": "QB",
+      "predicted_probability": 0.19328496,
+      "scored_td": 0,
+      "team": "SF",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "EXCLUDED: REPORTED OUT",
+      "excluded_from_favorites": true,
+      "player": "Jake Ferguson",
+      "position": "TE",
+      "predicted_probability": 0.16398116,
+      "scored_td": null,
+      "team": "DAL",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jordan Watkins",
+      "position": "WR",
+      "predicted_probability": 0.15170125,
+      "scored_td": 0,
+      "team": "SF",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Brandin Cooks",
+      "position": "WR",
+      "predicted_probability": 0.13976503,
+      "scored_td": null,
+      "team": "SF",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Brevyn Spann-Ford",
+      "position": "TE",
+      "predicted_probability": 0.13401763,
+      "scored_td": 0,
+      "team": "DAL",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Kyle Juszczyk",
+      "position": "FB",
+      "predicted_probability": 0.13075201,
+      "scored_td": null,
+      "team": "SF",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Dak Prescott",
+      "position": "QB",
+      "predicted_probability": 0.11933743,
+      "scored_td": 0,
+      "team": "DAL",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Demarcus Robinson",
+      "position": "WR",
+      "predicted_probability": 0.1118685,
+      "scored_td": null,
+      "team": "SF",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jacob Cowing",
+      "position": "WR",
+      "predicted_probability": 0.10571955,
+      "scored_td": 0,
+      "team": "SF",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Deebo Samuel Sr.",
+      "position": "WR",
+      "predicted_probability": 0.09217352,
+      "scored_td": 1,
+      "team": "SF",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "EXCLUDED: REPORTED OUT",
+      "excluded_from_favorites": true,
+      "player": "Jonathan Mingo",
+      "position": "WR",
+      "predicted_probability": 0.06208047,
+      "scored_td": null,
+      "team": "DAL",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Luke Farrell",
+      "position": "TE",
+      "predicted_probability": 0.06048923,
+      "scored_td": null,
+      "team": "SF",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jordan James",
+      "position": "RB",
+      "predicted_probability": 0.05743593,
+      "scored_td": 0,
+      "team": "SF",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Mac Jones",
+      "position": "QB",
+      "predicted_probability": 0.04637409,
+      "scored_td": null,
+      "team": "SF",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Hunter Luepke",
+      "position": "RB",
+      "predicted_probability": 0.03478722,
+      "scored_td": 0,
+      "team": "DAL",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "KaVontae Turpin",
+      "position": "WR",
+      "predicted_probability": 0.03077129,
+      "scored_td": 0,
+      "team": "DAL",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "KhaDarel Hodge",
+      "position": "WR",
+      "predicted_probability": 0.02703492,
+      "scored_td": null,
+      "team": "SF",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jordan Hudson",
+      "position": "WR",
+      "predicted_probability": 0.01713531,
+      "scored_td": null,
+      "team": "DAL",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Luke Schoonmaker",
+      "position": "TE",
+      "predicted_probability": 0.00886639,
+      "scored_td": 0,
+      "team": "DAL",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jake Brendel",
+      "position": "C",
+      "predicted_probability": 0.00432795,
+      "scored_td": null,
+      "team": "SF",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    }
+  ],
+  "schema_version": 1,
+  "season": 2026,
+  "validation_note": "Only players with a unique same-week offensive stat row are graded; others remain unverified.",
+  "week": 10
+}
