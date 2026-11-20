@@ -1,8 +1,18 @@
 {
   "archived_games": 83,
-  "archived_player_rows_in_graded_games": 2133,
-  "brier_on_graded_rows": 0.14528,
+  "archived_player_rows_in_graded_games": 2168,
+  "brier_on_graded_rows": 0.14496,
   "games": [
+    {
+      "archived_players": 35,
+      "brier_scored_rows": 0.12326,
+      "forecast_generated_at_utc": "2026-11-19T20:30:03Z",
+      "game": "IND @ HOU",
+      "graded_players": 21,
+      "scorers": 3,
+      "season": 2026,
+      "week": 11
+    },
     {
       "archived_players": 41,
       "brier_scored_rows": 0.16516,
@@ -704,12 +714,12 @@
       "week": 6
     }
   ],
-  "generated_at_utc": "2026-11-19T20:30:17Z",
-  "graded_games": 70,
-  "graded_player_rows": 1417,
+  "generated_at_utc": "2026-11-20T21:30:09Z",
+  "graded_games": 71,
+  "graded_player_rows": 1438,
   "important_limitation": "Graded subset requires same-week stat row and excludes flagged OUT players. This is NOT a complete active-roster evaluation; missing rows do NOT equal zero touchdowns.",
   "model": "phase7",
   "schema_version": 1,
-  "scoring_rate_on_graded_rows": 0.20113,
-  "ungraded_player_rows": 716
+  "scoring_rate_on_graded_rows": 0.20028,
+  "ungraded_player_rows": 730
 }
