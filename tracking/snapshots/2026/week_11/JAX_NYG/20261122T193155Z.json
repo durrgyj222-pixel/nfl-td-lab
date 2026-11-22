@@ -1,0 +1,285 @@
+{
+  "captured_at_utc": "2026-11-22T19:32:08Z",
+  "forecast_generated_at_utc": "2026-11-22T19:31:55Z",
+  "game": "JAX @ NYG",
+  "kickoff_utc": "2026-11-22T21:25:00Z",
+  "model": "phase7",
+  "players": [
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Bhayshul Tuten",
+      "position": "RB",
+      "predicted_probability": 0.46716365,
+      "team": "JAX"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Parker Washington",
+      "position": "WR",
+      "predicted_probability": 0.41689231,
+      "team": "JAX"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Isaiah Likely",
+      "position": "TE",
+      "predicted_probability": 0.37012753,
+      "team": "NYG"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Malik Nabers",
+      "position": "WR",
+      "predicted_probability": 0.35418328,
+      "team": "NYG"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jakobi Meyers",
+      "position": "WR",
+      "predicted_probability": 0.32437332,
+      "team": "JAX"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Cam Skattebo",
+      "position": "RB",
+      "predicted_probability": 0.31243424,
+      "team": "NYG"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Brenton Strange",
+      "position": "TE",
+      "predicted_probability": 0.22419866,
+      "team": "JAX"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Chris Rodriguez Jr.",
+      "position": "RB",
+      "predicted_probability": 0.22110748,
+      "team": "JAX"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Malachi Fields",
+      "position": "WR",
+      "predicted_probability": 0.20938742,
+      "team": "NYG"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Devin Singletary",
+      "position": "RB",
+      "predicted_probability": 0.20019075,
+      "team": "NYG"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Brian Thomas Jr.",
+      "position": "WR",
+      "predicted_probability": 0.17438991,
+      "team": "JAX"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Nate Boerkircher",
+      "position": "TE",
+      "predicted_probability": 0.16010811,
+      "team": "JAX"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Darnell Mooney",
+      "position": "WR",
+      "predicted_probability": 0.1476252,
+      "team": "NYG"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Josh Cameron",
+      "position": "WR",
+      "predicted_probability": 0.14193519,
+      "team": "JAX"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Travis Hunter",
+      "position": "CB",
+      "predicted_probability": 0.12554435,
+      "team": "JAX"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jameis Winston",
+      "position": "QB",
+      "predicted_probability": 0.09248666,
+      "team": "NYG"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Trevor Lawrence",
+      "position": "QB",
+      "predicted_probability": 0.09198371,
+      "team": "JAX"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Tyrone Tracy Jr.",
+      "position": "RB",
+      "predicted_probability": 0.08885051,
+      "team": "NYG"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "J.J. McCarthy",
+      "position": "QB",
+      "predicted_probability": 0.0851313,
+      "team": "NYG"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Ameer Abdullah",
+      "position": "RB",
+      "predicted_probability": 0.07879841,
+      "team": "JAX"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Theo Johnson",
+      "position": "TE",
+      "predicted_probability": 0.07868154,
+      "team": "NYG"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Tanner Koziol",
+      "position": "TE",
+      "predicted_probability": 0.06170809,
+      "team": "JAX"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "LeQuint Allen Jr.",
+      "position": "RB",
+      "predicted_probability": 0.05478112,
+      "team": "JAX"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Najee Harris",
+      "position": "RB",
+      "predicted_probability": 0.03549093,
+      "team": "NYG"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Charlie Jones",
+      "position": "WR",
+      "predicted_probability": 0.02959969,
+      "team": "NYG"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Gregory Desrosiers",
+      "position": "RB",
+      "predicted_probability": 0.02344152,
+      "team": "NYG"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Quintin Morris",
+      "position": "TE",
+      "predicted_probability": 0.01776297,
+      "team": "JAX"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jalin Hyatt",
+      "position": "WR",
+      "predicted_probability": 0.01374409,
+      "team": "NYG"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jaxson Dart",
+      "position": "QB",
+      "predicted_probability": 0.01134602,
+      "team": "NYG"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Thomas Fidone II",
+      "position": "TE",
+      "predicted_probability": 0.01107959,
+      "team": "NYG"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Patrick Ricard",
+      "position": "RB",
+      "predicted_probability": 0.00575035,
+      "team": "NYG"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Braxton Berrios",
+      "position": "WR",
+      "predicted_probability": 0.00508589,
+      "team": "NYG"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Nick Mullens",
+      "position": "QB",
+      "predicted_probability": 0.00501775,
+      "team": "JAX"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Odell Beckham Jr.",
+      "position": "WR",
+      "predicted_probability": 0.00456177,
+      "team": "NYG"
+    }
+  ],
+  "provenance": "Published dashboard snapshot, archived by GitHub Actions before kickoff",
+  "schema_version": 1,
+  "season": 2026,
+  "week": 11
+}
