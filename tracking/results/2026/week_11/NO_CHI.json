@@ -1,0 +1,333 @@
+{
+  "forecast_generated_at_utc": "2026-11-21T19:09:49Z",
+  "game": "NO @ CHI",
+  "graded_at_utc": "2026-11-23T03:54:54Z",
+  "kickoff_utc": "2026-11-22T18:00:00Z",
+  "outcome_definition": "at least one rushing or receiving touchdown",
+  "players": [
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "D'Andre Swift",
+      "position": "RB",
+      "predicted_probability": 0.54849942,
+      "scored_td": 1,
+      "team": "CHI",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Chris Olave",
+      "position": "WR",
+      "predicted_probability": 0.34494718,
+      "scored_td": 0,
+      "team": "NO",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Luther Burden III",
+      "position": "WR",
+      "predicted_probability": 0.30939957,
+      "scored_td": 0,
+      "team": "CHI",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Alvin Kamara",
+      "position": "RB",
+      "predicted_probability": 0.30731567,
+      "scored_td": 1,
+      "team": "NO",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Colston Loveland",
+      "position": "TE",
+      "predicted_probability": 0.28561415,
+      "scored_td": 1,
+      "team": "CHI",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Devaughn Vele",
+      "position": "WR",
+      "predicted_probability": 0.22383257,
+      "scored_td": 0,
+      "team": "NO",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Rome Odunze",
+      "position": "WR",
+      "predicted_probability": 0.21563328,
+      "scored_td": 0,
+      "team": "CHI",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Juwan Johnson",
+      "position": "TE",
+      "predicted_probability": 0.20690812,
+      "scored_td": 0,
+      "team": "NO",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Caleb Williams",
+      "position": "QB",
+      "predicted_probability": 0.1930671,
+      "scored_td": 0,
+      "team": "CHI",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Kalif Raymond",
+      "position": "WR",
+      "predicted_probability": 0.17641915,
+      "scored_td": 0,
+      "team": "CHI",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Tyler Shough",
+      "position": "QB",
+      "predicted_probability": 0.1714172,
+      "scored_td": 0,
+      "team": "NO",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jordyn Tyson",
+      "position": "WR",
+      "predicted_probability": 0.16984689,
+      "scored_td": 0,
+      "team": "NO",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Roschon Johnson",
+      "position": "RB",
+      "predicted_probability": 0.15837765,
+      "scored_td": null,
+      "team": "CHI",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Kendre Miller",
+      "position": "RB",
+      "predicted_probability": 0.15096993,
+      "scored_td": null,
+      "team": "NO",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Travis Etienne",
+      "position": "RB",
+      "predicted_probability": 0.14975674,
+      "scored_td": 0,
+      "team": "NO",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Audric Estime",
+      "position": "RB",
+      "predicted_probability": 0.14482696,
+      "scored_td": null,
+      "team": "NO",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Noah Fant",
+      "position": "TE",
+      "predicted_probability": 0.13620502,
+      "scored_td": 0,
+      "team": "NO",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Bryce Lance",
+      "position": "WR",
+      "predicted_probability": 0.11609676,
+      "scored_td": 0,
+      "team": "NO",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNCERTAIN: QUESTIONABLE",
+      "excluded_from_favorites": false,
+      "player": "Zavion Thomas",
+      "position": "WR",
+      "predicted_probability": 0.06472107,
+      "scored_td": 0,
+      "team": "CHI",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Kyle Monangai",
+      "position": "RB",
+      "predicted_probability": 0.06407537,
+      "scored_td": 0,
+      "team": "CHI",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Cole Kmet",
+      "position": "TE",
+      "predicted_probability": 0.05850645,
+      "scored_td": null,
+      "team": "CHI",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Salvon Ahmed",
+      "position": "RB",
+      "predicted_probability": 0.0538679,
+      "scored_td": 0,
+      "team": "CHI",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Barion Brown",
+      "position": "WR",
+      "predicted_probability": 0.05205879,
+      "scored_td": 0,
+      "team": "NO",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jahdae Walker",
+      "position": "WR",
+      "predicted_probability": 0.0373546,
+      "scored_td": 0,
+      "team": "CHI",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Sam Roush",
+      "position": "TE",
+      "predicted_probability": 0.03619047,
+      "scored_td": 0,
+      "team": "CHI",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "CJ Donaldson",
+      "position": "RB",
+      "predicted_probability": 0.03534414,
+      "scored_td": 0,
+      "team": "NO",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Oscar Delp",
+      "position": "TE",
+      "predicted_probability": 0.02902706,
+      "scored_td": 0,
+      "team": "NO",
+      "verification": "WEEKLY_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Case Keenum",
+      "position": "QB",
+      "predicted_probability": 0.02413707,
+      "scored_td": null,
+      "team": "CHI",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Tyson Bagent",
+      "position": "QB",
+      "predicted_probability": 0.01662682,
+      "scored_td": null,
+      "team": "CHI",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Zamir White",
+      "position": "RB",
+      "predicted_probability": 0.00994166,
+      "scored_td": null,
+      "team": "NO",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Treyton Welch",
+      "position": "TE",
+      "predicted_probability": 0.00534994,
+      "scored_td": null,
+      "team": "NO",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Kevin Austin Jr.",
+      "position": "WR",
+      "predicted_probability": 0.00456475,
+      "scored_td": null,
+      "team": "NO",
+      "verification": "UNVERIFIED_NO_UNIQUE_STAT_ROW"
+    }
+  ],
+  "schema_version": 1,
+  "season": 2026,
+  "validation_note": "Only players with a unique same-week offensive stat row are graded; others remain unverified.",
+  "week": 11
+}
