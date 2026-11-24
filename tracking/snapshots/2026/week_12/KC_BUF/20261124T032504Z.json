@@ -1,0 +1,309 @@
+{
+  "captured_at_utc": "2026-11-24T03:25:18Z",
+  "forecast_generated_at_utc": "2026-11-24T03:25:04Z",
+  "game": "KC @ BUF",
+  "kickoff_utc": "2026-11-27T01:20:00Z",
+  "model": "phase7",
+  "players": [
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "James Cook",
+      "position": "RB",
+      "predicted_probability": 0.58698873,
+      "team": "BUF"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Emmett Johnson",
+      "position": "RB",
+      "predicted_probability": 0.38439792,
+      "team": "KC"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "DJ Moore",
+      "position": "WR",
+      "predicted_probability": 0.34159376,
+      "team": "BUF"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Kenneth Walker III",
+      "position": "RB",
+      "predicted_probability": 0.34050305,
+      "team": "KC"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Travis Kelce",
+      "position": "TE",
+      "predicted_probability": 0.30253248,
+      "team": "KC"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Rashee Rice",
+      "position": "WR",
+      "predicted_probability": 0.29423829,
+      "team": "KC"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Xavier Worthy",
+      "position": "WR",
+      "predicted_probability": 0.28491602,
+      "team": "KC"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Josh Allen",
+      "position": "QB",
+      "predicted_probability": 0.28004695,
+      "team": "BUF"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Khalil Shakir",
+      "position": "WR",
+      "predicted_probability": 0.25034719,
+      "team": "BUF"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Keon Coleman",
+      "position": "WR",
+      "predicted_probability": 0.20090039,
+      "team": "BUF"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Noah Gray",
+      "position": "TE",
+      "predicted_probability": 0.16108819,
+      "team": "KC"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Cyrus Allen",
+      "position": "WR",
+      "predicted_probability": 0.15403699,
+      "team": "KC"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Dalton Kincaid",
+      "position": "TE",
+      "predicted_probability": 0.15302481,
+      "team": "BUF"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Dawson Knox",
+      "position": "TE",
+      "predicted_probability": 0.14740463,
+      "team": "BUF"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Ty Johnson",
+      "position": "RB",
+      "predicted_probability": 0.14700454,
+      "team": "BUF"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Josh Downs",
+      "position": "WR",
+      "predicted_probability": 0.13640003,
+      "team": "KC"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Ray Davis",
+      "position": "RB",
+      "predicted_probability": 0.10134211,
+      "team": "BUF"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jalen Royals",
+      "position": "WR",
+      "predicted_probability": 0.09627574,
+      "team": "KC"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Patrick Mahomes",
+      "position": "QB",
+      "predicted_probability": 0.08723162,
+      "team": "KC"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Kyle Allen",
+      "position": "QB",
+      "predicted_probability": 0.07497239,
+      "team": "BUF"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Keleki Latu",
+      "position": "TE",
+      "predicted_probability": 0.07024522,
+      "team": "BUF"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Andrew Armstrong",
+      "position": "WR",
+      "predicted_probability": 0.06420191,
+      "team": "KC"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jake Briningstool",
+      "position": "TE",
+      "predicted_probability": 0.06341993,
+      "team": "KC"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jaydn Ott",
+      "position": "RB",
+      "predicted_probability": 0.05434536,
+      "team": "KC"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Josh Palmer",
+      "position": "WR",
+      "predicted_probability": 0.04611603,
+      "team": "BUF"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Justin Fields",
+      "position": "QB",
+      "predicted_probability": 0.04514315,
+      "team": "KC"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Tyquan Thornton",
+      "position": "WR",
+      "predicted_probability": 0.03137539,
+      "team": "KC"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jackson Hawes",
+      "position": "TE",
+      "predicted_probability": 0.0308781,
+      "team": "BUF"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Tyrell Shavers",
+      "position": "WR",
+      "predicted_probability": 0.02772184,
+      "team": "BUF"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Nate Carter",
+      "position": "RB",
+      "predicted_probability": 0.02571074,
+      "team": "KC"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Greg Dortch",
+      "position": "WR",
+      "predicted_probability": 0.01357501,
+      "team": "BUF"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Khyiris Tonga",
+      "position": "DT",
+      "predicted_probability": 0.01102454,
+      "team": "KC"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Matt Araiza",
+      "position": "P",
+      "predicted_probability": 0.01102454,
+      "team": "KC"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Skyler Bell",
+      "position": "WR",
+      "predicted_probability": 0.00892844,
+      "team": "BUF"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Justin Watson",
+      "position": "WR",
+      "predicted_probability": 0.00666389,
+      "team": "KC"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Frank Gore Jr.",
+      "position": "RB",
+      "predicted_probability": 0.00356876,
+      "team": "BUF"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Brashard Smith",
+      "position": "RB",
+      "predicted_probability": 0.00352893,
+      "team": "KC"
+    }
+  ],
+  "provenance": "Published dashboard snapshot, archived by GitHub Actions before kickoff",
+  "schema_version": 1,
+  "season": 2026,
+  "week": 12
+}

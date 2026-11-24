@@ -1,0 +1,285 @@
+{
+  "captured_at_utc": "2026-11-24T03:25:18Z",
+  "forecast_generated_at_utc": "2026-11-24T03:25:04Z",
+  "game": "DEN @ PIT",
+  "kickoff_utc": "2026-11-27T20:00:00Z",
+  "model": "phase7",
+  "players": [
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jonah Coleman",
+      "position": "RB",
+      "predicted_probability": 0.40317683,
+      "team": "DEN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jaylen Warren",
+      "position": "RB",
+      "predicted_probability": 0.30884532,
+      "team": "PIT"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "DK Metcalf",
+      "position": "WR",
+      "predicted_probability": 0.27625231,
+      "team": "PIT"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Germie Bernard",
+      "position": "WR",
+      "predicted_probability": 0.26108848,
+      "team": "PIT"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jaylen Waddle",
+      "position": "WR",
+      "predicted_probability": 0.2437212,
+      "team": "DEN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Pat Freiermuth",
+      "position": "TE",
+      "predicted_probability": 0.24228745,
+      "team": "PIT"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "J.K. Dobbins",
+      "position": "RB",
+      "predicted_probability": 0.23062157,
+      "team": "DEN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Courtland Sutton",
+      "position": "WR",
+      "predicted_probability": 0.23004345,
+      "team": "DEN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Rico Dowdle",
+      "position": "RB",
+      "predicted_probability": 0.22546204,
+      "team": "PIT"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Darnell Washington",
+      "position": "TE",
+      "predicted_probability": 0.18859188,
+      "team": "PIT"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Evan Engram",
+      "position": "TE",
+      "predicted_probability": 0.18522,
+      "team": "DEN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Bo Nix",
+      "position": "QB",
+      "predicted_probability": 0.1721841,
+      "team": "DEN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Roman Wilson",
+      "position": "WR",
+      "predicted_probability": 0.14882598,
+      "team": "PIT"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Pat Bryant",
+      "position": "WR",
+      "predicted_probability": 0.14214254,
+      "team": "DEN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Marvin Mims Jr.",
+      "position": "WR",
+      "predicted_probability": 0.11847659,
+      "team": "DEN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Nate Adkins",
+      "position": "TE",
+      "predicted_probability": 0.10989221,
+      "team": "DEN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Max Hurleman",
+      "position": "WR",
+      "predicted_probability": 0.10735074,
+      "team": "PIT"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Adam Trautman",
+      "position": "TE",
+      "predicted_probability": 0.10440907,
+      "team": "DEN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Troy Franklin",
+      "position": "WR",
+      "predicted_probability": 0.09775413,
+      "team": "DEN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "RJ Harvey",
+      "position": "RB",
+      "predicted_probability": 0.06544806,
+      "team": "DEN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Aaron Rodgers",
+      "position": "QB",
+      "predicted_probability": 0.0558374,
+      "team": "PIT"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Ben Skowronek",
+      "position": "WR",
+      "predicted_probability": 0.05488227,
+      "team": "PIT"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Brandon Smith",
+      "position": "WR",
+      "predicted_probability": 0.04381501,
+      "team": "PIT"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Lew Nichols III",
+      "position": "RB",
+      "predicted_probability": 0.0396329,
+      "team": "PIT"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Adam Prentice",
+      "position": "FB",
+      "predicted_probability": 0.02797554,
+      "team": "DEN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Lil'Jordan Humphrey",
+      "position": "WR",
+      "predicted_probability": 0.0229522,
+      "team": "DEN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Robert Tonyan",
+      "position": "TE",
+      "predicted_probability": 0.01746748,
+      "team": "PIT"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Tyler Badie",
+      "position": "RB",
+      "predicted_probability": 0.01664298,
+      "team": "DEN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Riley Nowakowski",
+      "position": "FB",
+      "predicted_probability": 0.01492929,
+      "team": "PIT"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Michael Pittman",
+      "position": "WR",
+      "predicted_probability": 0.01492681,
+      "team": "PIT"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Mason Rudolph",
+      "position": "QB",
+      "predicted_probability": 0.01360982,
+      "team": "PIT"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Travis Homer",
+      "position": "RB",
+      "predicted_probability": 0.01316803,
+      "team": "PIT"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Brandon Johnson",
+      "position": "WR",
+      "predicted_probability": 0.01181115,
+      "team": "PIT"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Cody Schrader",
+      "position": "RB",
+      "predicted_probability": 0.01180454,
+      "team": "DEN"
+    }
+  ],
+  "provenance": "Published dashboard snapshot, archived by GitHub Actions before kickoff",
+  "schema_version": 1,
+  "season": 2026,
+  "week": 12
+}
