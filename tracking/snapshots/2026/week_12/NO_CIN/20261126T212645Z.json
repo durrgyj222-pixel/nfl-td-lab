@@ -1,0 +1,269 @@
+{
+  "captured_at_utc": "2026-11-26T21:26:58Z",
+  "forecast_generated_at_utc": "2026-11-26T21:26:45Z",
+  "game": "NO @ CIN",
+  "kickoff_utc": "2026-11-29T18:00:00Z",
+  "model": "phase7",
+  "players": [
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Ja'Marr Chase",
+      "position": "WR",
+      "predicted_probability": 0.5071112,
+      "team": "CIN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Chase Brown",
+      "position": "RB",
+      "predicted_probability": 0.44247849,
+      "team": "CIN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Tee Higgins",
+      "position": "WR",
+      "predicted_probability": 0.40353477,
+      "team": "CIN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Chris Olave",
+      "position": "WR",
+      "predicted_probability": 0.3484682,
+      "team": "NO"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Alvin Kamara",
+      "position": "RB",
+      "predicted_probability": 0.28518689,
+      "team": "NO"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Samaje Perine",
+      "position": "RB",
+      "predicted_probability": 0.26068984,
+      "team": "CIN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Mike Gesicki",
+      "position": "TE",
+      "predicted_probability": 0.25974573,
+      "team": "CIN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Devaughn Vele",
+      "position": "WR",
+      "predicted_probability": 0.23331148,
+      "team": "NO"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Travis Etienne",
+      "position": "RB",
+      "predicted_probability": 0.1911287,
+      "team": "NO"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Juwan Johnson",
+      "position": "TE",
+      "predicted_probability": 0.18657198,
+      "team": "NO"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Dohnte Meyers",
+      "position": "WR",
+      "predicted_probability": 0.17817451,
+      "team": "CIN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jordyn Tyson",
+      "position": "WR",
+      "predicted_probability": 0.17439678,
+      "team": "NO"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Tyler Shough",
+      "position": "QB",
+      "predicted_probability": 0.16559514,
+      "team": "NO"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Noah Fant",
+      "position": "TE",
+      "predicted_probability": 0.16502256,
+      "team": "NO"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Jack Endries",
+      "position": "TE",
+      "predicted_probability": 0.13877093,
+      "team": "CIN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Joe Burrow",
+      "position": "QB",
+      "predicted_probability": 0.12148233,
+      "team": "CIN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Audric Estime",
+      "position": "RB",
+      "predicted_probability": 0.11959132,
+      "team": "NO"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Drew Sample",
+      "position": "TE",
+      "predicted_probability": 0.11701638,
+      "team": "CIN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Bryce Lance",
+      "position": "WR",
+      "predicted_probability": 0.09344905,
+      "team": "NO"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Kendre Miller",
+      "position": "RB",
+      "predicted_probability": 0.07486058,
+      "team": "NO"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "CJ Donaldson",
+      "position": "RB",
+      "predicted_probability": 0.07194378,
+      "team": "NO"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Colbie Young",
+      "position": "WR",
+      "predicted_probability": 0.06758525,
+      "team": "CIN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Barion Brown",
+      "position": "WR",
+      "predicted_probability": 0.05214614,
+      "team": "NO"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Mitchell Tinsley",
+      "position": "WR",
+      "predicted_probability": 0.03839981,
+      "team": "CIN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Oscar Delp",
+      "position": "TE",
+      "predicted_probability": 0.03078323,
+      "team": "NO"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Tahj Brooks",
+      "position": "RB",
+      "predicted_probability": 0.02835588,
+      "team": "CIN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Tanner Hudson",
+      "position": "TE",
+      "predicted_probability": 0.02314892,
+      "team": "CIN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Erick All",
+      "position": "TE",
+      "predicted_probability": 0.02290555,
+      "team": "CIN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Andrei Iosivas",
+      "position": "WR",
+      "predicted_probability": 0.00924819,
+      "team": "CIN"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Zamir White",
+      "position": "RB",
+      "predicted_probability": 0.0082554,
+      "team": "NO"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Kevin Austin Jr.",
+      "position": "WR",
+      "predicted_probability": 0.00458277,
+      "team": "NO"
+    },
+    {
+      "availability": "UNKNOWN / NOT VERIFIED",
+      "excluded_from_favorites": false,
+      "player": "Treyton Welch",
+      "position": "TE",
+      "predicted_probability": 0.0044618,
+      "team": "NO"
+    }
+  ],
+  "provenance": "Published dashboard snapshot, archived by GitHub Actions before kickoff",
+  "schema_version": 1,
+  "season": 2026,
+  "week": 12
+}
