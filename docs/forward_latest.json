@@ -1,7 +1,7 @@
 {
   "archived_games": 99,
-  "archived_player_rows_in_graded_games": 2609,
-  "brier_on_graded_rows": 0.14221,
+  "archived_player_rows_in_graded_games": 2638,
+  "brier_on_graded_rows": 0.1419,
   "games": [
     {
       "archived_players": 33,
@@ -10,6 +10,16 @@
       "game": "GB @ LA",
       "graded_players": 20,
       "scorers": 3,
+      "season": 2026,
+      "week": 12
+    },
+    {
+      "archived_players": 29,
+      "brier_scored_rows": 0.11821,
+      "forecast_generated_at_utc": "2026-11-24T03:25:04Z",
+      "game": "CHI @ DET",
+      "graded_players": 23,
+      "scorers": 5,
       "season": 2026,
       "week": 12
     },
@@ -792,24 +802,14 @@
       "scorers": 4,
       "season": 2026,
       "week": 6
-    },
-    {
-      "archived_players": 28,
-      "brier_scored_rows": 0.18154,
-      "forecast_generated_at_utc": "2026-10-18T15:49:30Z",
-      "game": "CHI @ ATL",
-      "graded_players": 21,
-      "scorers": 5,
-      "season": 2026,
-      "week": 6
     }
   ],
-  "generated_at_utc": "2026-11-26T21:26:58Z",
-  "graded_games": 84,
-  "graded_player_rows": 1722,
+  "generated_at_utc": "2026-11-27T05:16:23Z",
+  "graded_games": 85,
+  "graded_player_rows": 1745,
   "important_limitation": "Graded subset requires same-week stat row and excludes flagged OUT players. This is NOT a complete active-roster evaluation; missing rows do NOT equal zero touchdowns.",
   "model": "phase7",
   "schema_version": 1,
-  "scoring_rate_on_graded_rows": 0.19744,
-  "ungraded_player_rows": 887
+  "scoring_rate_on_graded_rows": 0.19771,
+  "ungraded_player_rows": 893
 }
